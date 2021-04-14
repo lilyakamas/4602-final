@@ -1,0 +1,5539 @@
+Time,County,Sales,Type
+2014-01,Adams,683098.0,Medical
+2014-01,Adams,,Recreational
+2014-01,Alamosa,,Medical
+2014-01,Arapahoe,1188232.0,Medical
+2014-01,Archuleta,,Medical
+2014-01,Boulder,3417873.0,Medical
+2014-01,Chaffee,83714.0,Medical
+2014-01,Clear Creek,143736.0,Medical
+2014-01,Clear Creek,459640.0,Recreational
+2014-01,Costilla,,Medical
+2014-01,Denver,15351083.0,Medical
+2014-01,Denver,8482593.0,Recreational
+2014-01,Eagle,203060.0,Medical
+2014-01,El Paso,4923633.0,Medical
+2014-01,Fremont,134388.0,Medical
+2014-01,Garfield,396086.0,Medical
+2014-01,Garfield,,Recreational
+2014-01,Gilpin,28798.0,Medical
+2014-01,Gilpin,197379.0,Recreational
+2014-01,Grand,,Medical
+2014-01,Gunnison,36244.0,Medical
+2014-01,Gunnison,,Recreational
+2014-01,Jefferson,1979386.0,Medical
+2014-01,Jefferson,853675.0,Recreational
+2014-01,La Plata,523193.0,Medical
+2014-01,Lake,,Recreational
+2014-01,Larimer,964948.0,Medical
+2014-01,Mesa,,Medical
+2014-01,Moffat,,Medical
+2014-01,Montezuma,100634.0,Medical
+2014-01,Montrose,,Medical
+2014-01,Ouray,,Medical
+2014-01,Ouray,,Recreational
+2014-01,Park,,Medical
+2014-01,Park,,Recreational
+2014-01,Pitkin,194865.0,Medical
+2014-01,Pueblo,419894.0,Medical
+2014-01,Pueblo,,Recreational
+2014-01,Routt,239509.0,Medical
+2014-01,Routt,,Recreational
+2014-01,San Miguel,164384.0,Medical
+2014-01,San Miguel,338934.0,Recreational
+2014-01,Sedgwick,,Medical
+2014-01,Summit,271441.0,Medical
+2014-01,Summit,1274208.0,Recreational
+2014-01,Teller,,Medical
+2014-01,Weld,657150.0,Medical
+2014-01,Weld,,Recreational
+2014-02,Adams,454940.0,Medical
+2014-02,Adams,,Recreational
+2014-02,Alamosa,,Medical
+2014-02,Arapahoe,1210155.0,Medical
+2014-02,Archuleta,,Medical
+2014-02,Boulder,3345413.0,Medical
+2014-02,Boulder,,Recreational
+2014-02,Chaffee,,Medical
+2014-02,Clear Creek,111164.0,Medical
+2014-02,Clear Creek,445976.0,Recreational
+2014-02,Costilla,,Medical
+2014-02,Denver,14680476.0,Medical
+2014-02,Denver,8349069.0,Recreational
+2014-02,Eagle,185360.0,Medical
+2014-02,El Paso,5116438.0,Medical
+2014-02,Fremont,215839.0,Medical
+2014-02,Garfield,373432.0,Medical
+2014-02,Garfield,,Recreational
+2014-02,Gilpin,32325.0,Medical
+2014-02,Gilpin,113337.0,Recreational
+2014-02,Grand,,Medical
+2014-02,Gunnison,,Medical
+2014-02,Gunnison,,Recreational
+2014-02,Jefferson,2044484.0,Medical
+2014-02,Jefferson,880367.0,Recreational
+2014-02,La Plata,521985.0,Medical
+2014-02,Lake,,Recreational
+2014-02,Larimer,1009841.0,Medical
+2014-02,Mesa,,Medical
+2014-02,Moffat,,Medical
+2014-02,Montezuma,103266.0,Medical
+2014-02,Montrose,,Medical
+2014-02,Ouray,,Medical
+2014-02,Ouray,,Recreational
+2014-02,Park,,Medical
+2014-02,Park,,Recreational
+2014-02,Pitkin,161237.0,Medical
+2014-02,Pueblo,418489.0,Medical
+2014-02,Pueblo,823156.0,Recreational
+2014-02,Routt,209165.0,Medical
+2014-02,Routt,,Recreational
+2014-02,San Miguel,94099.0,Medical
+2014-02,San Miguel,230470.0,Recreational
+2014-02,Sedgwick,,Medical
+2014-02,Summit,244818.0,Medical
+2014-02,Summit,1063383.0,Recreational
+2014-02,Teller,,Medical
+2014-02,Weld,671024.0,Medical
+2014-02,Weld,,Recreational
+2014-03,Adams,477275.0,Medical
+2014-03,Adams,,Recreational
+2014-03,Alamosa,,Medical
+2014-03,Arapahoe,1490219.0,Medical
+2014-03,Archuleta,,Medical
+2014-03,Boulder,3505875.0,Medical
+2014-03,Boulder,1396479.0,Recreational
+2014-03,Chaffee,,Medical
+2014-03,Clear Creek,106955.0,Medical
+2014-03,Clear Creek,524541.0,Recreational
+2014-03,Costilla,,Medical
+2014-03,Denver,16102218.0,Medical
+2014-03,Denver,10746117.0,Recreational
+2014-03,Eagle,201147.0,Medical
+2014-03,El Paso,5929766.0,Medical
+2014-03,Fremont,222270.0,Medical
+2014-03,Garfield,401766.0,Medical
+2014-03,Garfield,,Recreational
+2014-03,Gilpin,33416.0,Medical
+2014-03,Gilpin,131685.0,Recreational
+2014-03,Grand,,Medical
+2014-03,Gunnison,,Medical
+2014-03,Gunnison,,Recreational
+2014-03,Jefferson,2014285.0,Medical
+2014-03,Jefferson,1056723.0,Recreational
+2014-03,La Plata,587114.0,Medical
+2014-03,Lake,,Recreational
+2014-03,Larimer,1234344.0,Medical
+2014-03,Mesa,,Medical
+2014-03,Moffat,,Medical
+2014-03,Montezuma,,Medical
+2014-03,Montrose,,Medical
+2014-03,Ouray,,Medical
+2014-03,Ouray,,Recreational
+2014-03,Park,,Medical
+2014-03,Park,,Recreational
+2014-03,Pitkin,157541.0,Medical
+2014-03,Pitkin,,Recreational
+2014-03,Pueblo,375711.0,Medical
+2014-03,Pueblo,1196018.0,Recreational
+2014-03,Routt,214650.0,Medical
+2014-03,Routt,,Recreational
+2014-03,Saguache,,Medical
+2014-03,San Miguel,75215.0,Medical
+2014-03,San Miguel,319620.0,Recreational
+2014-03,Sedgwick,,Medical
+2014-03,Summit,253937.0,Medical
+2014-03,Summit,1427935.0,Recreational
+2014-03,Teller,,Medical
+2014-03,Weld,580961.0,Medical
+2014-03,Weld,,Recreational
+2014-04,Adams,452636.0,Medical
+2014-04,Adams,,Recreational
+2014-04,Alamosa,,Medical
+2014-04,Arapahoe,1517828.0,Medical
+2014-04,Archuleta,,Medical
+2014-04,Boulder,3136133.0,Medical
+2014-04,Boulder,1835900.0,Recreational
+2014-04,Chaffee,,Medical
+2014-04,Clear Creek,92791.0,Medical
+2014-04,Clear Creek,369117.0,Recreational
+2014-04,Costilla,,Medical
+2014-04,Denver,15064678.0,Medical
+2014-04,Denver,12005332.0,Recreational
+2014-04,Eagle,178397.0,Medical
+2014-04,El Paso,5535184.0,Medical
+2014-04,Fremont,225243.0,Medical
+2014-04,Garfield,371447.0,Medical
+2014-04,Garfield,,Recreational
+2014-04,Gilpin,43162.0,Medical
+2014-04,Gilpin,114408.0,Recreational
+2014-04,Grand,,Medical
+2014-04,Gunnison,,Medical
+2014-04,Gunnison,,Recreational
+2014-04,Jefferson,2039086.0,Medical
+2014-04,Jefferson,1368618.0,Recreational
+2014-04,La Plata,613521.0,Medical
+2014-04,Lake,,Recreational
+2014-04,Larimer,1162178.0,Medical
+2014-04,Larimer,,Recreational
+2014-04,Mesa,,Medical
+2014-04,Moffat,,Medical
+2014-04,Montezuma,108703.0,Medical
+2014-04,Montrose,,Medical
+2014-04,Ouray,,Medical
+2014-04,Ouray,,Recreational
+2014-04,Park,,Medical
+2014-04,Park,,Recreational
+2014-04,Pitkin,123525.0,Medical
+2014-04,Pitkin,227021.0,Recreational
+2014-04,Pueblo,401959.0,Medical
+2014-04,Pueblo,1132339.0,Recreational
+2014-04,Routt,186308.0,Medical
+2014-04,Routt,,Recreational
+2014-04,San Miguel,64107.0,Medical
+2014-04,San Miguel,188733.0,Recreational
+2014-04,Sedgwick,,Medical
+2014-04,Summit,243097.0,Medical
+2014-04,Summit,757131.0,Recreational
+2014-04,Teller,,Medical
+2014-04,Weld,519545.0,Medical
+2014-04,Weld,521853.0,Recreational
+2014-05,Adams,467977.0,Medical
+2014-05,Adams,,Recreational
+2014-05,Alamosa,,Medical
+2014-05,Arapahoe,1511922.0,Medical
+2014-05,Archuleta,,Medical
+2014-05,Boulder,2823124.0,Medical
+2014-05,Boulder,2354205.0,Recreational
+2014-05,Chaffee,88974.0,Medical
+2014-05,Clear Creek,97349.0,Medical
+2014-05,Clear Creek,320076.0,Recreational
+2014-05,Costilla,,Medical
+2014-05,Denver,14150620.0,Medical
+2014-05,Denver,11300905.0,Recreational
+2014-05,Eagle,146126.0,Medical
+2014-05,Eagle,,Recreational
+2014-05,El Paso,5518910.0,Medical
+2014-05,Fremont,239918.0,Medical
+2014-05,Garfield,434235.0,Medical
+2014-05,Garfield,292839.0,Recreational
+2014-05,Gilpin,42979.0,Medical
+2014-05,Gilpin,116815.0,Recreational
+2014-05,Grand,,Medical
+2014-05,Gunnison,,Medical
+2014-05,Gunnison,,Recreational
+2014-05,Jefferson,2037535.0,Medical
+2014-05,Jefferson,1435895.0,Recreational
+2014-05,La Plata,561810.0,Medical
+2014-05,Lake,,Recreational
+2014-05,Larimer,1116171.0,Medical
+2014-05,Larimer,,Recreational
+2014-05,Mesa,,Medical
+2014-05,Moffat,,Medical
+2014-05,Montezuma,120385.0,Medical
+2014-05,Montrose,,Medical
+2014-05,Ouray,,Medical
+2014-05,Ouray,,Recreational
+2014-05,Park,,Medical
+2014-05,Park,,Recreational
+2014-05,Pitkin,95001.0,Medical
+2014-05,Pitkin,185390.0,Recreational
+2014-05,Pueblo,452196.0,Medical
+2014-05,Pueblo,1417017.0,Recreational
+2014-05,Routt,159620.0,Medical
+2014-05,Routt,,Recreational
+2014-05,San Miguel,49679.0,Medical
+2014-05,San Miguel,257276.0,Recreational
+2014-05,Sedgwick,,Medical
+2014-05,Summit,201566.0,Medical
+2014-05,Summit,545898.0,Recreational
+2014-05,Teller,,Medical
+2014-05,Weld,516873.0,Medical
+2014-05,Weld,694205.0,Recreational
+2014-06,Adams,433176.0,Medical
+2014-06,Adams,,Recreational
+2014-06,Alamosa,,Medical
+2014-06,Arapahoe,1425313.0,Medical
+2014-06,Archuleta,,Medical
+2014-06,Boulder,2507058.0,Medical
+2014-06,Boulder,2593735.0,Recreational
+2014-06,Chaffee,96647.0,Medical
+2014-06,Clear Creek,97965.0,Medical
+2014-06,Clear Creek,396938.0,Recreational
+2014-06,Costilla,,Medical
+2014-06,Denver,13476218.0,Medical
+2014-06,Denver,12245778.0,Recreational
+2014-06,Eagle,132878.0,Medical
+2014-06,Eagle,,Recreational
+2014-06,El Paso,5342494.0,Medical
+2014-06,Fremont,228665.0,Medical
+2014-06,Garfield,418280.0,Medical
+2014-06,Garfield,392391.0,Recreational
+2014-06,Gilpin,38278.0,Medical
+2014-06,Gilpin,145630.0,Recreational
+2014-06,Grand,,Medical
+2014-06,Gunnison,,Medical
+2014-06,Gunnison,,Recreational
+2014-06,Jefferson,1889080.0,Medical
+2014-06,Jefferson,1445315.0,Recreational
+2014-06,La Plata,544589.0,Medical
+2014-06,Lake,,Recreational
+2014-06,Larimer,1112079.0,Medical
+2014-06,Larimer,,Recreational
+2014-06,Mesa,,Medical
+2014-06,Moffat,,Medical
+2014-06,Montezuma,115548.0,Medical
+2014-06,Montrose,,Medical
+2014-06,Ouray,,Medical
+2014-06,Ouray,,Recreational
+2014-06,Park,,Medical
+2014-06,Park,,Recreational
+2014-06,Pitkin,110679.0,Medical
+2014-06,Pitkin,322473.0,Recreational
+2014-06,Pueblo,403341.0,Medical
+2014-06,Pueblo,1571864.0,Recreational
+2014-06,Routt,,Medical
+2014-06,Routt,,Recreational
+2014-06,Saguache,,Medical
+2014-06,San Miguel,75455.0,Medical
+2014-06,San Miguel,451452.0,Recreational
+2014-06,Sedgwick,,Medical
+2014-06,Sedgwick,,Recreational
+2014-06,Summit,203354.0,Medical
+2014-06,Summit,686139.0,Recreational
+2014-06,Teller,,Medical
+2014-06,Weld,470633.0,Medical
+2014-06,Weld,795293.0,Recreational
+2014-07,Adams,452488.0,Medical
+2014-07,Adams,,Recreational
+2014-07,Alamosa,,Medical
+2014-07,Arapahoe,1470823.0,Medical
+2014-07,Archuleta,,Medical
+2014-07,Boulder,2547883.0,Medical
+2014-07,Boulder,3192671.0,Recreational
+2014-07,Chaffee,92938.0,Medical
+2014-07,Clear Creek,108796.0,Medical
+2014-07,Clear Creek,473299.0,Recreational
+2014-07,Costilla,,Medical
+2014-07,Denver,14083010.0,Medical
+2014-07,Denver,14518417.0,Recreational
+2014-07,Eagle,165132.0,Medical
+2014-07,Eagle,,Recreational
+2014-07,El Paso,5895119.0,Medical
+2014-07,El Paso,,Recreational
+2014-07,Fremont,250084.0,Medical
+2014-07,Garfield,446439.0,Medical
+2014-07,Garfield,403958.0,Recreational
+2014-07,Gilpin,36110.0,Medical
+2014-07,Gilpin,160328.0,Recreational
+2014-07,Grand,,Medical
+2014-07,Gunnison,,Medical
+2014-07,Gunnison,307664.0,Recreational
+2014-07,Jefferson,1913729.0,Medical
+2014-07,Jefferson,1699749.0,Recreational
+2014-07,La Plata,604088.0,Medical
+2014-07,Lake,,Recreational
+2014-07,Larimer,1087000.0,Medical
+2014-07,Larimer,1083910.0,Recreational
+2014-07,Mesa,,Medical
+2014-07,Moffat,,Medical
+2014-07,Montezuma,120802.0,Medical
+2014-07,Montrose,,Medical
+2014-07,Ouray,,Medical
+2014-07,Ouray,,Recreational
+2014-07,Park,,Medical
+2014-07,Park,,Recreational
+2014-07,Pitkin,117930.0,Medical
+2014-07,Pitkin,505148.0,Recreational
+2014-07,Pueblo,459326.0,Medical
+2014-07,Pueblo,1985679.0,Recreational
+2014-07,Routt,,Medical
+2014-07,Routt,,Recreational
+2014-07,Saguache,,Medical
+2014-07,Saguache,,Recreational
+2014-07,San Miguel,49131.0,Medical
+2014-07,San Miguel,548213.0,Recreational
+2014-07,Sedgwick,,Medical
+2014-07,Sedgwick,,Recreational
+2014-07,Summit,189746.0,Medical
+2014-07,Summit,981349.0,Recreational
+2014-07,Teller,,Medical
+2014-07,Weld,303374.0,Medical
+2014-07,Weld,1168267.0,Recreational
+2014-08,Adams,481873.0,Medical
+2014-08,Adams,,Recreational
+2014-08,Alamosa,,Medical
+2014-08,Arapahoe,1453140.0,Medical
+2014-08,Archuleta,,Medical
+2014-08,Boulder,2728671.0,Medical
+2014-08,Boulder,3644021.0,Recreational
+2014-08,Chaffee,75887.0,Medical
+2014-08,Chaffee,,Recreational
+2014-08,Clear Creek,102919.0,Medical
+2014-08,Clear Creek,480132.0,Recreational
+2014-08,Costilla,,Medical
+2014-08,Denver,15861744.0,Medical
+2014-08,Denver,15901236.0,Recreational
+2014-08,Eagle,171357.0,Medical
+2014-08,Eagle,414091.0,Recreational
+2014-08,El Paso,6327504.0,Medical
+2014-08,El Paso,,Recreational
+2014-08,Fremont,268966.0,Medical
+2014-08,Garfield,531623.0,Medical
+2014-08,Garfield,603468.0,Recreational
+2014-08,Gilpin,42366.0,Medical
+2014-08,Gilpin,155054.0,Recreational
+2014-08,Grand,,Medical
+2014-08,Gunnison,,Medical
+2014-08,Gunnison,309611.0,Recreational
+2014-08,Jefferson,2021406.0,Medical
+2014-08,Jefferson,1858831.0,Recreational
+2014-08,La Plata,657993.0,Medical
+2014-08,Lake,,Recreational
+2014-08,Larimer,1207539.0,Medical
+2014-08,Larimer,1340810.0,Recreational
+2014-08,Mesa,,Medical
+2014-08,Moffat,,Medical
+2014-08,Montezuma,132833.0,Medical
+2014-08,Montrose,,Medical
+2014-08,Ouray,,Medical
+2014-08,Ouray,,Recreational
+2014-08,Park,,Medical
+2014-08,Park,,Recreational
+2014-08,Pitkin,115179.0,Medical
+2014-08,Pitkin,502231.0,Recreational
+2014-08,Pueblo,460037.0,Medical
+2014-08,Pueblo,1685115.0,Recreational
+2014-08,Routt,170505.0,Medical
+2014-08,Routt,,Recreational
+2014-08,Saguache,,Medical
+2014-08,Saguache,,Recreational
+2014-08,San Miguel,46369.0,Medical
+2014-08,San Miguel,591931.0,Recreational
+2014-08,Sedgwick,,Medical
+2014-08,Sedgwick,,Recreational
+2014-08,Summit,177412.0,Medical
+2014-08,Summit,941538.0,Recreational
+2014-08,Teller,,Medical
+2014-08,Weld,275556.0,Medical
+2014-08,Weld,1291047.0,Recreational
+2014-09,Adams,453206.0,Medical
+2014-09,Adams,,Recreational
+2014-09,Alamosa,,Medical
+2014-09,Arapahoe,1353297.0,Medical
+2014-09,Archuleta,,Medical
+2014-09,Archuleta,,Recreational
+2014-09,Boulder,2715576.0,Medical
+2014-09,Boulder,3314834.0,Recreational
+2014-09,Chaffee,,Medical
+2014-09,Chaffee,,Recreational
+2014-09,Clear Creek,102603.0,Medical
+2014-09,Clear Creek,375860.0,Recreational
+2014-09,Costilla,,Medical
+2014-09,Denver,15196933.0,Medical
+2014-09,Denver,14364191.0,Recreational
+2014-09,Eagle,181480.0,Medical
+2014-09,Eagle,379890.0,Recreational
+2014-09,El Paso,5953327.0,Medical
+2014-09,El Paso,,Recreational
+2014-09,Fremont,233349.0,Medical
+2014-09,Garfield,527700.0,Medical
+2014-09,Garfield,537711.0,Recreational
+2014-09,Gilpin,39786.0,Medical
+2014-09,Gilpin,138821.0,Recreational
+2014-09,Grand,,Medical
+2014-09,Gunnison,,Medical
+2014-09,Gunnison,255533.0,Recreational
+2014-09,Jefferson,1845807.0,Medical
+2014-09,Jefferson,1701706.0,Recreational
+2014-09,La Plata,623331.0,Medical
+2014-09,La Plata,,Recreational
+2014-09,Lake,,Recreational
+2014-09,Larimer,1315740.0,Medical
+2014-09,Larimer,1378589.0,Recreational
+2014-09,Mesa,,Medical
+2014-09,Moffat,,Medical
+2014-09,Montezuma,125628.0,Medical
+2014-09,Montrose,,Medical
+2014-09,Morgan,,Medical
+2014-09,Morgan,,Recreational
+2014-09,Ouray,,Medical
+2014-09,Ouray,,Recreational
+2014-09,Park,,Medical
+2014-09,Park,,Recreational
+2014-09,Pitkin,100612.0,Medical
+2014-09,Pitkin,316259.0,Recreational
+2014-09,Pueblo,436843.0,Medical
+2014-09,Pueblo,1386314.0,Recreational
+2014-09,Routt,167807.0,Medical
+2014-09,Routt,,Recreational
+2014-09,Saguache,,Recreational
+2014-09,San Miguel,39758.0,Medical
+2014-09,San Miguel,501532.0,Recreational
+2014-09,Sedgwick,,Medical
+2014-09,Sedgwick,,Recreational
+2014-09,Summit,179358.0,Medical
+2014-09,Summit,726128.0,Recreational
+2014-09,Teller,,Medical
+2014-09,Weld,287891.0,Medical
+2014-09,Weld,1201206.0,Recreational
+2014-10,Adams,474637.0,Medical
+2014-10,Adams,,Recreational
+2014-10,Alamosa,,Medical
+2014-10,Arapahoe,1396842.0,Medical
+2014-10,Arapahoe,,Recreational
+2014-10,Archuleta,,Medical
+2014-10,Archuleta,,Recreational
+2014-10,Boulder,2660593.0,Medical
+2014-10,Boulder,3477557.0,Recreational
+2014-10,Chaffee,,Medical
+2014-10,Chaffee,,Recreational
+2014-10,Clear Creek,102858.0,Medical
+2014-10,Clear Creek,338132.0,Recreational
+2014-10,Costilla,,Medical
+2014-10,Denver,15006222.0,Medical
+2014-10,Denver,14895186.0,Recreational
+2014-10,Eagle,206273.0,Medical
+2014-10,Eagle,356123.0,Recreational
+2014-10,El Paso,5742846.0,Medical
+2014-10,El Paso,,Recreational
+2014-10,Fremont,174220.0,Medical
+2014-10,Garfield,389617.0,Medical
+2014-10,Garfield,553834.0,Recreational
+2014-10,Gilpin,,Medical
+2014-10,Gilpin,,Recreational
+2014-10,Grand,,Medical
+2014-10,Gunnison,,Medical
+2014-10,Gunnison,184394.0,Recreational
+2014-10,Jefferson,1923839.0,Medical
+2014-10,Jefferson,1714442.0,Recreational
+2014-10,La Plata,531825.0,Medical
+2014-10,La Plata,,Recreational
+2014-10,Lake,,Recreational
+2014-10,Larimer,1232929.0,Medical
+2014-10,Larimer,1523402.0,Recreational
+2014-10,Mesa,,Medical
+2014-10,Moffat,,Medical
+2014-10,Montezuma,,Medical
+2014-10,Montrose,,Medical
+2014-10,Morgan,,Medical
+2014-10,Morgan,,Recreational
+2014-10,Ouray,,Medical
+2014-10,Ouray,,Recreational
+2014-10,Park,,Medical
+2014-10,Park,,Recreational
+2014-10,Pitkin,86614.0,Medical
+2014-10,Pitkin,246079.0,Recreational
+2014-10,Pueblo,352545.0,Medical
+2014-10,Pueblo,1245865.0,Recreational
+2014-10,Routt,,Medical
+2014-10,Routt,,Recreational
+2014-10,Saguache,,Recreational
+2014-10,San Miguel,36239.0,Medical
+2014-10,San Miguel,278409.0,Recreational
+2014-10,Sedgwick,,Medical
+2014-10,Sedgwick,,Recreational
+2014-10,Summit,178233.0,Medical
+2014-10,Summit,632225.0,Recreational
+2014-10,Teller,,Medical
+2014-10,Weld,361629.0,Medical
+2014-10,Weld,1126809.0,Recreational
+2014-11,Adams,480189.0,Medical
+2014-11,Adams,1304091.0,Recreational
+2014-11,Alamosa,,Medical
+2014-11,Arapahoe,1345048.0,Medical
+2014-11,Arapahoe,805369.0,Recreational
+2014-11,Archuleta,,Medical
+2014-11,Archuleta,,Recreational
+2014-11,Boulder,2400813.0,Medical
+2014-11,Boulder,3196349.0,Recreational
+2014-11,Chaffee,,Medical
+2014-11,Chaffee,,Recreational
+2014-11,Clear Creek,91727.0,Medical
+2014-11,Clear Creek,298012.0,Recreational
+2014-11,Costilla,,Medical
+2014-11,Costilla,,Recreational
+2014-11,Denver,13469383.0,Medical
+2014-11,Denver,13742869.0,Recreational
+2014-11,Eagle,210732.0,Medical
+2014-11,Eagle,373883.0,Recreational
+2014-11,El Paso,5223552.0,Medical
+2014-11,El Paso,,Recreational
+2014-11,Fremont,159257.0,Medical
+2014-11,Garfield,318967.0,Medical
+2014-11,Garfield,507297.0,Recreational
+2014-11,Gilpin,,Medical
+2014-11,Gilpin,,Recreational
+2014-11,Grand,,Medical
+2014-11,Grand,,Recreational
+2014-11,Gunnison,,Medical
+2014-11,Gunnison,133062.0,Recreational
+2014-11,Jefferson,1837165.0,Medical
+2014-11,Jefferson,1679786.0,Recreational
+2014-11,La Plata,459409.0,Medical
+2014-11,La Plata,647493.0,Recreational
+2014-11,Lake,,Recreational
+2014-11,Larimer,1185998.0,Medical
+2014-11,Larimer,1493948.0,Recreational
+2014-11,Las Animas,,Recreational
+2014-11,Mesa,,Medical
+2014-11,Moffat,,Medical
+2014-11,Montezuma,,Medical
+2014-11,Montrose,,Medical
+2014-11,Morgan,,Medical
+2014-11,Morgan,,Recreational
+2014-11,Ouray,,Medical
+2014-11,Ouray,,Recreational
+2014-11,Park,,Medical
+2014-11,Park,,Recreational
+2014-11,Pitkin,72294.0,Medical
+2014-11,Pitkin,216781.0,Recreational
+2014-11,Pueblo,324106.0,Medical
+2014-11,Pueblo,1137217.0,Recreational
+2014-11,Routt,,Medical
+2014-11,Routt,,Recreational
+2014-11,Saguache,,Recreational
+2014-11,San Miguel,26291.0,Medical
+2014-11,San Miguel,169659.0,Recreational
+2014-11,Sedgwick,,Medical
+2014-11,Sedgwick,,Recreational
+2014-11,Summit,163698.0,Medical
+2014-11,Summit,706675.0,Recreational
+2014-11,Teller,,Medical
+2014-11,Weld,416639.0,Medical
+2014-11,Weld,992006.0,Recreational
+2014-12,Adams,470394.0,Medical
+2014-12,Adams,1445817.0,Recreational
+2014-12,Alamosa,,Medical
+2014-12,Arapahoe,1498465.0,Medical
+2014-12,Arapahoe,1416559.0,Recreational
+2014-12,Archuleta,,Medical
+2014-12,Archuleta,,Recreational
+2014-12,Boulder,2548354.0,Medical
+2014-12,Boulder,3592405.0,Recreational
+2014-12,Chaffee,,Medical
+2014-12,Chaffee,,Recreational
+2014-12,Clear Creek,83182.0,Medical
+2014-12,Clear Creek,371997.0,Recreational
+2014-12,Costilla,,Medical
+2014-12,Costilla,,Recreational
+2014-12,Denver,12138739.0,Medical
+2014-12,Denver,14797861.0,Recreational
+2014-12,Eagle,277950.0,Medical
+2014-12,Eagle,710631.0,Recreational
+2014-12,El Paso,5517533.0,Medical
+2014-12,El Paso,,Recreational
+2014-12,Fremont,178729.0,Medical
+2014-12,Garfield,283365.0,Medical
+2014-12,Garfield,560065.0,Recreational
+2014-12,Gilpin,34112.0,Medical
+2014-12,Gilpin,103121.0,Recreational
+2014-12,Grand,,Medical
+2014-12,Grand,,Recreational
+2014-12,Gunnison,,Medical
+2014-12,Gunnison,228173.0,Recreational
+2014-12,Jefferson,1832756.0,Medical
+2014-12,Jefferson,1990092.0,Recreational
+2014-12,La Plata,497203.0,Medical
+2014-12,La Plata,838948.0,Recreational
+2014-12,Lake,,Recreational
+2014-12,Larimer,1316194.0,Medical
+2014-12,Larimer,1613144.0,Recreational
+2014-12,Las Animas,,Medical
+2014-12,Las Animas,,Recreational
+2014-12,Mesa,,Medical
+2014-12,Moffat,,Medical
+2014-12,Montezuma,117849.0,Medical
+2014-12,Montezuma,,Recreational
+2014-12,Montrose,,Medical
+2014-12,Morgan,,Medical
+2014-12,Morgan,,Recreational
+2014-12,Ouray,,Medical
+2014-12,Ouray,,Recreational
+2014-12,Park,,Medical
+2014-12,Park,,Recreational
+2014-12,Pitkin,84226.0,Medical
+2014-12,Pitkin,599569.0,Recreational
+2014-12,Pueblo,399460.0,Medical
+2014-12,Pueblo,1158670.0,Recreational
+2014-12,Routt,169025.0,Medical
+2014-12,Routt,493734.0,Recreational
+2014-12,Saguache,,Recreational
+2014-12,San Miguel,43788.0,Medical
+2014-12,San Miguel,292834.0,Recreational
+2014-12,Sedgwick,,Medical
+2014-12,Sedgwick,,Recreational
+2014-12,Summit,205226.0,Medical
+2014-12,Summit,1256397.0,Recreational
+2014-12,Teller,,Medical
+2014-12,Weld,394521.0,Medical
+2014-12,Weld,1071049.0,Recreational
+2015-01,Adams,421362.0,Medical
+2015-01,Adams,1189877.0,Recreational
+2015-01,Alamosa,,Medical
+2015-01,Arapahoe,1493744.0,Medical
+2015-01,Arapahoe,1844768.0,Recreational
+2015-01,Archuleta,,Medical
+2015-01,Archuleta,,Recreational
+2015-01,Boulder,2501072.0,Medical
+2015-01,Boulder,3565252.0,Recreational
+2015-01,Chaffee,,Medical
+2015-01,Chaffee,,Recreational
+2015-01,Clear Creek,79640.0,Medical
+2015-01,Clear Creek,455108.0,Recreational
+2015-01,Costilla,,Medical
+2015-01,Costilla,,Recreational
+2015-01,Denver,13374117.0,Medical
+2015-01,Denver,15485689.0,Recreational
+2015-01,Eagle,316095.0,Medical
+2015-01,Eagle,825587.0,Recreational
+2015-01,El Paso,5582451.0,Medical
+2015-01,El Paso,,Recreational
+2015-01,Fremont,180201.0,Medical
+2015-01,Garfield,325730.0,Medical
+2015-01,Garfield,616641.0,Recreational
+2015-01,Gilpin,31006.0,Medical
+2015-01,Gilpin,112455.0,Recreational
+2015-01,Grand,,Medical
+2015-01,Grand,,Recreational
+2015-01,Gunnison,,Medical
+2015-01,Gunnison,273043.0,Recreational
+2015-01,Jefferson,1868844.0,Medical
+2015-01,Jefferson,2108127.0,Recreational
+2015-01,La Plata,893330.0,Medical
+2015-01,La Plata,798627.0,Recreational
+2015-01,Lake,,Recreational
+2015-01,Larimer,1141214.0,Medical
+2015-01,Larimer,1728021.0,Recreational
+2015-01,Las Animas,,Medical
+2015-01,Las Animas,224113.0,Recreational
+2015-01,Mesa,,Medical
+2015-01,Mesa,,Recreational
+2015-01,Moffat,,Medical
+2015-01,Montezuma,114767.0,Medical
+2015-01,Montezuma,,Recreational
+2015-01,Montrose,,Medical
+2015-01,Morgan,,Medical
+2015-01,Morgan,,Recreational
+2015-01,Ouray,,Medical
+2015-01,Ouray,,Recreational
+2015-01,Park,,Medical
+2015-01,Park,,Recreational
+2015-01,Pitkin,90522.0,Medical
+2015-01,Pitkin,813722.0,Recreational
+2015-01,Pueblo,359950.0,Medical
+2015-01,Pueblo,1063092.0,Recreational
+2015-01,Routt,,Medical
+2015-01,Routt,,Recreational
+2015-01,Saguache,,Recreational
+2015-01,San Juan,,Recreational
+2015-01,San Miguel,50579.0,Medical
+2015-01,San Miguel,374588.0,Recreational
+2015-01,Sedgwick,,Medical
+2015-01,Sedgwick,,Recreational
+2015-01,Summit,255639.0,Medical
+2015-01,Summit,1685111.0,Recreational
+2015-01,Teller,,Medical
+2015-01,Weld,340278.0,Medical
+2015-01,Weld,1199406.0,Recreational
+2015-02,Adams,434375.0,Medical
+2015-02,Adams,,Recreational
+2015-02,Alamosa,,Medical
+2015-02,Arapahoe,1402007.0,Medical
+2015-02,Arapahoe,2114064.0,Recreational
+2015-02,Archuleta,,Medical
+2015-02,Archuleta,,Recreational
+2015-02,Boulder,2257951.0,Medical
+2015-02,Boulder,3209140.0,Recreational
+2015-02,Chaffee,,Medical
+2015-02,Chaffee,,Recreational
+2015-02,Clear Creek,77001.0,Medical
+2015-02,Clear Creek,416086.0,Recreational
+2015-02,Costilla,,Medical
+2015-02,Costilla,,Recreational
+2015-02,Denver,12841486.0,Medical
+2015-02,Denver,14411812.0,Recreational
+2015-02,Eagle,292481.0,Medical
+2015-02,Eagle,735296.0,Recreational
+2015-02,El Paso,5578020.0,Medical
+2015-02,El Paso,,Recreational
+2015-02,Fremont,175136.0,Medical
+2015-02,Garfield,348057.0,Medical
+2015-02,Garfield,535881.0,Recreational
+2015-02,Gilpin,28410.0,Medical
+2015-02,Gilpin,104647.0,Recreational
+2015-02,Grand,,Medical
+2015-02,Grand,,Recreational
+2015-02,Gunnison,,Medical
+2015-02,Gunnison,224407.0,Recreational
+2015-02,Jefferson,1700441.0,Medical
+2015-02,Jefferson,1960725.0,Recreational
+2015-02,La Plata,892507.0,Medical
+2015-02,La Plata,840795.0,Recreational
+2015-02,Lake,,Recreational
+2015-02,Larimer,1111034.0,Medical
+2015-02,Larimer,1685559.0,Recreational
+2015-02,Las Animas,,Medical
+2015-02,Las Animas,287148.0,Recreational
+2015-02,Mesa,,Medical
+2015-02,Mesa,,Recreational
+2015-02,Moffat,,Medical
+2015-02,Montezuma,104595.0,Medical
+2015-02,Montezuma,159174.0,Recreational
+2015-02,Montrose,,Medical
+2015-02,Morgan,,Medical
+2015-02,Morgan,,Recreational
+2015-02,Ouray,,Medical
+2015-02,Ouray,,Recreational
+2015-02,Park,,Medical
+2015-02,Park,,Recreational
+2015-02,Pitkin,75050.0,Medical
+2015-02,Pitkin,705757.0,Recreational
+2015-02,Pueblo,358140.0,Medical
+2015-02,Pueblo,1039417.0,Recreational
+2015-02,Routt,,Medical
+2015-02,Routt,,Recreational
+2015-02,Saguache,,Recreational
+2015-02,San Juan,,Recreational
+2015-02,San Miguel,41195.0,Medical
+2015-02,San Miguel,300473.0,Recreational
+2015-02,Sedgwick,,Medical
+2015-02,Sedgwick,,Recreational
+2015-02,Summit,246053.0,Medical
+2015-02,Summit,1393552.0,Recreational
+2015-02,Teller,,Medical
+2015-02,Weld,364563.0,Medical
+2015-02,Weld,1270638.0,Recreational
+2015-03,Adams,479975.0,Medical
+2015-03,Adams,1497796.0,Recreational
+2015-03,Alamosa,,Medical
+2015-03,Arapahoe,1562845.0,Medical
+2015-03,Arapahoe,2615133.0,Recreational
+2015-03,Archuleta,,Medical
+2015-03,Archuleta,,Recreational
+2015-03,Boulder,2525620.0,Medical
+2015-03,Boulder,3856723.0,Recreational
+2015-03,Chaffee,,Medical
+2015-03,Chaffee,,Recreational
+2015-03,Clear Creek,82344.0,Medical
+2015-03,Clear Creek,485304.0,Recreational
+2015-03,Costilla,,Medical
+2015-03,Costilla,,Recreational
+2015-03,Denver,14406613.0,Medical
+2015-03,Denver,17121933.0,Recreational
+2015-03,Eagle,337864.0,Medical
+2015-03,Eagle,862396.0,Recreational
+2015-03,El Paso,6380331.0,Medical
+2015-03,El Paso,,Recreational
+2015-03,Fremont,194875.0,Medical
+2015-03,Garfield,379738.0,Medical
+2015-03,Garfield,642659.0,Recreational
+2015-03,Gilpin,,Medical
+2015-03,Gilpin,117004.0,Recreational
+2015-03,Grand,,Medical
+2015-03,Grand,,Recreational
+2015-03,Gunnison,,Medical
+2015-03,Gunnison,296334.0,Recreational
+2015-03,Jefferson,1861813.0,Medical
+2015-03,Jefferson,2224610.0,Recreational
+2015-03,La Plata,1017530.0,Medical
+2015-03,La Plata,1020552.0,Recreational
+2015-03,Lake,,Recreational
+2015-03,Larimer,1320406.0,Medical
+2015-03,Larimer,1943174.0,Recreational
+2015-03,Las Animas,,Medical
+2015-03,Las Animas,415008.0,Recreational
+2015-03,Mesa,,Medical
+2015-03,Mesa,,Recreational
+2015-03,Moffat,,Medical
+2015-03,Montezuma,133639.0,Medical
+2015-03,Montezuma,254446.0,Recreational
+2015-03,Montrose,,Medical
+2015-03,Morgan,,Medical
+2015-03,Morgan,,Recreational
+2015-03,Ouray,,Medical
+2015-03,Ouray,,Recreational
+2015-03,Park,,Medical
+2015-03,Park,146105.0,Recreational
+2015-03,Pitkin,85006.0,Medical
+2015-03,Pitkin,896693.0,Recreational
+2015-03,Pueblo,463245.0,Medical
+2015-03,Pueblo,1355119.0,Recreational
+2015-03,Routt,199449.0,Medical
+2015-03,Routt,616913.0,Recreational
+2015-03,Saguache,,Recreational
+2015-03,San Juan,,Recreational
+2015-03,San Miguel,50730.0,Medical
+2015-03,San Miguel,375409.0,Recreational
+2015-03,Sedgwick,,Medical
+2015-03,Sedgwick,,Recreational
+2015-03,Summit,292686.0,Medical
+2015-03,Summit,1727608.0,Recreational
+2015-03,Teller,,Medical
+2015-03,Weld,386290.0,Medical
+2015-03,Weld,1443488.0,Recreational
+2015-04,Adams,474341.0,Medical
+2015-04,Adams,1611106.0,Recreational
+2015-04,Alamosa,,Medical
+2015-04,Arapahoe,1559596.0,Medical
+2015-04,Arapahoe,3257101.0,Recreational
+2015-04,Archuleta,,Medical
+2015-04,Archuleta,,Recreational
+2015-04,Boulder,2559060.0,Medical
+2015-04,Boulder,3973545.0,Recreational
+2015-04,Chaffee,,Medical
+2015-04,Chaffee,250729.0,Recreational
+2015-04,Clear Creek,76243.0,Medical
+2015-04,Clear Creek,365896.0,Recreational
+2015-04,Costilla,,Medical
+2015-04,Costilla,,Recreational
+2015-04,Denver,14953494.0,Medical
+2015-04,Denver,18946519.0,Recreational
+2015-04,Eagle,287781.0,Medical
+2015-04,Eagle,516095.0,Recreational
+2015-04,El Paso,6540175.0,Medical
+2015-04,El Paso,,Recreational
+2015-04,Fremont,198045.0,Medical
+2015-04,Garfield,381432.0,Medical
+2015-04,Garfield,644631.0,Recreational
+2015-04,Gilpin,,Medical
+2015-04,Gilpin,130946.0,Recreational
+2015-04,Grand,,Medical
+2015-04,Grand,,Recreational
+2015-04,Gunnison,,Medical
+2015-04,Gunnison,160176.0,Recreational
+2015-04,Jefferson,1931784.0,Medical
+2015-04,Jefferson,2429996.0,Recreational
+2015-04,La Plata,493486.0,Medical
+2015-04,La Plata,930516.0,Recreational
+2015-04,Lake,,Recreational
+2015-04,Larimer,1277080.0,Medical
+2015-04,Larimer,2045132.0,Recreational
+2015-04,Las Animas,,Medical
+2015-04,Las Animas,471514.0,Recreational
+2015-04,Mesa,,Medical
+2015-04,Mesa,,Recreational
+2015-04,Moffat,,Medical
+2015-04,Montezuma,124006.0,Medical
+2015-04,Montezuma,313150.0,Recreational
+2015-04,Montrose,,Medical
+2015-04,Morgan,,Medical
+2015-04,Morgan,,Recreational
+2015-04,Ouray,,Medical
+2015-04,Ouray,,Recreational
+2015-04,Park,,Medical
+2015-04,Park,121375.0,Recreational
+2015-04,Pitkin,65486.0,Medical
+2015-04,Pitkin,426689.0,Recreational
+2015-04,Pueblo,389146.0,Medical
+2015-04,Pueblo,1318252.0,Recreational
+2015-04,Routt,193801.0,Medical
+2015-04,Routt,433152.0,Recreational
+2015-04,Saguache,,Recreational
+2015-04,San Juan,,Recreational
+2015-04,San Miguel,38531.0,Medical
+2015-04,San Miguel,150531.0,Recreational
+2015-04,Sedgwick,,Medical
+2015-04,Sedgwick,,Recreational
+2015-04,Summit,305570.0,Medical
+2015-04,Summit,953219.0,Recreational
+2015-04,Teller,,Medical
+2015-04,Weld,350491.0,Medical
+2015-04,Weld,1521411.0,Recreational
+2015-05,Adams,495716.0,Medical
+2015-05,Adams,1687270.0,Recreational
+2015-05,Alamosa,,Medical
+2015-05,Arapahoe,1588756.0,Medical
+2015-05,Arapahoe,3615509.0,Recreational
+2015-05,Archuleta,,Medical
+2015-05,Archuleta,,Recreational
+2015-05,Boulder,2451648.0,Medical
+2015-05,Boulder,4281906.0,Recreational
+2015-05,Chaffee,,Medical
+2015-05,Chaffee,312605.0,Recreational
+2015-05,Clear Creek,96276.0,Medical
+2015-05,Clear Creek,348152.0,Recreational
+2015-05,Costilla,,Medical
+2015-05,Costilla,,Recreational
+2015-05,Denver,15598475.0,Medical
+2015-05,Denver,17590490.0,Recreational
+2015-05,Eagle,259399.0,Medical
+2015-05,Eagle,432292.0,Recreational
+2015-05,El Paso,6793848.0,Medical
+2015-05,El Paso,,Recreational
+2015-05,Fremont,200945.0,Medical
+2015-05,Garfield,407487.0,Medical
+2015-05,Garfield,720995.0,Recreational
+2015-05,Gilpin,,Medical
+2015-05,Gilpin,143079.0,Recreational
+2015-05,Grand,,Medical
+2015-05,Grand,,Recreational
+2015-05,Gunnison,,Medical
+2015-05,Gunnison,176131.0,Recreational
+2015-05,Jefferson,1933694.0,Medical
+2015-05,Jefferson,2538231.0,Recreational
+2015-05,La Plata,452253.0,Medical
+2015-05,La Plata,1155547.0,Recreational
+2015-05,Lake,,Recreational
+2015-05,Larimer,1292742.0,Medical
+2015-05,Larimer,2292433.0,Recreational
+2015-05,Las Animas,,Medical
+2015-05,Las Animas,606835.0,Recreational
+2015-05,Mesa,,Medical
+2015-05,Mesa,,Recreational
+2015-05,Moffat,,Medical
+2015-05,Montezuma,136143.0,Medical
+2015-05,Montezuma,403035.0,Recreational
+2015-05,Montrose,,Medical
+2015-05,Morgan,,Medical
+2015-05,Morgan,,Recreational
+2015-05,Ouray,,Medical
+2015-05,Ouray,,Recreational
+2015-05,Park,,Medical
+2015-05,Park,154563.0,Recreational
+2015-05,Pitkin,57287.0,Medical
+2015-05,Pitkin,329419.0,Recreational
+2015-05,Pueblo,396182.0,Medical
+2015-05,Pueblo,1482501.0,Recreational
+2015-05,Routt,163870.0,Medical
+2015-05,Routt,419611.0,Recreational
+2015-05,Saguache,,Recreational
+2015-05,San Juan,,Recreational
+2015-05,San Miguel,,Medical
+2015-05,San Miguel,153689.0,Recreational
+2015-05,Sedgwick,,Medical
+2015-05,Sedgwick,,Recreational
+2015-05,Summit,224409.0,Medical
+2015-05,Summit,719343.0,Recreational
+2015-05,Teller,,Medical
+2015-05,Weld,342765.0,Medical
+2015-05,Weld,1636318.0,Recreational
+2015-06,Adams,441872.0,Medical
+2015-06,Adams,,Recreational
+2015-06,Alamosa,,Medical
+2015-06,Arapahoe,1525525.0,Medical
+2015-06,Arapahoe,3753244.0,Recreational
+2015-06,Archuleta,,Medical
+2015-06,Archuleta,,Recreational
+2015-06,Boulder,2363534.0,Medical
+2015-06,Boulder,4273572.0,Recreational
+2015-06,Chaffee,,Medical
+2015-06,Chaffee,,Recreational
+2015-06,Clear Creek,90303.0,Medical
+2015-06,Clear Creek,441514.0,Recreational
+2015-06,Costilla,,Medical
+2015-06,Costilla,,Recreational
+2015-06,Denver,16545160.0,Medical
+2015-06,Denver,17280785.0,Recreational
+2015-06,Eagle,259462.0,Medical
+2015-06,Eagle,534649.0,Recreational
+2015-06,El Paso,7050814.0,Medical
+2015-06,El Paso,,Recreational
+2015-06,Fremont,205924.0,Medical
+2015-06,Garfield,430562.0,Medical
+2015-06,Garfield,798425.0,Recreational
+2015-06,Gilpin,,Medical
+2015-06,Gilpin,183787.0,Recreational
+2015-06,Grand,,Medical
+2015-06,Grand,142695.0,Recreational
+2015-06,Gunnison,,Medical
+2015-06,Gunnison,273865.0,Recreational
+2015-06,Huerfano,,Recreational
+2015-06,Jefferson,1833049.0,Medical
+2015-06,Jefferson,2584940.0,Recreational
+2015-06,La Plata,425100.0,Medical
+2015-06,La Plata,1283234.0,Recreational
+2015-06,Lake,,Recreational
+2015-06,Larimer,1219011.0,Medical
+2015-06,Larimer,2321397.0,Recreational
+2015-06,Las Animas,,Medical
+2015-06,Las Animas,714276.0,Recreational
+2015-06,Mesa,,Medical
+2015-06,Mesa,,Recreational
+2015-06,Moffat,,Medical
+2015-06,Montezuma,127877.0,Medical
+2015-06,Montezuma,463559.0,Recreational
+2015-06,Montrose,,Medical
+2015-06,Morgan,,Medical
+2015-06,Morgan,,Recreational
+2015-06,Ouray,,Medical
+2015-06,Ouray,,Recreational
+2015-06,Park,,Medical
+2015-06,Park,191938.0,Recreational
+2015-06,Pitkin,77058.0,Medical
+2015-06,Pitkin,570064.0,Recreational
+2015-06,Pueblo,569375.0,Medical
+2015-06,Pueblo,1517777.0,Recreational
+2015-06,Routt,159915.0,Medical
+2015-06,Routt,485969.0,Recreational
+2015-06,Saguache,,Recreational
+2015-06,San Juan,,Recreational
+2015-06,San Miguel,51852.0,Medical
+2015-06,San Miguel,315531.0,Recreational
+2015-06,Sedgwick,,Medical
+2015-06,Sedgwick,,Recreational
+2015-06,Summit,215753.0,Medical
+2015-06,Summit,925580.0,Recreational
+2015-06,Teller,,Medical
+2015-06,Weld,287920.0,Medical
+2015-06,Weld,1693656.0,Recreational
+2015-07,Adams,456679.0,Medical
+2015-07,Adams,1822902.0,Recreational
+2015-07,Alamosa,,Medical
+2015-07,Arapahoe,1629440.0,Medical
+2015-07,Arapahoe,4482419.0,Recreational
+2015-07,Archuleta,,Medical
+2015-07,Archuleta,,Recreational
+2015-07,Boulder,2638188.0,Medical
+2015-07,Boulder,4926814.0,Recreational
+2015-07,Chaffee,,Medical
+2015-07,Chaffee,,Recreational
+2015-07,Clear Creek,97914.0,Medical
+2015-07,Clear Creek,558033.0,Recreational
+2015-07,Conejos,,Recreational
+2015-07,Costilla,,Medical
+2015-07,Costilla,,Recreational
+2015-07,Denver,19786382.0,Medical
+2015-07,Denver,19851838.0,Recreational
+2015-07,Eagle,310266.0,Medical
+2015-07,Eagle,745007.0,Recreational
+2015-07,El Paso,8504081.0,Medical
+2015-07,El Paso,,Recreational
+2015-07,Fremont,242306.0,Medical
+2015-07,Garfield,481231.0,Medical
+2015-07,Garfield,953213.0,Recreational
+2015-07,Gilpin,,Medical
+2015-07,Gilpin,185927.0,Recreational
+2015-07,Grand,,Medical
+2015-07,Grand,230218.0,Recreational
+2015-07,Gunnison,,Medical
+2015-07,Gunnison,454862.0,Recreational
+2015-07,Huerfano,,Recreational
+2015-07,Jefferson,2038463.0,Medical
+2015-07,Jefferson,2891081.0,Recreational
+2015-07,La Plata,486029.0,Medical
+2015-07,La Plata,1529417.0,Recreational
+2015-07,Lake,,Recreational
+2015-07,Larimer,1401524.0,Medical
+2015-07,Larimer,2714363.0,Recreational
+2015-07,Las Animas,,Medical
+2015-07,Las Animas,1009958.0,Recreational
+2015-07,Mesa,,Medical
+2015-07,Mesa,,Recreational
+2015-07,Moffat,,Medical
+2015-07,Montezuma,142880.0,Medical
+2015-07,Montezuma,572832.0,Recreational
+2015-07,Montrose,,Medical
+2015-07,Morgan,,Medical
+2015-07,Morgan,,Recreational
+2015-07,Ouray,,Medical
+2015-07,Ouray,,Recreational
+2015-07,Park,,Medical
+2015-07,Park,235832.0,Recreational
+2015-07,Pitkin,94939.0,Medical
+2015-07,Pitkin,850341.0,Recreational
+2015-07,Pueblo,699033.0,Medical
+2015-07,Pueblo,1852589.0,Recreational
+2015-07,Routt,186072.0,Medical
+2015-07,Routt,631836.0,Recreational
+2015-07,Saguache,,Recreational
+2015-07,San Juan,,Recreational
+2015-07,San Miguel,51293.0,Medical
+2015-07,San Miguel,387509.0,Recreational
+2015-07,Sedgwick,,Medical
+2015-07,Sedgwick,,Recreational
+2015-07,Summit,246327.0,Medical
+2015-07,Summit,1304307.0,Recreational
+2015-07,Teller,,Medical
+2015-07,Weld,364477.0,Medical
+2015-07,Weld,1878564.0,Recreational
+2015-08,Adams,414843.0,Medical
+2015-08,Adams,2007490.0,Recreational
+2015-08,Alamosa,,Medical
+2015-08,Arapahoe,1782767.0,Medical
+2015-08,Arapahoe,5068738.0,Recreational
+2015-08,Archuleta,,Medical
+2015-08,Archuleta,,Recreational
+2015-08,Boulder,2854869.0,Medical
+2015-08,Boulder,5076823.0,Recreational
+2015-08,Chaffee,,Medical
+2015-08,Chaffee,529711.0,Recreational
+2015-08,Clear Creek,99241.0,Medical
+2015-08,Clear Creek,549270.0,Recreational
+2015-08,Conejos,,Recreational
+2015-08,Costilla,,Medical
+2015-08,Costilla,,Recreational
+2015-08,Denver,18920270.0,Medical
+2015-08,Denver,20586503.0,Recreational
+2015-08,Eagle,321194.0,Medical
+2015-08,Eagle,755726.0,Recreational
+2015-08,El Paso,8703525.0,Medical
+2015-08,El Paso,,Recreational
+2015-08,Fremont,247910.0,Medical
+2015-08,Garfield,623488.0,Medical
+2015-08,Garfield,919088.0,Recreational
+2015-08,Gilpin,33160.0,Medical
+2015-08,Gilpin,209981.0,Recreational
+2015-08,Grand,,Medical
+2015-08,Grand,234153.0,Recreational
+2015-08,Gunnison,,Medical
+2015-08,Gunnison,454015.0,Recreational
+2015-08,Huerfano,,Recreational
+2015-08,Jefferson,2119709.0,Medical
+2015-08,Jefferson,3008160.0,Recreational
+2015-08,La Plata,468119.0,Medical
+2015-08,La Plata,1517581.0,Recreational
+2015-08,Lake,,Recreational
+2015-08,Larimer,1506663.0,Medical
+2015-08,Larimer,2921981.0,Recreational
+2015-08,Las Animas,,Medical
+2015-08,Las Animas,1043528.0,Recreational
+2015-08,Mesa,,Medical
+2015-08,Mesa,,Recreational
+2015-08,Moffat,,Medical
+2015-08,Montezuma,141894.0,Medical
+2015-08,Montezuma,602753.0,Recreational
+2015-08,Montrose,,Medical
+2015-08,Morgan,,Medical
+2015-08,Morgan,,Recreational
+2015-08,Ouray,,Medical
+2015-08,Ouray,,Recreational
+2015-08,Park,,Medical
+2015-08,Park,220562.0,Recreational
+2015-08,Pitkin,100615.0,Medical
+2015-08,Pitkin,815391.0,Recreational
+2015-08,Pueblo,879622.0,Medical
+2015-08,Pueblo,1894167.0,Recreational
+2015-08,Routt,197957.0,Medical
+2015-08,Routt,649959.0,Recreational
+2015-08,Saguache,,Recreational
+2015-08,San Juan,,Recreational
+2015-08,San Miguel,48630.0,Medical
+2015-08,San Miguel,367696.0,Recreational
+2015-08,Sedgwick,,Medical
+2015-08,Sedgwick,,Recreational
+2015-08,Summit,237146.0,Medical
+2015-08,Summit,1325273.0,Recreational
+2015-08,Teller,,Medical
+2015-08,Weld,429172.0,Medical
+2015-08,Weld,1964176.0,Recreational
+2015-09,Adams,456102.0,Medical
+2015-09,Adams,2066128.0,Recreational
+2015-09,Alamosa,,Medical
+2015-09,Arapahoe,1821831.0,Medical
+2015-09,Arapahoe,5321883.0,Recreational
+2015-09,Archuleta,,Medical
+2015-09,Archuleta,,Recreational
+2015-09,Boulder,2808636.0,Medical
+2015-09,Boulder,4564394.0,Recreational
+2015-09,Chaffee,,Medical
+2015-09,Chaffee,391518.0,Recreational
+2015-09,Clear Creek,98054.0,Medical
+2015-09,Clear Creek,490483.0,Recreational
+2015-09,Conejos,,Recreational
+2015-09,Costilla,,Medical
+2015-09,Costilla,,Recreational
+2015-09,Denver,18017794.0,Medical
+2015-09,Denver,19062651.0,Recreational
+2015-09,Eagle,306549.0,Medical
+2015-09,Eagle,632711.0,Recreational
+2015-09,El Paso,8632187.0,Medical
+2015-09,El Paso,,Recreational
+2015-09,Fremont,262093.0,Medical
+2015-09,Garfield,558081.0,Medical
+2015-09,Garfield,888159.0,Recreational
+2015-09,Gilpin,31881.0,Medical
+2015-09,Gilpin,206010.0,Recreational
+2015-09,Grand,,Medical
+2015-09,Grand,182101.0,Recreational
+2015-09,Gunnison,,Medical
+2015-09,Gunnison,333527.0,Recreational
+2015-09,Huerfano,,Recreational
+2015-09,Jefferson,2096374.0,Medical
+2015-09,Jefferson,2859786.0,Recreational
+2015-09,La Plata,489476.0,Medical
+2015-09,La Plata,1596319.0,Recreational
+2015-09,Lake,,Recreational
+2015-09,Larimer,1546038.0,Medical
+2015-09,Larimer,2735329.0,Recreational
+2015-09,Las Animas,,Medical
+2015-09,Las Animas,1018744.0,Recreational
+2015-09,Mesa,,Medical
+2015-09,Mesa,,Recreational
+2015-09,Moffat,,Medical
+2015-09,Montezuma,122425.0,Medical
+2015-09,Montezuma,605971.0,Recreational
+2015-09,Montrose,,Medical
+2015-09,Morgan,,Medical
+2015-09,Morgan,,Recreational
+2015-09,Ouray,,Medical
+2015-09,Ouray,342064.0,Recreational
+2015-09,Park,,Medical
+2015-09,Park,185916.0,Recreational
+2015-09,Pitkin,90803.0,Medical
+2015-09,Pitkin,627987.0,Recreational
+2015-09,Pueblo,1004209.0,Medical
+2015-09,Pueblo,1721621.0,Recreational
+2015-09,Routt,216833.0,Medical
+2015-09,Routt,576410.0,Recreational
+2015-09,Saguache,,Recreational
+2015-09,San Juan,,Recreational
+2015-09,San Miguel,53511.0,Medical
+2015-09,San Miguel,330093.0,Recreational
+2015-09,Sedgwick,,Medical
+2015-09,Sedgwick,,Recreational
+2015-09,Summit,235065.0,Medical
+2015-09,Summit,1024344.0,Recreational
+2015-09,Teller,,Medical
+2015-09,Weld,447995.0,Medical
+2015-09,Weld,1804494.0,Recreational
+2015-10,Adams,435580.0,Medical
+2015-10,Adams,2446592.0,Recreational
+2015-10,Alamosa,,Medical
+2015-10,Arapahoe,1743830.0,Medical
+2015-10,Arapahoe,5728782.0,Recreational
+2015-10,Archuleta,,Medical
+2015-10,Archuleta,,Recreational
+2015-10,Boulder,2816381.0,Medical
+2015-10,Boulder,4777912.0,Recreational
+2015-10,Chaffee,,Medical
+2015-10,Chaffee,325900.0,Recreational
+2015-10,Clear Creek,87040.0,Medical
+2015-10,Clear Creek,419695.0,Recreational
+2015-10,Conejos,,Recreational
+2015-10,Costilla,,Medical
+2015-10,Costilla,,Recreational
+2015-10,Denver,16398610.0,Medical
+2015-10,Denver,19085375.0,Recreational
+2015-10,Eagle,294270.0,Medical
+2015-10,Eagle,590827.0,Recreational
+2015-10,El Paso,8065363.0,Medical
+2015-10,El Paso,,Recreational
+2015-10,Fremont,178145.0,Medical
+2015-10,Garfield,404126.0,Medical
+2015-10,Garfield,872142.0,Recreational
+2015-10,Gilpin,,Medical
+2015-10,Gilpin,185948.0,Recreational
+2015-10,Grand,,Medical
+2015-10,Grand,166746.0,Recreational
+2015-10,Gunnison,,Medical
+2015-10,Gunnison,,Recreational
+2015-10,Huerfano,,Recreational
+2015-10,Jefferson,1881358.0,Medical
+2015-10,Jefferson,3091341.0,Recreational
+2015-10,La Plata,404921.0,Medical
+2015-10,La Plata,1541740.0,Recreational
+2015-10,Lake,,Recreational
+2015-10,Larimer,1452878.0,Medical
+2015-10,Larimer,2885257.0,Recreational
+2015-10,Las Animas,,Medical
+2015-10,Las Animas,1035512.0,Recreational
+2015-10,Mesa,,Medical
+2015-10,Mesa,,Recreational
+2015-10,Moffat,,Medical
+2015-10,Montezuma,106843.0,Medical
+2015-10,Montezuma,627049.0,Recreational
+2015-10,Montrose,,Medical
+2015-10,Morgan,,Medical
+2015-10,Morgan,,Recreational
+2015-10,Ouray,,Medical
+2015-10,Ouray,,Recreational
+2015-10,Park,,Medical
+2015-10,Park,201525.0,Recreational
+2015-10,Pitkin,80160.0,Medical
+2015-10,Pitkin,443764.0,Recreational
+2015-10,Pueblo,863610.0,Medical
+2015-10,Pueblo,1710792.0,Recreational
+2015-10,Routt,201592.0,Medical
+2015-10,Routt,563187.0,Recreational
+2015-10,Saguache,,Recreational
+2015-10,San Juan,,Recreational
+2015-10,San Miguel,50875.0,Medical
+2015-10,San Miguel,195014.0,Recreational
+2015-10,Sedgwick,,Medical
+2015-10,Sedgwick,,Recreational
+2015-10,Summit,215459.0,Medical
+2015-10,Summit,968236.0,Recreational
+2015-10,Teller,,Medical
+2015-10,Weld,418307.0,Medical
+2015-10,Weld,1908470.0,Recreational
+2015-11,Adams,411536.0,Medical
+2015-11,Adams,2426969.0,Recreational
+2015-11,Alamosa,,Medical
+2015-11,Arapahoe,1474373.0,Medical
+2015-11,Arapahoe,5485411.0,Recreational
+2015-11,Archuleta,,Medical
+2015-11,Archuleta,,Recreational
+2015-11,Boulder,2441291.0,Medical
+2015-11,Boulder,4312311.0,Recreational
+2015-11,Chaffee,,Medical
+2015-11,Chaffee,257406.0,Recreational
+2015-11,Clear Creek,65544.0,Medical
+2015-11,Clear Creek,382303.0,Recreational
+2015-11,Conejos,,Recreational
+2015-11,Costilla,,Medical
+2015-11,Costilla,,Recreational
+2015-11,Denver,13509435.0,Medical
+2015-11,Denver,17834233.0,Recreational
+2015-11,Eagle,239175.0,Medical
+2015-11,Eagle,608573.0,Recreational
+2015-11,El Paso,6629977.0,Medical
+2015-11,El Paso,,Recreational
+2015-11,Fremont,146376.0,Medical
+2015-11,Garfield,276743.0,Medical
+2015-11,Garfield,706287.0,Recreational
+2015-11,Gilpin,,Medical
+2015-11,Gilpin,165186.0,Recreational
+2015-11,Grand,,Medical
+2015-11,Grand,149468.0,Recreational
+2015-11,Gunnison,,Medical
+2015-11,Gunnison,250041.0,Recreational
+2015-11,Huerfano,,Recreational
+2015-11,Jefferson,1654954.0,Medical
+2015-11,Jefferson,2816172.0,Recreational
+2015-11,La Plata,332966.0,Medical
+2015-11,La Plata,1192549.0,Recreational
+2015-11,Lake,,Recreational
+2015-11,Larimer,1263937.0,Medical
+2015-11,Larimer,2561270.0,Recreational
+2015-11,Las Animas,,Medical
+2015-11,Las Animas,850923.0,Recreational
+2015-11,Mesa,,Medical
+2015-11,Mesa,,Recreational
+2015-11,Moffat,,Medical
+2015-11,Montezuma,93505.0,Medical
+2015-11,Montezuma,528833.0,Recreational
+2015-11,Montrose,,Medical
+2015-11,Morgan,,Medical
+2015-11,Morgan,,Recreational
+2015-11,Ouray,,Medical
+2015-11,Ouray,,Recreational
+2015-11,Park,,Medical
+2015-11,Park,168909.0,Recreational
+2015-11,Pitkin,78898.0,Medical
+2015-11,Pitkin,348178.0,Recreational
+2015-11,Pueblo,776637.0,Medical
+2015-11,Pueblo,1447179.0,Recreational
+2015-11,Routt,182755.0,Medical
+2015-11,Routt,437492.0,Recreational
+2015-11,Saguache,,Recreational
+2015-11,San Juan,,Recreational
+2015-11,San Miguel,39568.0,Medical
+2015-11,San Miguel,121095.0,Recreational
+2015-11,Sedgwick,,Medical
+2015-11,Sedgwick,,Recreational
+2015-11,Summit,214387.0,Medical
+2015-11,Summit,1022796.0,Recreational
+2015-11,Teller,,Medical
+2015-11,Weld,361925.0,Medical
+2015-11,Weld,1688077.0,Recreational
+2015-12,Adams,441833.0,Medical
+2015-12,Adams,2706310.0,Recreational
+2015-12,Alamosa,,Medical
+2015-12,Arapahoe,1606205.0,Medical
+2015-12,Arapahoe,6055214.0,Recreational
+2015-12,Archuleta,,Medical
+2015-12,Archuleta,,Recreational
+2015-12,Boulder,2807281.0,Medical
+2015-12,Boulder,4621551.0,Recreational
+2015-12,Chaffee,,Medical
+2015-12,Chaffee,,Recreational
+2015-12,Clear Creek,81631.0,Medical
+2015-12,Clear Creek,492005.0,Recreational
+2015-12,Conejos,,Recreational
+2015-12,Costilla,,Medical
+2015-12,Costilla,,Recreational
+2015-12,Denver,16255498.0,Medical
+2015-12,Denver,19339032.0,Recreational
+2015-12,Eagle,273264.0,Medical
+2015-12,Eagle,948426.0,Recreational
+2015-12,El Paso,7639235.0,Medical
+2015-12,El Paso,,Recreational
+2015-12,Fremont,160693.0,Medical
+2015-12,Garfield,318985.0,Medical
+2015-12,Garfield,801776.0,Recreational
+2015-12,Gilpin,,Medical
+2015-12,Gilpin,145319.0,Recreational
+2015-12,Grand,,Medical
+2015-12,Grand,274910.0,Recreational
+2015-12,Gunnison,,Medical
+2015-12,Gunnison,365817.0,Recreational
+2015-12,Huerfano,,Recreational
+2015-12,Jefferson,1745285.0,Medical
+2015-12,Jefferson,3153194.0,Recreational
+2015-12,La Plata,370071.0,Medical
+2015-12,La Plata,1460381.0,Recreational
+2015-12,Lake,,Recreational
+2015-12,Larimer,1374506.0,Medical
+2015-12,Larimer,2818206.0,Recreational
+2015-12,Las Animas,,Medical
+2015-12,Las Animas,921083.0,Recreational
+2015-12,Mesa,,Medical
+2015-12,Mesa,,Recreational
+2015-12,Moffat,,Medical
+2015-12,Montezuma,89934.0,Medical
+2015-12,Montezuma,559469.0,Recreational
+2015-12,Montrose,,Medical
+2015-12,Morgan,,Medical
+2015-12,Morgan,,Recreational
+2015-12,Ouray,,Medical
+2015-12,Ouray,,Recreational
+2015-12,Park,,Medical
+2015-12,Park,188927.0,Recreational
+2015-12,Pitkin,83107.0,Medical
+2015-12,Pitkin,895847.0,Recreational
+2015-12,Pueblo,1251262.0,Medical
+2015-12,Pueblo,1530280.0,Recreational
+2015-12,Routt,203563.0,Medical
+2015-12,Routt,655561.0,Recreational
+2015-12,Saguache,,Recreational
+2015-12,San Juan,,Recreational
+2015-12,San Miguel,45244.0,Medical
+2015-12,San Miguel,275068.0,Recreational
+2015-12,Sedgwick,,Medical
+2015-12,Sedgwick,,Recreational
+2015-12,Summit,234110.0,Medical
+2015-12,Summit,1750307.0,Recreational
+2015-12,Teller,,Medical
+2015-12,Weld,384896.0,Medical
+2015-12,Weld,1849039.0,Recreational
+2016-01,Adams,363668.0,Medical
+2016-01,Adams,2544485.0,Recreational
+2016-01,Alamosa,,Medical
+2016-01,Arapahoe,1547734.0,Medical
+2016-01,Arapahoe,5949573.0,Recreational
+2016-01,Archuleta,,Medical
+2016-01,Archuleta,,Recreational
+2016-01,Boulder,2565967.0,Medical
+2016-01,Boulder,4499880.0,Recreational
+2016-01,Chaffee,,Medical
+2016-01,Chaffee,268240.0,Recreational
+2016-01,Clear Creek,103212.0,Medical
+2016-01,Clear Creek,550192.0,Recreational
+2016-01,Conejos,,Recreational
+2016-01,Costilla,,Medical
+2016-01,Costilla,,Recreational
+2016-01,Denver,14692917.0,Medical
+2016-01,Denver,18969263.0,Recreational
+2016-01,Eagle,258266.0,Medical
+2016-01,Eagle,1214652.0,Recreational
+2016-01,El Paso,7124874.0,Medical
+2016-01,El Paso,,Recreational
+2016-01,Fremont,160049.0,Medical
+2016-01,Garfield,342951.0,Medical
+2016-01,Garfield,821090.0,Recreational
+2016-01,Gilpin,,Medical
+2016-01,Gilpin,136475.0,Recreational
+2016-01,Grand,,Medical
+2016-01,Grand,287813.0,Recreational
+2016-01,Gunnison,,Medical
+2016-01,Gunnison,400086.0,Recreational
+2016-01,Huerfano,,Recreational
+2016-01,Jefferson,1624527.0,Medical
+2016-01,Jefferson,3020022.0,Recreational
+2016-01,La Plata,364582.0,Medical
+2016-01,La Plata,1396817.0,Recreational
+2016-01,Lake,,Recreational
+2016-01,Larimer,1310553.0,Medical
+2016-01,Larimer,2708125.0,Recreational
+2016-01,Las Animas,,Medical
+2016-01,Las Animas,922872.0,Recreational
+2016-01,Mesa,,Medical
+2016-01,Mesa,,Recreational
+2016-01,Moffat,,Medical
+2016-01,Montezuma,79330.0,Medical
+2016-01,Montezuma,532773.0,Recreational
+2016-01,Montrose,,Medical
+2016-01,Morgan,,Medical
+2016-01,Morgan,,Recreational
+2016-01,Ouray,,Medical
+2016-01,Ouray,,Recreational
+2016-01,Park,,Medical
+2016-01,Park,187006.0,Recreational
+2016-01,Pitkin,93239.0,Medical
+2016-01,Pitkin,1008558.0,Recreational
+2016-01,Pueblo,822153.0,Medical
+2016-01,Pueblo,1466234.0,Recreational
+2016-01,Routt,203373.0,Medical
+2016-01,Routt,792416.0,Recreational
+2016-01,Saguache,,Recreational
+2016-01,San Juan,,Recreational
+2016-01,San Miguel,,Medical
+2016-01,San Miguel,385569.0,Recreational
+2016-01,Sedgwick,,Medical
+2016-01,Sedgwick,,Recreational
+2016-01,Summit,228510.0,Medical
+2016-01,Summit,2338782.0,Recreational
+2016-01,Teller,,Medical
+2016-01,Weld,356636.0,Medical
+2016-01,Weld,1793538.0,Recreational
+2016-02,Adams,331503.0,Medical
+2016-02,Adams,2597102.0,Recreational
+2016-02,Alamosa,,Medical
+2016-02,Arapahoe,1502406.0,Medical
+2016-02,Arapahoe,6229934.0,Recreational
+2016-02,Archuleta,,Medical
+2016-02,Archuleta,,Recreational
+2016-02,Boulder,2517617.0,Medical
+2016-02,Boulder,4477304.0,Recreational
+2016-02,Chaffee,,Medical
+2016-02,Chaffee,281840.0,Recreational
+2016-02,Clear Creek,89373.0,Medical
+2016-02,Clear Creek,535811.0,Recreational
+2016-02,Conejos,163449.0,Recreational
+2016-02,Costilla,,Medical
+2016-02,Costilla,153417.0,Recreational
+2016-02,Denver,15302180.0,Medical
+2016-02,Denver,19129746.0,Recreational
+2016-02,Eagle,234659.0,Medical
+2016-02,Eagle,1176777.0,Recreational
+2016-02,El Paso,7548713.0,Medical
+2016-02,El Paso,,Recreational
+2016-02,Fremont,,Medical
+2016-02,Garfield,386348.0,Medical
+2016-02,Garfield,860185.0,Recreational
+2016-02,Gilpin,,Medical
+2016-02,Gilpin,172887.0,Recreational
+2016-02,Grand,,Medical
+2016-02,Grand,279018.0,Recreational
+2016-02,Gunnison,,Medical
+2016-02,Gunnison,413264.0,Recreational
+2016-02,Huerfano,,Recreational
+2016-02,Jefferson,1589401.0,Medical
+2016-02,Jefferson,2970642.0,Recreational
+2016-02,La Plata,360382.0,Medical
+2016-02,La Plata,1484507.0,Recreational
+2016-02,Lake,,Recreational
+2016-02,Larimer,1341468.0,Medical
+2016-02,Larimer,2878307.0,Recreational
+2016-02,Las Animas,,Medical
+2016-02,Las Animas,1012648.0,Recreational
+2016-02,Mesa,,Medical
+2016-02,Mesa,,Recreational
+2016-02,Moffat,,Medical
+2016-02,Montezuma,102860.0,Medical
+2016-02,Montezuma,600808.0,Recreational
+2016-02,Montrose,,Medical
+2016-02,Morgan,,Medical
+2016-02,Morgan,,Recreational
+2016-02,Ouray,,Medical
+2016-02,Ouray,,Recreational
+2016-02,Park,,Medical
+2016-02,Park,176302.0,Recreational
+2016-02,Pitkin,95627.0,Medical
+2016-02,Pitkin,964350.0,Recreational
+2016-02,Pueblo,980275.0,Medical
+2016-02,Pueblo,1686427.0,Recreational
+2016-02,Routt,193928.0,Medical
+2016-02,Routt,772020.0,Recreational
+2016-02,Saguache,,Recreational
+2016-02,San Juan,,Recreational
+2016-02,San Miguel,46544.0,Medical
+2016-02,San Miguel,339892.0,Recreational
+2016-02,Sedgwick,,Medical
+2016-02,Sedgwick,,Recreational
+2016-02,Summit,212147.0,Medical
+2016-02,Summit,2116576.0,Recreational
+2016-02,Teller,,Medical
+2016-02,Weld,395983.0,Medical
+2016-02,Weld,1866786.0,Recreational
+2016-03,Adams,347344.0,Medical
+2016-03,Adams,2909379.0,Recreational
+2016-03,Alamosa,,Medical
+2016-03,Arapahoe,1601551.0,Medical
+2016-03,Arapahoe,7112616.0,Recreational
+2016-03,Archuleta,,Medical
+2016-03,Archuleta,,Recreational
+2016-03,Boulder,2718254.0,Medical
+2016-03,Boulder,5138199.0,Recreational
+2016-03,Chaffee,,Medical
+2016-03,Chaffee,350973.0,Recreational
+2016-03,Clear Creek,87829.0,Medical
+2016-03,Clear Creek,561094.0,Recreational
+2016-03,Conejos,211950.0,Recreational
+2016-03,Costilla,,Medical
+2016-03,Costilla,195952.0,Recreational
+2016-03,Denver,17353519.0,Medical
+2016-03,Denver,21459311.0,Recreational
+2016-03,Eagle,264913.0,Medical
+2016-03,Eagle,1283537.0,Recreational
+2016-03,El Paso,8537583.0,Medical
+2016-03,El Paso,,Recreational
+2016-03,Fremont,207942.0,Medical
+2016-03,Garfield,425553.0,Medical
+2016-03,Garfield,1095523.0,Recreational
+2016-03,Gilpin,,Medical
+2016-03,Gilpin,188204.0,Recreational
+2016-03,Grand,,Medical
+2016-03,Grand,360353.0,Recreational
+2016-03,Gunnison,,Medical
+2016-03,Gunnison,490823.0,Recreational
+2016-03,Huerfano,,Recreational
+2016-03,Jefferson,1715396.0,Medical
+2016-03,Jefferson,3327498.0,Recreational
+2016-03,La Plata,404686.0,Medical
+2016-03,La Plata,1679875.0,Recreational
+2016-03,Lake,,Recreational
+2016-03,Larimer,1401215.0,Medical
+2016-03,Larimer,3197373.0,Recreational
+2016-03,Las Animas,,Medical
+2016-03,Las Animas,1284687.0,Recreational
+2016-03,Mesa,,Medical
+2016-03,Mesa,,Recreational
+2016-03,Moffat,,Medical
+2016-03,Montezuma,102939.0,Medical
+2016-03,Montezuma,728890.0,Recreational
+2016-03,Montrose,,Medical
+2016-03,Morgan,,Medical
+2016-03,Morgan,,Recreational
+2016-03,Ouray,,Medical
+2016-03,Ouray,,Recreational
+2016-03,Park,,Medical
+2016-03,Park,229022.0,Recreational
+2016-03,Pitkin,103033.0,Medical
+2016-03,Pitkin,1082334.0,Recreational
+2016-03,Pueblo,1240646.0,Medical
+2016-03,Pueblo,2074591.0,Recreational
+2016-03,Routt,220567.0,Medical
+2016-03,Routt,759132.0,Recreational
+2016-03,Saguache,,Recreational
+2016-03,San Juan,,Recreational
+2016-03,San Miguel,,Medical
+2016-03,San Miguel,,Recreational
+2016-03,Sedgwick,,Medical
+2016-03,Sedgwick,,Recreational
+2016-03,Summit,,Medical
+2016-03,Summit,2395692.0,Recreational
+2016-03,Teller,,Medical
+2016-03,Weld,,Medical
+2016-03,Weld,2034731.0,Recreational
+2016-04,Adams,387146.0,Medical
+2016-04,Adams,3187313.0,Recreational
+2016-04,Alamosa,,Medical
+2016-04,Arapahoe,1682301.0,Medical
+2016-04,Arapahoe,7531661.0,Recreational
+2016-04,Archuleta,,Medical
+2016-04,Archuleta,,Recreational
+2016-04,Boulder,2706731.0,Medical
+2016-04,Boulder,5082136.0,Recreational
+2016-04,Chaffee,,Medical
+2016-04,Chaffee,300638.0,Recreational
+2016-04,Clear Creek,80570.0,Medical
+2016-04,Clear Creek,423714.0,Recreational
+2016-04,Conejos,221411.0,Recreational
+2016-04,Costilla,,Medical
+2016-04,Costilla,184198.0,Recreational
+2016-04,Denver,17690729.0,Medical
+2016-04,Denver,22606396.0,Recreational
+2016-04,Eagle,231691.0,Medical
+2016-04,Eagle,820436.0,Recreational
+2016-04,El Paso,8357949.0,Medical
+2016-04,El Paso,,Recreational
+2016-04,Fremont,217581.0,Medical
+2016-04,Garfield,468925.0,Medical
+2016-04,Garfield,1153014.0,Recreational
+2016-04,Gilpin,,Medical
+2016-04,Gilpin,190800.0,Recreational
+2016-04,Grand,,Medical
+2016-04,Grand,233601.0,Recreational
+2016-04,Gunnison,,Medical
+2016-04,Gunnison,325678.0,Recreational
+2016-04,Huerfano,,Recreational
+2016-04,Jefferson,1727954.0,Medical
+2016-04,Jefferson,3572554.0,Recreational
+2016-04,La Plata,410448.0,Medical
+2016-04,La Plata,1598561.0,Recreational
+2016-04,Lake,,Recreational
+2016-04,Larimer,1388304.0,Medical
+2016-04,Larimer,3233416.0,Recreational
+2016-04,Las Animas,,Medical
+2016-04,Las Animas,1258520.0,Recreational
+2016-04,Mesa,,Medical
+2016-04,Mesa,,Recreational
+2016-04,Moffat,,Medical
+2016-04,Montezuma,114171.0,Medical
+2016-04,Montezuma,727306.0,Recreational
+2016-04,Montrose,,Medical
+2016-04,Morgan,,Medical
+2016-04,Morgan,,Recreational
+2016-04,Ouray,,Medical
+2016-04,Ouray,,Recreational
+2016-04,Park,,Medical
+2016-04,Park,199423.0,Recreational
+2016-04,Pitkin,88482.0,Medical
+2016-04,Pitkin,501414.0,Recreational
+2016-04,Pueblo,1248985.0,Medical
+2016-04,Pueblo,2069169.0,Recreational
+2016-04,Routt,188783.0,Medical
+2016-04,Routt,550366.0,Recreational
+2016-04,Saguache,,Recreational
+2016-04,San Juan,,Recreational
+2016-04,San Miguel,44771.0,Medical
+2016-04,San Miguel,138111.0,Recreational
+2016-04,Sedgwick,,Medical
+2016-04,Sedgwick,,Recreational
+2016-04,Summit,201583.0,Medical
+2016-04,Summit,1391044.0,Recreational
+2016-04,Teller,,Medical
+2016-04,Weld,425780.0,Medical
+2016-04,Weld,2029498.0,Recreational
+2016-05,Adams,391906.0,Medical
+2016-05,Adams,3360096.0,Recreational
+2016-05,Alamosa,,Medical
+2016-05,Arapahoe,1511924.0,Medical
+2016-05,Arapahoe,7426175.0,Recreational
+2016-05,Archuleta,,Medical
+2016-05,Archuleta,,Recreational
+2016-05,Boulder,2436555.0,Medical
+2016-05,Boulder,5315292.0,Recreational
+2016-05,Chaffee,,Medical
+2016-05,Chaffee,333276.0,Recreational
+2016-05,Clear Creek,83258.0,Medical
+2016-05,Clear Creek,452848.0,Recreational
+2016-05,Conejos,257716.0,Recreational
+2016-05,Costilla,,Medical
+2016-05,Costilla,223862.0,Recreational
+2016-05,Denver,17833330.0,Medical
+2016-05,Denver,21615189.0,Recreational
+2016-05,Eagle,194685.0,Medical
+2016-05,Eagle,650881.0,Recreational
+2016-05,El Paso,8343490.0,Medical
+2016-05,El Paso,,Recreational
+2016-05,Fremont,207499.0,Medical
+2016-05,Garfield,526740.0,Medical
+2016-05,Garfield,1210134.0,Recreational
+2016-05,Gilpin,,Medical
+2016-05,Gilpin,225826.0,Recreational
+2016-05,Grand,,Medical
+2016-05,Grand,189787.0,Recreational
+2016-05,Gunnison,,Medical
+2016-05,Gunnison,344705.0,Recreational
+2016-05,Huerfano,,Recreational
+2016-05,Jefferson,1679965.0,Medical
+2016-05,Jefferson,3572041.0,Recreational
+2016-05,La Plata,400259.0,Medical
+2016-05,La Plata,1740113.0,Recreational
+2016-05,Lake,147684.0,Recreational
+2016-05,Larimer,1292029.0,Medical
+2016-05,Larimer,3465166.0,Recreational
+2016-05,Las Animas,,Medical
+2016-05,Las Animas,1456567.0,Recreational
+2016-05,Mesa,,Medical
+2016-05,Mesa,,Recreational
+2016-05,Moffat,,Medical
+2016-05,Montezuma,100642.0,Medical
+2016-05,Montezuma,842550.0,Recreational
+2016-05,Montrose,,Medical
+2016-05,Morgan,,Medical
+2016-05,Morgan,543167.0,Recreational
+2016-05,Ouray,,Medical
+2016-05,Ouray,325887.0,Recreational
+2016-05,Park,,Medical
+2016-05,Park,237775.0,Recreational
+2016-05,Pitkin,80601.0,Medical
+2016-05,Pitkin,392581.0,Recreational
+2016-05,Pueblo,1262557.0,Medical
+2016-05,Pueblo,2184317.0,Recreational
+2016-05,Routt,,Medical
+2016-05,Routt,514632.0,Recreational
+2016-05,Saguache,,Recreational
+2016-05,San Juan,,Recreational
+2016-05,San Miguel,37042.0,Medical
+2016-05,San Miguel,157740.0,Recreational
+2016-05,Sedgwick,,Medical
+2016-05,Sedgwick,,Recreational
+2016-05,Summit,161710.0,Medical
+2016-05,Summit,991298.0,Recreational
+2016-05,Teller,,Medical
+2016-05,Weld,360773.0,Medical
+2016-05,Weld,2043048.0,Recreational
+2016-06,Adams,379841.0,Medical
+2016-06,Adams,3434567.0,Recreational
+2016-06,Alamosa,,Medical
+2016-06,Arapahoe,1485581.0,Medical
+2016-06,Arapahoe,7565406.0,Recreational
+2016-06,Archuleta,,Medical
+2016-06,Archuleta,,Recreational
+2016-06,Boulder,2271053.0,Medical
+2016-06,Boulder,5541278.0,Recreational
+2016-06,Chaffee,,Medical
+2016-06,Chaffee,455848.0,Recreational
+2016-06,Clear Creek,68418.0,Medical
+2016-06,Clear Creek,553669.0,Recreational
+2016-06,Conejos,332403.0,Recreational
+2016-06,Costilla,,Medical
+2016-06,Costilla,265269.0,Recreational
+2016-06,Denver,18632737.0,Medical
+2016-06,Denver,21841675.0,Recreational
+2016-06,Eagle,211161.0,Medical
+2016-06,Eagle,842569.0,Recreational
+2016-06,El Paso,8443101.0,Medical
+2016-06,El Paso,,Recreational
+2016-06,Fremont,212028.0,Medical
+2016-06,Garfield,426581.0,Medical
+2016-06,Garfield,1333408.0,Recreational
+2016-06,Gilpin,,Medical
+2016-06,Gilpin,243952.0,Recreational
+2016-06,Grand,,Medical
+2016-06,Grand,261059.0,Recreational
+2016-06,Gunnison,,Medical
+2016-06,Gunnison,479935.0,Recreational
+2016-06,Huerfano,,Recreational
+2016-06,Jefferson,1538630.0,Medical
+2016-06,Jefferson,3753947.0,Recreational
+2016-06,La Plata,441148.0,Medical
+2016-06,La Plata,1939519.0,Recreational
+2016-06,Lake,206574.0,Recreational
+2016-06,Larimer,1222737.0,Medical
+2016-06,Larimer,3648840.0,Recreational
+2016-06,Las Animas,,Medical
+2016-06,Las Animas,1622815.0,Recreational
+2016-06,Mesa,,Medical
+2016-06,Mesa,,Recreational
+2016-06,Moffat,,Medical
+2016-06,Montezuma,96553.0,Medical
+2016-06,Montezuma,914168.0,Recreational
+2016-06,Montrose,,Medical
+2016-06,Morgan,,Medical
+2016-06,Morgan,549251.0,Recreational
+2016-06,Ouray,,Medical
+2016-06,Ouray,,Recreational
+2016-06,Park,,Medical
+2016-06,Park,299449.0,Recreational
+2016-06,Pitkin,94197.0,Medical
+2016-06,Pitkin,673427.0,Recreational
+2016-06,Pueblo,1386239.0,Medical
+2016-06,Pueblo,2365115.0,Recreational
+2016-06,Routt,140614.0,Medical
+2016-06,Routt,649366.0,Recreational
+2016-06,Saguache,,Recreational
+2016-06,San Juan,,Recreational
+2016-06,San Miguel,43855.0,Medical
+2016-06,San Miguel,329083.0,Recreational
+2016-06,Sedgwick,,Medical
+2016-06,Sedgwick,,Recreational
+2016-06,Summit,153626.0,Medical
+2016-06,Summit,1253529.0,Recreational
+2016-06,Teller,,Medical
+2016-06,Weld,301573.0,Medical
+2016-06,Weld,2024804.0,Recreational
+2016-07,Adams,407856.0,Medical
+2016-07,Adams,4154813.0,Recreational
+2016-07,Alamosa,,Medical
+2016-07,Arapahoe,1544755.0,Medical
+2016-07,Arapahoe,8738376.0,Recreational
+2016-07,Archuleta,,Medical
+2016-07,Archuleta,,Recreational
+2016-07,Boulder,2288359.0,Medical
+2016-07,Boulder,6365624.0,Recreational
+2016-07,Chaffee,,Medical
+2016-07,Chaffee,,Recreational
+2016-07,Clear Creek,69153.0,Medical
+2016-07,Clear Creek,672704.0,Recreational
+2016-07,Conejos,436196.0,Recreational
+2016-07,Costilla,,Medical
+2016-07,Costilla,383906.0,Recreational
+2016-07,Denver,19516909.0,Medical
+2016-07,Denver,25938973.0,Recreational
+2016-07,Eagle,203569.0,Medical
+2016-07,Eagle,1111856.0,Recreational
+2016-07,El Paso,9016410.0,Medical
+2016-07,El Paso,,Recreational
+2016-07,Fremont,229800.0,Medical
+2016-07,Garfield,443929.0,Medical
+2016-07,Garfield,1628885.0,Recreational
+2016-07,Gilpin,,Medical
+2016-07,Gilpin,267260.0,Recreational
+2016-07,Grand,,Medical
+2016-07,Grand,381080.0,Recreational
+2016-07,Gunnison,,Medical
+2016-07,Gunnison,459794.0,Recreational
+2016-07,Huerfano,,Recreational
+2016-07,Jefferson,1706015.0,Medical
+2016-07,Jefferson,4318330.0,Recreational
+2016-07,La Plata,429948.0,Medical
+2016-07,La Plata,2306604.0,Recreational
+2016-07,Lake,274691.0,Recreational
+2016-07,Larimer,1355537.0,Medical
+2016-07,Larimer,4181160.0,Recreational
+2016-07,Las Animas,,Medical
+2016-07,Las Animas,2179979.0,Recreational
+2016-07,Mesa,,Medical
+2016-07,Mesa,,Recreational
+2016-07,Moffat,,Medical
+2016-07,Montezuma,104162.0,Medical
+2016-07,Montezuma,1187679.0,Recreational
+2016-07,Montrose,,Medical
+2016-07,Morgan,,Medical
+2016-07,Morgan,634140.0,Recreational
+2016-07,Ouray,,Medical
+2016-07,Ouray,505470.0,Recreational
+2016-07,Park,,Medical
+2016-07,Park,381198.0,Recreational
+2016-07,Pitkin,97253.0,Medical
+2016-07,Pitkin,1062245.0,Recreational
+2016-07,Pueblo,1351605.0,Medical
+2016-07,Pueblo,2995085.0,Recreational
+2016-07,Routt,157223.0,Medical
+2016-07,Routt,882414.0,Recreational
+2016-07,Saguache,,Recreational
+2016-07,San Juan,,Recreational
+2016-07,San Miguel,43759.0,Medical
+2016-07,San Miguel,446217.0,Recreational
+2016-07,Sedgwick,,Medical
+2016-07,Sedgwick,,Recreational
+2016-07,Summit,170367.0,Medical
+2016-07,Summit,1760408.0,Recreational
+2016-07,Teller,,Medical
+2016-07,Weld,335697.0,Medical
+2016-07,Weld,2381224.0,Recreational
+2016-08,Adams,405729.0,Medical
+2016-08,Adams,4444010.0,Recreational
+2016-08,Alamosa,,Medical
+2016-08,Arapahoe,1587942.0,Medical
+2016-08,Arapahoe,9084765.0,Recreational
+2016-08,Archuleta,,Medical
+2016-08,Archuleta,,Recreational
+2016-08,Boulder,2346058.0,Medical
+2016-08,Boulder,6420613.0,Recreational
+2016-08,Chaffee,,Medical
+2016-08,Chaffee,,Recreational
+2016-08,Clear Creek,90213.0,Medical
+2016-08,Clear Creek,660536.0,Recreational
+2016-08,Conejos,424132.0,Recreational
+2016-08,Costilla,,Medical
+2016-08,Costilla,369689.0,Recreational
+2016-08,Denver,20203873.0,Medical
+2016-08,Denver,27642402.0,Recreational
+2016-08,Eagle,207938.0,Medical
+2016-08,Eagle,1120217.0,Recreational
+2016-08,El Paso,9379173.0,Medical
+2016-08,El Paso,,Recreational
+2016-08,Fremont,241413.0,Medical
+2016-08,Garfield,492910.0,Medical
+2016-08,Garfield,1712513.0,Recreational
+2016-08,Gilpin,,Medical
+2016-08,Gilpin,284116.0,Recreational
+2016-08,Grand,,Medical
+2016-08,Grand,401001.0,Recreational
+2016-08,Gunnison,,Medical
+2016-08,Gunnison,477649.0,Recreational
+2016-08,Huerfano,,Recreational
+2016-08,Jefferson,1704885.0,Medical
+2016-08,Jefferson,4468831.0,Recreational
+2016-08,La Plata,447191.0,Medical
+2016-08,La Plata,2212954.0,Recreational
+2016-08,Lake,297877.0,Recreational
+2016-08,Larimer,1416132.0,Medical
+2016-08,Larimer,4318202.0,Recreational
+2016-08,Las Animas,,Medical
+2016-08,Las Animas,2193813.0,Recreational
+2016-08,Mesa,,Medical
+2016-08,Mesa,,Recreational
+2016-08,Moffat,,Medical
+2016-08,Montezuma,88650.0,Medical
+2016-08,Montezuma,1297984.0,Recreational
+2016-08,Montrose,,Medical
+2016-08,Morgan,,Medical
+2016-08,Morgan,,Recreational
+2016-08,Ouray,,Medical
+2016-08,Ouray,492384.0,Recreational
+2016-08,Park,,Medical
+2016-08,Park,378230.0,Recreational
+2016-08,Pitkin,101521.0,Medical
+2016-08,Pitkin,1017858.0,Recreational
+2016-08,Pueblo,945662.0,Medical
+2016-08,Pueblo,2940830.0,Recreational
+2016-08,Routt,171608.0,Medical
+2016-08,Routt,888583.0,Recreational
+2016-08,Saguache,,Recreational
+2016-08,San Juan,,Recreational
+2016-08,San Miguel,47479.0,Medical
+2016-08,San Miguel,411794.0,Recreational
+2016-08,Sedgwick,,Medical
+2016-08,Sedgwick,,Recreational
+2016-08,Summit,165787.0,Medical
+2016-08,Summit,1702918.0,Recreational
+2016-08,Teller,,Medical
+2016-08,Weld,340391.0,Medical
+2016-08,Weld,2444651.0,Recreational
+2016-09,Adams,412289.0,Medical
+2016-09,Adams,4668880.0,Recreational
+2016-09,Alamosa,,Medical
+2016-09,Arapahoe,1493979.0,Medical
+2016-09,Arapahoe,9183907.0,Recreational
+2016-09,Archuleta,,Medical
+2016-09,Archuleta,,Recreational
+2016-09,Boulder,2337601.0,Medical
+2016-09,Boulder,6306894.0,Recreational
+2016-09,Chaffee,,Medical
+2016-09,Chaffee,489993.0,Recreational
+2016-09,Clear Creek,76291.0,Medical
+2016-09,Clear Creek,608871.0,Recreational
+2016-09,Conejos,435435.0,Recreational
+2016-09,Costilla,,Medical
+2016-09,Costilla,342066.0,Recreational
+2016-09,Denver,19190347.0,Medical
+2016-09,Denver,29423313.0,Recreational
+2016-09,Eagle,191615.0,Medical
+2016-09,Eagle,995070.0,Recreational
+2016-09,El Paso,9387013.0,Medical
+2016-09,El Paso,,Recreational
+2016-09,Fremont,239079.0,Medical
+2016-09,Garfield,425704.0,Medical
+2016-09,Garfield,1754542.0,Recreational
+2016-09,Gilpin,,Medical
+2016-09,Gilpin,300505.0,Recreational
+2016-09,Grand,,Medical
+2016-09,Grand,,Recreational
+2016-09,Gunnison,,Medical
+2016-09,Gunnison,627401.0,Recreational
+2016-09,Huerfano,,Recreational
+2016-09,Jefferson,1611356.0,Medical
+2016-09,Jefferson,4537417.0,Recreational
+2016-09,La Plata,442682.0,Medical
+2016-09,La Plata,2226213.0,Recreational
+2016-09,Lake,251980.0,Recreational
+2016-09,Larimer,1335581.0,Medical
+2016-09,Larimer,4343498.0,Recreational
+2016-09,Las Animas,,Medical
+2016-09,Las Animas,2485885.0,Recreational
+2016-09,Mesa,,Medical
+2016-09,Mesa,,Recreational
+2016-09,Moffat,,Medical
+2016-09,Montezuma,84028.0,Medical
+2016-09,Montezuma,1439910.0,Recreational
+2016-09,Montrose,,Medical
+2016-09,Morgan,,Medical
+2016-09,Morgan,652609.0,Recreational
+2016-09,Ouray,,Medical
+2016-09,Ouray,515896.0,Recreational
+2016-09,Park,,Medical
+2016-09,Park,359173.0,Recreational
+2016-09,Pitkin,79255.0,Medical
+2016-09,Pitkin,852785.0,Recreational
+2016-09,Pueblo,924444.0,Medical
+2016-09,Pueblo,3140055.0,Recreational
+2016-09,Routt,,Medical
+2016-09,Routt,835572.0,Recreational
+2016-09,Saguache,,Recreational
+2016-09,San Juan,,Recreational
+2016-09,San Miguel,52220.0,Medical
+2016-09,San Miguel,437620.0,Recreational
+2016-09,Sedgwick,,Medical
+2016-09,Sedgwick,,Recreational
+2016-09,Summit,142523.0,Medical
+2016-09,Summit,1412253.0,Recreational
+2016-09,Teller,,Medical
+2016-09,Weld,356553.0,Medical
+2016-09,Weld,2567248.0,Recreational
+2016-10,Adams,416490.0,Medical
+2016-10,Adams,4578245.0,Recreational
+2016-10,Alamosa,,Medical
+2016-10,Arapahoe,1472572.0,Medical
+2016-10,Arapahoe,8954428.0,Recreational
+2016-10,Archuleta,,Medical
+2016-10,Archuleta,,Recreational
+2016-10,Boulder,2202702.0,Medical
+2016-10,Boulder,5993882.0,Recreational
+2016-10,Chaffee,,Medical
+2016-10,Chaffee,352254.0,Recreational
+2016-10,Clear Creek,69509.0,Medical
+2016-10,Clear Creek,486814.0,Recreational
+2016-10,Conejos,380038.0,Recreational
+2016-10,Costilla,,Medical
+2016-10,Costilla,265876.0,Recreational
+2016-10,Denver,17196445.0,Medical
+2016-10,Denver,28578229.0,Recreational
+2016-10,Eagle,173346.0,Medical
+2016-10,Eagle,852099.0,Recreational
+2016-10,El Paso,8569109.0,Medical
+2016-10,El Paso,,Recreational
+2016-10,Fremont,189039.0,Medical
+2016-10,Garfield,342751.0,Medical
+2016-10,Garfield,1608072.0,Recreational
+2016-10,Gilpin,,Medical
+2016-10,Gilpin,253131.0,Recreational
+2016-10,Grand,,Medical
+2016-10,Grand,258512.0,Recreational
+2016-10,Gunnison,,Medical
+2016-10,Gunnison,481440.0,Recreational
+2016-10,Huerfano,,Recreational
+2016-10,Jefferson,1637140.0,Medical
+2016-10,Jefferson,4226976.0,Recreational
+2016-10,La Plata,376178.0,Medical
+2016-10,La Plata,1954316.0,Recreational
+2016-10,Lake,198027.0,Recreational
+2016-10,Larimer,1303215.0,Medical
+2016-10,Larimer,4204839.0,Recreational
+2016-10,Las Animas,,Medical
+2016-10,Las Animas,2343718.0,Recreational
+2016-10,Mesa,,Medical
+2016-10,Mesa,,Recreational
+2016-10,Moffat,,Medical
+2016-10,Montezuma,65684.0,Medical
+2016-10,Montezuma,1412949.0,Recreational
+2016-10,Montrose,,Medical
+2016-10,Morgan,,Medical
+2016-10,Morgan,621119.0,Recreational
+2016-10,Ouray,,Medical
+2016-10,Ouray,404670.0,Recreational
+2016-10,Park,,Medical
+2016-10,Park,304140.0,Recreational
+2016-10,Pitkin,71227.0,Medical
+2016-10,Pitkin,527278.0,Recreational
+2016-10,Pueblo,645119.0,Medical
+2016-10,Pueblo,2730719.0,Recreational
+2016-10,Routt,205695.0,Medical
+2016-10,Routt,665803.0,Recreational
+2016-10,Saguache,,Recreational
+2016-10,San Juan,,Recreational
+2016-10,San Miguel,40475.0,Medical
+2016-10,San Miguel,242681.0,Recreational
+2016-10,Sedgwick,,Medical
+2016-10,Sedgwick,,Recreational
+2016-10,Summit,156993.0,Medical
+2016-10,Summit,1235632.0,Recreational
+2016-10,Teller,,Medical
+2016-10,Weld,242582.0,Medical
+2016-10,Weld,2535546.0,Recreational
+2016-11,Adams,529977.0,Medical
+2016-11,Adams,4396031.0,Recreational
+2016-11,Alamosa,,Medical
+2016-11,Arapahoe,1458869.0,Medical
+2016-11,Arapahoe,8514717.0,Recreational
+2016-11,Archuleta,,Medical
+2016-11,Archuleta,,Recreational
+2016-11,Boulder,2099029.0,Medical
+2016-11,Boulder,5444937.0,Recreational
+2016-11,Chaffee,,Medical
+2016-11,Chaffee,308023.0,Recreational
+2016-11,Clear Creek,70063.0,Medical
+2016-11,Clear Creek,431209.0,Recreational
+2016-11,Conejos,320078.0,Recreational
+2016-11,Costilla,,Medical
+2016-11,Costilla,228406.0,Recreational
+2016-11,Denver,17182972.0,Medical
+2016-11,Denver,26146211.0,Recreational
+2016-11,Eagle,150334.0,Medical
+2016-11,Eagle,886933.0,Recreational
+2016-11,El Paso,8011818.0,Medical
+2016-11,El Paso,,Recreational
+2016-11,Fremont,,Medical
+2016-11,Garfield,317199.0,Medical
+2016-11,Garfield,1372095.0,Recreational
+2016-11,Gilpin,,Medical
+2016-11,Gilpin,187219.0,Recreational
+2016-11,Grand,,Medical
+2016-11,Grand,250357.0,Recreational
+2016-11,Gunnison,,Medical
+2016-11,Gunnison,390416.0,Recreational
+2016-11,Huerfano,,Recreational
+2016-11,Jefferson,1474361.0,Medical
+2016-11,Jefferson,3935409.0,Recreational
+2016-11,La Plata,339564.0,Medical
+2016-11,La Plata,1718599.0,Recreational
+2016-11,Lake,,Recreational
+2016-11,Larimer,1211727.0,Medical
+2016-11,Larimer,3964140.0,Recreational
+2016-11,Las Animas,,Medical
+2016-11,Las Animas,2305460.0,Recreational
+2016-11,Mesa,,Medical
+2016-11,Mesa,,Recreational
+2016-11,Moffat,,Medical
+2016-11,Montezuma,62866.0,Medical
+2016-11,Montezuma,1212346.0,Recreational
+2016-11,Montrose,,Medical
+2016-11,Morgan,,Medical
+2016-11,Morgan,558715.0,Recreational
+2016-11,Ouray,,Medical
+2016-11,Ouray,298217.0,Recreational
+2016-11,Park,,Medical
+2016-11,Park,277990.0,Recreational
+2016-11,Pitkin,60322.0,Medical
+2016-11,Pitkin,445008.0,Recreational
+2016-11,Pueblo,659236.0,Medical
+2016-11,Pueblo,2583047.0,Recreational
+2016-11,Routt,168346.0,Medical
+2016-11,Routt,593501.0,Recreational
+2016-11,Saguache,,Recreational
+2016-11,San Juan,,Recreational
+2016-11,San Miguel,30453.0,Medical
+2016-11,San Miguel,146596.0,Recreational
+2016-11,Sedgwick,,Medical
+2016-11,Sedgwick,,Recreational
+2016-11,Summit,,Medical
+2016-11,Summit,1314039.0,Recreational
+2016-11,Teller,,Medical
+2016-11,Weld,,Medical
+2016-11,Weld,2417762.0,Recreational
+2016-12,Adams,568391.0,Medical
+2016-12,Adams,4593466.0,Recreational
+2016-12,Alamosa,,Medical
+2016-12,Arapahoe,1447994.0,Medical
+2016-12,Arapahoe,9260969.0,Recreational
+2016-12,Archuleta,,Medical
+2016-12,Archuleta,,Recreational
+2016-12,Boulder,2510721.0,Medical
+2016-12,Boulder,5821440.0,Recreational
+2016-12,Chaffee,,Medical
+2016-12,Chaffee,351614.0,Recreational
+2016-12,Clear Creek,61999.0,Medical
+2016-12,Clear Creek,526729.0,Recreational
+2016-12,Conejos,339375.0,Recreational
+2016-12,Costilla,,Medical
+2016-12,Costilla,223780.0,Recreational
+2016-12,Denver,16064917.0,Medical
+2016-12,Denver,27400081.0,Recreational
+2016-12,Eagle,163815.0,Medical
+2016-12,Eagle,1398924.0,Recreational
+2016-12,El Paso,8417826.0,Medical
+2016-12,El Paso,,Recreational
+2016-12,Fremont,173405.0,Medical
+2016-12,Garfield,322592.0,Medical
+2016-12,Garfield,1451481.0,Recreational
+2016-12,Gilpin,,Medical
+2016-12,Gilpin,204163.0,Recreational
+2016-12,Grand,,Medical
+2016-12,Grand,390044.0,Recreational
+2016-12,Gunnison,,Medical
+2016-12,Gunnison,530400.0,Recreational
+2016-12,Huerfano,,Recreational
+2016-12,Jefferson,1545983.0,Medical
+2016-12,Jefferson,4354956.0,Recreational
+2016-12,La Plata,334003.0,Medical
+2016-12,La Plata,2011310.0,Recreational
+2016-12,Lake,182830.0,Recreational
+2016-12,Larimer,1260854.0,Medical
+2016-12,Larimer,4145435.0,Recreational
+2016-12,Las Animas,,Medical
+2016-12,Las Animas,2389493.0,Recreational
+2016-12,Mesa,,Medical
+2016-12,Mesa,,Recreational
+2016-12,Moffat,,Medical
+2016-12,Montezuma,,Medical
+2016-12,Montezuma,1211288.0,Recreational
+2016-12,Montrose,,Medical
+2016-12,Morgan,,Medical
+2016-12,Morgan,579314.0,Recreational
+2016-12,Otero,,Medical
+2016-12,Ouray,,Medical
+2016-12,Ouray,334503.0,Recreational
+2016-12,Park,,Medical
+2016-12,Park,301869.0,Recreational
+2016-12,Pitkin,70724.0,Medical
+2016-12,Pitkin,1065431.0,Recreational
+2016-12,Pueblo,637069.0,Medical
+2016-12,Pueblo,2566125.0,Recreational
+2016-12,Routt,188092.0,Medical
+2016-12,Routt,789398.0,Recreational
+2016-12,Saguache,,Recreational
+2016-12,San Juan,,Recreational
+2016-12,San Miguel,30626.0,Medical
+2016-12,San Miguel,316572.0,Recreational
+2016-12,Sedgwick,,Medical
+2016-12,Sedgwick,,Recreational
+2016-12,Summit,163465.0,Medical
+2016-12,Summit,2203456.0,Recreational
+2016-12,Teller,,Medical
+2016-12,Weld,309108.0,Medical
+2016-12,Weld,2486668.0,Recreational
+2017-01,Adams,520138.0,Medical
+2017-01,Adams,4192709.0,Recreational
+2017-01,Alamosa,,Medical
+2017-01,Arapahoe,1137598.0,Medical
+2017-01,Arapahoe,8481055.0,Recreational
+2017-01,Archuleta,,Medical
+2017-01,Archuleta,,Recreational
+2017-01,Boulder,1943678.0,Medical
+2017-01,Boulder,5351831.0,Recreational
+2017-01,Chaffee,,Medical
+2017-01,Chaffee,316009.0,Recreational
+2017-01,Clear Creek,52434.0,Medical
+2017-01,Clear Creek,584198.0,Recreational
+2017-01,Conejos,294331.0,Recreational
+2017-01,Costilla,,Medical
+2017-01,Costilla,214330.0,Recreational
+2017-01,Denver,15275938.0,Medical
+2017-01,Denver,25681498.0,Recreational
+2017-01,Eagle,135334.0,Medical
+2017-01,Eagle,1297711.0,Recreational
+2017-01,El Paso,7656270.0,Medical
+2017-01,El Paso,,Recreational
+2017-01,Fremont,,Medical
+2017-01,Garfield,308266.0,Medical
+2017-01,Garfield,1373945.0,Recreational
+2017-01,Gilpin,,Medical
+2017-01,Gilpin,157003.0,Recreational
+2017-01,Grand,,Medical
+2017-01,Grand,378163.0,Recreational
+2017-01,Gunnison,,Medical
+2017-01,Gunnison,546542.0,Recreational
+2017-01,Huerfano,,Recreational
+2017-01,Jefferson,1370186.0,Medical
+2017-01,Jefferson,4098431.0,Recreational
+2017-01,La Plata,301119.0,Medical
+2017-01,La Plata,1655168.0,Recreational
+2017-01,Lake,188571.0,Recreational
+2017-01,Larimer,1099359.0,Medical
+2017-01,Larimer,3695944.0,Recreational
+2017-01,Las Animas,,Medical
+2017-01,Las Animas,2162976.0,Recreational
+2017-01,Mesa,,Medical
+2017-01,Mesa,,Recreational
+2017-01,Moffat,,Medical
+2017-01,Montezuma,55703.0,Medical
+2017-01,Montezuma,1146208.0,Recreational
+2017-01,Montrose,,Medical
+2017-01,Morgan,,Medical
+2017-01,Morgan,,Recreational
+2017-01,Otero,,Medical
+2017-01,Ouray,,Medical
+2017-01,Ouray,326182.0,Recreational
+2017-01,Park,,Medical
+2017-01,Park,267804.0,Recreational
+2017-01,Pitkin,66911.0,Medical
+2017-01,Pitkin,1164037.0,Recreational
+2017-01,Pueblo,515017.0,Medical
+2017-01,Pueblo,2334107.0,Recreational
+2017-01,Routt,186048.0,Medical
+2017-01,Routt,938153.0,Recreational
+2017-01,Saguache,,Recreational
+2017-01,San Juan,,Recreational
+2017-01,San Miguel,35319.0,Medical
+2017-01,San Miguel,426586.0,Recreational
+2017-01,Sedgwick,,Medical
+2017-01,Sedgwick,,Recreational
+2017-01,Summit,,Medical
+2017-01,Summit,2678675.0,Recreational
+2017-01,Teller,,Medical
+2017-01,Weld,267811.0,Medical
+2017-01,Weld,2382718.0,Recreational
+2017-02,Adams,602151.0,Medical
+2017-02,Adams,4117924.0,Recreational
+2017-02,Alamosa,,Medical
+2017-02,Arapahoe,1330979.0,Medical
+2017-02,Arapahoe,8243087.0,Recreational
+2017-02,Archuleta,,Medical
+2017-02,Archuleta,498578.0,Recreational
+2017-02,Boulder,1728022.0,Medical
+2017-02,Boulder,5165008.0,Recreational
+2017-02,Chaffee,,Medical
+2017-02,Chaffee,311277.0,Recreational
+2017-02,Clear Creek,59126.0,Medical
+2017-02,Clear Creek,551247.0,Recreational
+2017-02,Conejos,331768.0,Recreational
+2017-02,Costilla,,Medical
+2017-02,Costilla,214658.0,Recreational
+2017-02,Denver,14300291.0,Medical
+2017-02,Denver,25223748.0,Recreational
+2017-02,Eagle,136357.0,Medical
+2017-02,Eagle,1277562.0,Recreational
+2017-02,El Paso,7876520.0,Medical
+2017-02,El Paso,,Recreational
+2017-02,Fremont,164115.0,Medical
+2017-02,Garfield,274508.0,Medical
+2017-02,Garfield,1492785.0,Recreational
+2017-02,Gilpin,,Medical
+2017-02,Gilpin,180512.0,Recreational
+2017-02,Grand,,Medical
+2017-02,Grand,366095.0,Recreational
+2017-02,Gunnison,,Medical
+2017-02,Gunnison,493440.0,Recreational
+2017-02,Huerfano,,Recreational
+2017-02,Jefferson,1519126.0,Medical
+2017-02,Jefferson,3970982.0,Recreational
+2017-02,La Plata,282052.0,Medical
+2017-02,La Plata,1708769.0,Recreational
+2017-02,Lake,187885.0,Recreational
+2017-02,Larimer,1041868.0,Medical
+2017-02,Larimer,3771110.0,Recreational
+2017-02,Las Animas,31212.0,Medical
+2017-02,Las Animas,2558480.0,Recreational
+2017-02,Mesa,,Medical
+2017-02,Mesa,,Recreational
+2017-02,Moffat,,Medical
+2017-02,Montezuma,57030.0,Medical
+2017-02,Montezuma,1275430.0,Recreational
+2017-02,Montrose,,Medical
+2017-02,Morgan,,Medical
+2017-02,Morgan,623494.0,Recreational
+2017-02,Otero,,Medical
+2017-02,Ouray,,Medical
+2017-02,Ouray,331947.0,Recreational
+2017-02,Park,,Medical
+2017-02,Park,275968.0,Recreational
+2017-02,Pitkin,64017.0,Medical
+2017-02,Pitkin,1076901.0,Recreational
+2017-02,Pueblo,562271.0,Medical
+2017-02,Pueblo,2575500.0,Recreational
+2017-02,Routt,161179.0,Medical
+2017-02,Routt,912576.0,Recreational
+2017-02,Saguache,,Recreational
+2017-02,San Juan,,Recreational
+2017-02,San Miguel,22889.0,Medical
+2017-02,San Miguel,394742.0,Recreational
+2017-02,Sedgwick,,Medical
+2017-02,Sedgwick,,Recreational
+2017-02,Summit,138716.0,Medical
+2017-02,Summit,2403241.0,Recreational
+2017-02,Teller,,Medical
+2017-02,Weld,270319.0,Medical
+2017-02,Weld,2440896.0,Recreational
+2017-03,Adams,913402.0,Medical
+2017-03,Adams,5044686.0,Recreational
+2017-03,Alamosa,,Medical
+2017-03,Arapahoe,1334138.0,Medical
+2017-03,Arapahoe,10106784.0,Recreational
+2017-03,Archuleta,,Medical
+2017-03,Archuleta,605222.0,Recreational
+2017-03,Boulder,1997004.0,Medical
+2017-03,Boulder,6322530.0,Recreational
+2017-03,Chaffee,,Medical
+2017-03,Chaffee,423717.0,Recreational
+2017-03,Clear Creek,64572.0,Medical
+2017-03,Clear Creek,640228.0,Recreational
+2017-03,Conejos,401292.0,Recreational
+2017-03,Costilla,,Medical
+2017-03,Costilla,295783.0,Recreational
+2017-03,Denver,17960587.0,Medical
+2017-03,Denver,30626743.0,Recreational
+2017-03,Eagle,163530.0,Medical
+2017-03,Eagle,1472005.0,Recreational
+2017-03,El Paso,9287927.0,Medical
+2017-03,El Paso,,Recreational
+2017-03,Fremont,182868.0,Medical
+2017-03,Garfield,336144.0,Medical
+2017-03,Garfield,1854980.0,Recreational
+2017-03,Gilpin,,Medical
+2017-03,Gilpin,216220.0,Recreational
+2017-03,Grand,,Medical
+2017-03,Grand,452276.0,Recreational
+2017-03,Gunnison,,Medical
+2017-03,Gunnison,617409.0,Recreational
+2017-03,Huerfano,,Recreational
+2017-03,Jefferson,1607995.0,Medical
+2017-03,Jefferson,4831958.0,Recreational
+2017-03,La Plata,338875.0,Medical
+2017-03,La Plata,2125562.0,Recreational
+2017-03,Lake,,Recreational
+2017-03,Larimer,1197682.0,Medical
+2017-03,Larimer,4573556.0,Recreational
+2017-03,Las Animas,35131.0,Medical
+2017-03,Las Animas,3349342.0,Recreational
+2017-03,Mesa,,Medical
+2017-03,Mesa,,Recreational
+2017-03,Moffat,,Medical
+2017-03,Montezuma,63516.0,Medical
+2017-03,Montezuma,1684919.0,Recreational
+2017-03,Montrose,,Medical
+2017-03,Morgan,,Medical
+2017-03,Morgan,,Recreational
+2017-03,Otero,,Medical
+2017-03,Ouray,,Medical
+2017-03,Ouray,,Recreational
+2017-03,Park,,Medical
+2017-03,Park,356540.0,Recreational
+2017-03,Pitkin,74384.0,Medical
+2017-03,Pitkin,1277247.0,Recreational
+2017-03,Pueblo,676620.0,Medical
+2017-03,Pueblo,3341395.0,Recreational
+2017-03,Routt,,Medical
+2017-03,Routt,1010851.0,Recreational
+2017-03,Saguache,,Recreational
+2017-03,San Juan,,Recreational
+2017-03,San Miguel,27209.0,Medical
+2017-03,San Miguel,477587.0,Recreational
+2017-03,Sedgwick,,Medical
+2017-03,Sedgwick,,Recreational
+2017-03,Summit,158399.0,Medical
+2017-03,Summit,2854198.0,Recreational
+2017-03,Teller,,Medical
+2017-03,Weld,297470.0,Medical
+2017-03,Weld,2751277.0,Recreational
+2017-04,Adams,1170547.0,Medical
+2017-04,Adams,4969567.0,Recreational
+2017-04,Alamosa,,Medical
+2017-04,Arapahoe,1171574.0,Medical
+2017-04,Arapahoe,9966130.0,Recreational
+2017-04,Archuleta,,Medical
+2017-04,Archuleta,409149.0,Recreational
+2017-04,Boulder,2002527.0,Medical
+2017-04,Boulder,5899546.0,Recreational
+2017-04,Chaffee,,Medical
+2017-04,Chaffee,356366.0,Recreational
+2017-04,Clear Creek,53972.0,Medical
+2017-04,Clear Creek,478629.0,Recreational
+2017-04,Conejos,404901.0,Recreational
+2017-04,Costilla,,Medical
+2017-04,Costilla,256910.0,Recreational
+2017-04,Denver,19101844.0,Medical
+2017-04,Denver,30186897.0,Recreational
+2017-04,Eagle,160790.0,Medical
+2017-04,Eagle,938098.0,Recreational
+2017-04,El Paso,8978250.0,Medical
+2017-04,El Paso,,Recreational
+2017-04,Fremont,178131.0,Medical
+2017-04,Garfield,307340.0,Medical
+2017-04,Garfield,1809692.0,Recreational
+2017-04,Gilpin,,Medical
+2017-04,Gilpin,191824.0,Recreational
+2017-04,Grand,,Medical
+2017-04,Grand,265989.0,Recreational
+2017-04,Gunnison,,Medical
+2017-04,Gunnison,432842.0,Recreational
+2017-04,Huerfano,,Recreational
+2017-04,Jefferson,1408453.0,Medical
+2017-04,Jefferson,4695857.0,Recreational
+2017-04,La Plata,347940.0,Medical
+2017-04,La Plata,1867263.0,Recreational
+2017-04,Lake,196156.0,Recreational
+2017-04,Larimer,1235650.0,Medical
+2017-04,Larimer,4578590.0,Recreational
+2017-04,Las Animas,30610.0,Medical
+2017-04,Las Animas,2875977.0,Recreational
+2017-04,Mesa,,Medical
+2017-04,Mesa,,Recreational
+2017-04,Moffat,,Medical
+2017-04,Montezuma,72479.0,Medical
+2017-04,Montezuma,1683864.0,Recreational
+2017-04,Montrose,,Medical
+2017-04,Morgan,,Medical
+2017-04,Morgan,,Recreational
+2017-04,Otero,,Medical
+2017-04,Ouray,,Medical
+2017-04,Ouray,,Recreational
+2017-04,Park,,Medical
+2017-04,Park,301838.0,Recreational
+2017-04,Pitkin,,Medical
+2017-04,Pitkin,625875.0,Recreational
+2017-04,Pueblo,583583.0,Medical
+2017-04,Pueblo,3094658.0,Recreational
+2017-04,Routt,,Medical
+2017-04,Routt,689882.0,Recreational
+2017-04,Saguache,,Recreational
+2017-04,San Juan,,Recreational
+2017-04,San Miguel,18710.0,Medical
+2017-04,San Miguel,161211.0,Recreational
+2017-04,Sedgwick,,Medical
+2017-04,Sedgwick,,Recreational
+2017-04,Summit,141152.0,Medical
+2017-04,Summit,1630117.0,Recreational
+2017-04,Teller,,Medical
+2017-04,Weld,293539.0,Medical
+2017-04,Weld,2626833.0,Recreational
+2017-05,Adams,1075187.0,Medical
+2017-05,Adams,5013781.0,Recreational
+2017-05,Alamosa,,Medical
+2017-05,Arapahoe,1171273.0,Medical
+2017-05,Arapahoe,9370054.0,Recreational
+2017-05,Archuleta,,Medical
+2017-05,Archuleta,,Recreational
+2017-05,Boulder,1906922.0,Medical
+2017-05,Boulder,6368428.0,Recreational
+2017-05,Chaffee,,Medical
+2017-05,Chaffee,433627.0,Recreational
+2017-05,Clear Creek,55309.0,Medical
+2017-05,Clear Creek,460991.0,Recreational
+2017-05,Conejos,444090.0,Recreational
+2017-05,Costilla,,Medical
+2017-05,Costilla,332894.0,Recreational
+2017-05,Denver,18140806.0,Medical
+2017-05,Denver,30503582.0,Recreational
+2017-05,Eagle,124904.0,Medical
+2017-05,Eagle,689235.0,Recreational
+2017-05,El Paso,8925573.0,Medical
+2017-05,El Paso,,Recreational
+2017-05,Fremont,,Medical
+2017-05,Garfield,321107.0,Medical
+2017-05,Garfield,1911323.0,Recreational
+2017-05,Gilpin,,Medical
+2017-05,Gilpin,196823.0,Recreational
+2017-05,Grand,,Medical
+2017-05,Grand,218635.0,Recreational
+2017-05,Gunnison,,Medical
+2017-05,Gunnison,444435.0,Recreational
+2017-05,Huerfano,,Recreational
+2017-05,Jefferson,1274422.0,Medical
+2017-05,Jefferson,4370646.0,Recreational
+2017-05,La Plata,313285.0,Medical
+2017-05,La Plata,1980269.0,Recreational
+2017-05,Lake,197459.0,Recreational
+2017-05,Larimer,1167689.0,Medical
+2017-05,Larimer,4562024.0,Recreational
+2017-05,Las Animas,,Medical
+2017-05,Las Animas,3471581.0,Recreational
+2017-05,Mesa,,Medical
+2017-05,Mesa,,Recreational
+2017-05,Moffat,,Medical
+2017-05,Montezuma,70134.0,Medical
+2017-05,Montezuma,1766079.0,Recreational
+2017-05,Montrose,,Medical
+2017-05,Morgan,,Medical
+2017-05,Morgan,841413.0,Recreational
+2017-05,Otero,,Medical
+2017-05,Ouray,,Medical
+2017-05,Ouray,465454.0,Recreational
+2017-05,Park,,Medical
+2017-05,Park,314186.0,Recreational
+2017-05,Pitkin,59097.0,Medical
+2017-05,Pitkin,485392.0,Recreational
+2017-05,Pueblo,599384.0,Medical
+2017-05,Pueblo,3276386.0,Recreational
+2017-05,Routt,,Medical
+2017-05,Routt,634839.0,Recreational
+2017-05,Saguache,,Recreational
+2017-05,San Juan,,Recreational
+2017-05,San Miguel,13661.0,Medical
+2017-05,San Miguel,189132.0,Recreational
+2017-05,Sedgwick,,Medical
+2017-05,Sedgwick,,Recreational
+2017-05,Summit,101828.0,Medical
+2017-05,Summit,1140913.0,Recreational
+2017-05,Teller,,Medical
+2017-05,Weld,290867.0,Medical
+2017-05,Weld,2587473.0,Recreational
+2017-06,Adams,1091425.0,Medical
+2017-06,Adams,5137782.0,Recreational
+2017-06,Alamosa,,Medical
+2017-06,Arapahoe,1033427.0,Medical
+2017-06,Arapahoe,9314356.0,Recreational
+2017-06,Archuleta,,Medical
+2017-06,Archuleta,691943.0,Recreational
+2017-06,Boulder,1846713.0,Medical
+2017-06,Boulder,6880933.0,Recreational
+2017-06,Chaffee,,Medical
+2017-06,Chaffee,559238.0,Recreational
+2017-06,Clear Creek,57869.0,Medical
+2017-06,Clear Creek,581672.0,Recreational
+2017-06,Conejos,510132.0,Recreational
+2017-06,Costilla,,Medical
+2017-06,Costilla,403056.0,Recreational
+2017-06,Denver,17634832.0,Medical
+2017-06,Denver,31586804.0,Recreational
+2017-06,Eagle,129118.0,Medical
+2017-06,Eagle,916059.0,Recreational
+2017-06,El Paso,9117656.0,Medical
+2017-06,El Paso,,Recreational
+2017-06,Fremont,179179.0,Medical
+2017-06,Garfield,292213.0,Medical
+2017-06,Garfield,2042113.0,Recreational
+2017-06,Gilpin,,Medical
+2017-06,Gilpin,256404.0,Recreational
+2017-06,Grand,,Medical
+2017-06,Grand,330529.0,Recreational
+2017-06,Gunnison,,Medical
+2017-06,Gunnison,522302.0,Recreational
+2017-06,Huerfano,,Recreational
+2017-06,Jefferson,1252570.0,Medical
+2017-06,Jefferson,4405653.0,Recreational
+2017-06,La Plata,294220.0,Medical
+2017-06,La Plata,2206045.0,Recreational
+2017-06,Lake,248265.0,Recreational
+2017-06,Larimer,1134167.0,Medical
+2017-06,Larimer,4929421.0,Recreational
+2017-06,Las Animas,32972.0,Medical
+2017-06,Las Animas,3836814.0,Recreational
+2017-06,Mesa,,Medical
+2017-06,Mesa,,Recreational
+2017-06,Moffat,,Medical
+2017-06,Montezuma,81402.0,Medical
+2017-06,Montezuma,1863923.0,Recreational
+2017-06,Montrose,,Medical
+2017-06,Morgan,,Medical
+2017-06,Morgan,860998.0,Recreational
+2017-06,Otero,,Medical
+2017-06,Ouray,,Medical
+2017-06,Ouray,583159.0,Recreational
+2017-06,Park,,Medical
+2017-06,Park,375371.0,Recreational
+2017-06,Pitkin,69389.0,Medical
+2017-06,Pitkin,880604.0,Recreational
+2017-06,Pueblo,707393.0,Medical
+2017-06,Pueblo,3465138.0,Recreational
+2017-06,Routt,,Medical
+2017-06,Routt,796881.0,Recreational
+2017-06,Saguache,,Recreational
+2017-06,San Juan,,Recreational
+2017-06,San Miguel,24094.0,Medical
+2017-06,San Miguel,397687.0,Recreational
+2017-06,Sedgwick,,Medical
+2017-06,Sedgwick,,Recreational
+2017-06,Summit,104603.0,Medical
+2017-06,Summit,1503046.0,Recreational
+2017-06,Teller,,Medical
+2017-06,Weld,301813.0,Medical
+2017-06,Weld,2545979.0,Recreational
+2017-07,Adams,971747.0,Medical
+2017-07,Adams,5462382.0,Recreational
+2017-07,Alamosa,,Medical
+2017-07,Arapahoe,953749.0,Medical
+2017-07,Arapahoe,9672770.0,Recreational
+2017-07,Archuleta,,Medical
+2017-07,Archuleta,884084.0,Recreational
+2017-07,Boulder,1851637.0,Medical
+2017-07,Boulder,7070534.0,Recreational
+2017-07,Chaffee,,Medical
+2017-07,Chaffee,662413.0,Recreational
+2017-07,Clear Creek,34954.0,Medical
+2017-07,Clear Creek,678322.0,Recreational
+2017-07,Conejos,586118.0,Recreational
+2017-07,Costilla,,Medical
+2017-07,Costilla,453934.0,Recreational
+2017-07,Denver,17274275.0,Medical
+2017-07,Denver,34007419.0,Recreational
+2017-07,Eagle,142382.0,Medical
+2017-07,Eagle,1159081.0,Recreational
+2017-07,El Paso,8717083.0,Medical
+2017-07,El Paso,,Recreational
+2017-07,Fremont,184871.0,Medical
+2017-07,Garfield,307082.0,Medical
+2017-07,Garfield,2128843.0,Recreational
+2017-07,Gilpin,,Medical
+2017-07,Gilpin,271414.0,Recreational
+2017-07,Grand,,Medical
+2017-07,Grand,455029.0,Recreational
+2017-07,Gunnison,,Medical
+2017-07,Gunnison,892740.0,Recreational
+2017-07,Huerfano,,Recreational
+2017-07,Jefferson,1282271.0,Medical
+2017-07,Jefferson,4525746.0,Recreational
+2017-07,La Plata,297527.0,Medical
+2017-07,La Plata,2366747.0,Recreational
+2017-07,Lake,320873.0,Recreational
+2017-07,Larimer,1186223.0,Medical
+2017-07,Larimer,5303480.0,Recreational
+2017-07,Las Animas,,Medical
+2017-07,Las Animas,4383708.0,Recreational
+2017-07,Mesa,,Medical
+2017-07,Mesa,,Recreational
+2017-07,Moffat,,Medical
+2017-07,Montezuma,73002.0,Medical
+2017-07,Montezuma,1884658.0,Recreational
+2017-07,Montrose,,Medical
+2017-07,Morgan,,Medical
+2017-07,Morgan,909700.0,Recreational
+2017-07,Otero,,Medical
+2017-07,Ouray,,Medical
+2017-07,Ouray,,Recreational
+2017-07,Park,,Medical
+2017-07,Park,465717.0,Recreational
+2017-07,Pitkin,74079.0,Medical
+2017-07,Pitkin,1267251.0,Recreational
+2017-07,Pueblo,684190.0,Medical
+2017-07,Pueblo,3762112.0,Recreational
+2017-07,Routt,,Medical
+2017-07,Routt,1009377.0,Recreational
+2017-07,Saguache,,Recreational
+2017-07,San Juan,,Recreational
+2017-07,San Miguel,26729.0,Medical
+2017-07,San Miguel,521810.0,Recreational
+2017-07,Sedgwick,,Medical
+2017-07,Sedgwick,,Recreational
+2017-07,Summit,119533.0,Medical
+2017-07,Summit,2001214.0,Recreational
+2017-07,Teller,,Medical
+2017-07,Weld,288400.0,Medical
+2017-07,Weld,2659205.0,Recreational
+2017-08,Adams,1126750.0,Medical
+2017-08,Adams,5481342.0,Recreational
+2017-08,Alamosa,,Medical
+2017-08,Arapahoe,911448.0,Medical
+2017-08,Arapahoe,9187128.0,Recreational
+2017-08,Archuleta,,Medical
+2017-08,Archuleta,776784.0,Recreational
+2017-08,Boulder,1883573.0,Medical
+2017-08,Boulder,7401555.0,Recreational
+2017-08,Chaffee,,Medical
+2017-08,Chaffee,614319.0,Recreational
+2017-08,Clear Creek,43341.0,Medical
+2017-08,Clear Creek,632988.0,Recreational
+2017-08,Conejos,571105.0,Recreational
+2017-08,Costilla,,Medical
+2017-08,Costilla,400679.0,Recreational
+2017-08,Denver,18574912.0,Medical
+2017-08,Denver,35043361.0,Recreational
+2017-08,Eagle,154928.0,Medical
+2017-08,Eagle,1394312.0,Recreational
+2017-08,El Paso,8645974.0,Medical
+2017-08,El Paso,,Recreational
+2017-08,Fremont,184251.0,Medical
+2017-08,Garfield,325823.0,Medical
+2017-08,Garfield,2108270.0,Recreational
+2017-08,Gilpin,,Medical
+2017-08,Gilpin,251283.0,Recreational
+2017-08,Grand,,Medical
+2017-08,Grand,426846.0,Recreational
+2017-08,Gunnison,,Medical
+2017-08,Gunnison,809595.0,Recreational
+2017-08,Huerfano,,Recreational
+2017-08,Jefferson,1353370.0,Medical
+2017-08,Jefferson,4474575.0,Recreational
+2017-08,La Plata,298055.0,Medical
+2017-08,La Plata,2289292.0,Recreational
+2017-08,Lake,322375.0,Recreational
+2017-08,Larimer,1206766.0,Medical
+2017-08,Larimer,5554496.0,Recreational
+2017-08,Las Animas,45309.0,Medical
+2017-08,Las Animas,4437323.0,Recreational
+2017-08,Mesa,,Medical
+2017-08,Mesa,,Recreational
+2017-08,Moffat,,Medical
+2017-08,Montezuma,93411.0,Medical
+2017-08,Montezuma,1862970.0,Recreational
+2017-08,Montrose,,Medical
+2017-08,Morgan,,Medical
+2017-08,Morgan,964989.0,Recreational
+2017-08,Otero,,Medical
+2017-08,Ouray,,Medical
+2017-08,Ouray,621133.0,Recreational
+2017-08,Park,,Medical
+2017-08,Park,455141.0,Recreational
+2017-08,Pitkin,66581.0,Medical
+2017-08,Pitkin,1205815.0,Recreational
+2017-08,Pueblo,737016.0,Medical
+2017-08,Pueblo,3815493.0,Recreational
+2017-08,Routt,,Medical
+2017-08,Routt,976301.0,Recreational
+2017-08,Saguache,,Recreational
+2017-08,San Juan,,Recreational
+2017-08,San Miguel,21450.0,Medical
+2017-08,San Miguel,450802.0,Recreational
+2017-08,Sedgwick,,Medical
+2017-08,Sedgwick,,Recreational
+2017-08,Summit,112638.0,Medical
+2017-08,Summit,1890882.0,Recreational
+2017-08,Teller,,Medical
+2017-08,Weld,315417.0,Medical
+2017-08,Weld,2708742.0,Recreational
+2017-09,Adams,986385.0,Medical
+2017-09,Adams,5591544.0,Recreational
+2017-09,Alamosa,,Medical
+2017-09,Arapahoe,868838.0,Medical
+2017-09,Arapahoe,9476898.0,Recreational
+2017-09,Archuleta,,Medical
+2017-09,Archuleta,715518.0,Recreational
+2017-09,Boulder,1867935.0,Medical
+2017-09,Boulder,7089840.0,Recreational
+2017-09,Chaffee,,Medical
+2017-09,Chaffee,547218.0,Recreational
+2017-09,Clear Creek,45086.0,Medical
+2017-09,Clear Creek,570485.0,Recreational
+2017-09,Conejos,555120.0,Recreational
+2017-09,Costilla,,Medical
+2017-09,Costilla,424241.0,Recreational
+2017-09,Denver,17531038.0,Medical
+2017-09,Denver,34766657.0,Recreational
+2017-09,Eagle,138445.0,Medical
+2017-09,Eagle,1212598.0,Recreational
+2017-09,El Paso,8591074.0,Medical
+2017-09,El Paso,,Recreational
+2017-09,Fremont,166500.0,Medical
+2017-09,Garfield,320870.0,Medical
+2017-09,Garfield,2104540.0,Recreational
+2017-09,Gilpin,,Medical
+2017-09,Gilpin,266428.0,Recreational
+2017-09,Grand,,Medical
+2017-09,Grand,355550.0,Recreational
+2017-09,Gunnison,,Medical
+2017-09,Gunnison,728296.0,Recreational
+2017-09,Huerfano,,Recreational
+2017-09,Jefferson,1391833.0,Medical
+2017-09,Jefferson,4335662.0,Recreational
+2017-09,La Plata,301865.0,Medical
+2017-09,La Plata,2211371.0,Recreational
+2017-09,Lake,272842.0,Recreational
+2017-09,Larimer,1214136.0,Medical
+2017-09,Larimer,5491456.0,Recreational
+2017-09,Las Animas,42148.0,Medical
+2017-09,Las Animas,4669330.0,Recreational
+2017-09,Mesa,,Medical
+2017-09,Mesa,931484.0,Recreational
+2017-09,Moffat,,Medical
+2017-09,Montezuma,74493.0,Medical
+2017-09,Montezuma,1890596.0,Recreational
+2017-09,Montrose,,Medical
+2017-09,Morgan,,Medical
+2017-09,Morgan,972694.0,Recreational
+2017-09,Otero,,Medical
+2017-09,Ouray,,Medical
+2017-09,Ouray,641630.0,Recreational
+2017-09,Park,,Medical
+2017-09,Park,401682.0,Recreational
+2017-09,Pitkin,64771.0,Medical
+2017-09,Pitkin,1058088.0,Recreational
+2017-09,Pueblo,677550.0,Medical
+2017-09,Pueblo,3869882.0,Recreational
+2017-09,Routt,,Medical
+2017-09,Routt,924592.0,Recreational
+2017-09,Saguache,151900.0,Recreational
+2017-09,San Juan,,Recreational
+2017-09,San Miguel,,Medical
+2017-09,San Miguel,475875.0,Recreational
+2017-09,Sedgwick,,Medical
+2017-09,Sedgwick,,Recreational
+2017-09,Summit,115774.0,Medical
+2017-09,Summit,1561814.0,Recreational
+2017-09,Weld,330702.0,Medical
+2017-09,Weld,2723950.0,Recreational
+2017-10,Adams,948132.0,Medical
+2017-10,Adams,5441728.0,Recreational
+2017-10,Alamosa,,Medical
+2017-10,Arapahoe,927716.0,Medical
+2017-10,Arapahoe,9221783.0,Recreational
+2017-10,Archuleta,,Medical
+2017-10,Archuleta,574929.0,Recreational
+2017-10,Boulder,1869460.0,Medical
+2017-10,Boulder,6744069.0,Recreational
+2017-10,Chaffee,,Medical
+2017-10,Chaffee,452091.0,Recreational
+2017-10,Clear Creek,33021.0,Medical
+2017-10,Clear Creek,485097.0,Recreational
+2017-10,Conejos,469150.0,Recreational
+2017-10,Costilla,356750.0,Recreational
+2017-10,Denver,16854622.0,Medical
+2017-10,Denver,33586096.0,Recreational
+2017-10,Eagle,121584.0,Medical
+2017-10,Eagle,982903.0,Recreational
+2017-10,El Paso,8153081.0,Medical
+2017-10,El Paso,,Recreational
+2017-10,Fremont,143271.0,Medical
+2017-10,Garfield,265961.0,Medical
+2017-10,Garfield,1773496.0,Recreational
+2017-10,Gilpin,,Medical
+2017-10,Gilpin,197522.0,Recreational
+2017-10,Grand,,Medical
+2017-10,Grand,,Recreational
+2017-10,Gunnison,,Medical
+2017-10,Gunnison,562053.0,Recreational
+2017-10,Huerfano,,Recreational
+2017-10,Jefferson,1469845.0,Medical
+2017-10,Jefferson,4104272.0,Recreational
+2017-10,La Plata,299503.0,Medical
+2017-10,La Plata,1971031.0,Recreational
+2017-10,Lake,205966.0,Recreational
+2017-10,Larimer,1124315.0,Medical
+2017-10,Larimer,5315541.0,Recreational
+2017-10,Las Animas,35561.0,Medical
+2017-10,Las Animas,4192076.0,Recreational
+2017-10,Mesa,,Medical
+2017-10,Mesa,1007121.0,Recreational
+2017-10,Moffat,,Medical
+2017-10,Montezuma,61290.0,Medical
+2017-10,Montezuma,1759476.0,Recreational
+2017-10,Montrose,,Medical
+2017-10,Morgan,,Medical
+2017-10,Morgan,944046.0,Recreational
+2017-10,Otero,,Medical
+2017-10,Ouray,,Medical
+2017-10,Ouray,504899.0,Recreational
+2017-10,Park,,Medical
+2017-10,Park,344712.0,Recreational
+2017-10,Pitkin,57474.0,Medical
+2017-10,Pitkin,703705.0,Recreational
+2017-10,Pueblo,538665.0,Medical
+2017-10,Pueblo,3525795.0,Recreational
+2017-10,Routt,,Medical
+2017-10,Routt,771913.0,Recreational
+2017-10,Saguache,117885.0,Recreational
+2017-10,San Juan,,Recreational
+2017-10,San Miguel,,Medical
+2017-10,San Miguel,266043.0,Recreational
+2017-10,Sedgwick,,Medical
+2017-10,Sedgwick,,Recreational
+2017-10,Summit,120951.0,Medical
+2017-10,Summit,1295739.0,Recreational
+2017-10,Teller,,Medical
+2017-10,Weld,327093.0,Medical
+2017-10,Weld,2554620.0,Recreational
+2017-11,Adams,999483.0,Medical
+2017-11,Adams,5558469.0,Recreational
+2017-11,Alamosa,,Medical
+2017-11,Arapahoe,755136.0,Medical
+2017-11,Arapahoe,9034873.0,Recreational
+2017-11,Archuleta,,Medical
+2017-11,Archuleta,508490.0,Recreational
+2017-11,Boulder,1770651.0,Medical
+2017-11,Boulder,6329971.0,Recreational
+2017-11,Chaffee,,Medical
+2017-11,Chaffee,347798.0,Recreational
+2017-11,Clear Creek,38372.0,Medical
+2017-11,Clear Creek,453940.0,Recreational
+2017-11,Conejos,424081.0,Recreational
+2017-11,Costilla,247946.0,Recreational
+2017-11,Denver,15704331.0,Medical
+2017-11,Denver,31195308.0,Recreational
+2017-11,Eagle,118682.0,Medical
+2017-11,Eagle,980728.0,Recreational
+2017-11,El Paso,7652843.0,Medical
+2017-11,El Paso,,Recreational
+2017-11,Fremont,133101.0,Medical
+2017-11,Garfield,243896.0,Medical
+2017-11,Garfield,1581537.0,Recreational
+2017-11,Gilpin,,Medical
+2017-11,Gilpin,188913.0,Recreational
+2017-11,Grand,,Medical
+2017-11,Grand,272045.0,Recreational
+2017-11,Gunnison,,Medical
+2017-11,Gunnison,433357.0,Recreational
+2017-11,Huerfano,,Recreational
+2017-11,Jefferson,1302651.0,Medical
+2017-11,Jefferson,3678694.0,Recreational
+2017-11,La Plata,278348.0,Medical
+2017-11,La Plata,1753119.0,Recreational
+2017-11,Lake,174191.0,Recreational
+2017-11,Larimer,1095959.0,Medical
+2017-11,Larimer,5125412.0,Recreational
+2017-11,Las Animas,36449.0,Medical
+2017-11,Las Animas,3956545.0,Recreational
+2017-11,Mesa,,Medical
+2017-11,Mesa,963023.0,Recreational
+2017-11,Moffat,,Medical
+2017-11,Montezuma,54431.0,Medical
+2017-11,Montezuma,1658451.0,Recreational
+2017-11,Montrose,,Medical
+2017-11,Morgan,,Medical
+2017-11,Morgan,880963.0,Recreational
+2017-11,Otero,,Medical
+2017-11,Ouray,,Medical
+2017-11,Ouray,,Recreational
+2017-11,Park,,Medical
+2017-11,Park,323525.0,Recreational
+2017-11,Pitkin,53994.0,Medical
+2017-11,Pitkin,571977.0,Recreational
+2017-11,Pueblo,501175.0,Medical
+2017-11,Pueblo,3320340.0,Recreational
+2017-11,Routt,,Medical
+2017-11,Routt,661206.0,Recreational
+2017-11,Saguache,95793.0,Recreational
+2017-11,San Juan,,Recreational
+2017-11,San Miguel,,Medical
+2017-11,San Miguel,181166.0,Recreational
+2017-11,Sedgwick,,Medical
+2017-11,Sedgwick,,Recreational
+2017-11,Summit,114788.0,Medical
+2017-11,Summit,1411797.0,Recreational
+2017-11,Weld,351629.0,Medical
+2017-11,Weld,2433403.0,Recreational
+2017-12,Adams,782044.0,Medical
+2017-12,Adams,6120302.0,Recreational
+2017-12,Alamosa,,Medical
+2017-12,Arapahoe,881650.0,Medical
+2017-12,Arapahoe,9761509.0,Recreational
+2017-12,Archuleta,,Medical
+2017-12,Archuleta,732699.0,Recreational
+2017-12,Boulder,1816738.0,Medical
+2017-12,Boulder,6814221.0,Recreational
+2017-12,Chaffee,,Medical
+2017-12,Chaffee,398262.0,Recreational
+2017-12,Clear Creek,32356.0,Medical
+2017-12,Clear Creek,574268.0,Recreational
+2017-12,Conejos,434200.0,Recreational
+2017-12,Costilla,273773.0,Recreational
+2017-12,Denver,14510755.0,Medical
+2017-12,Denver,32265126.0,Recreational
+2017-12,Eagle,132404.0,Medical
+2017-12,Eagle,1531387.0,Recreational
+2017-12,El Paso,8513185.0,Medical
+2017-12,El Paso,,Recreational
+2017-12,Fremont,146945.0,Medical
+2017-12,Garfield,233612.0,Medical
+2017-12,Garfield,1681605.0,Recreational
+2017-12,Gilpin,,Medical
+2017-12,Gilpin,179250.0,Recreational
+2017-12,Grand,,Medical
+2017-12,Grand,435934.0,Recreational
+2017-12,Gunnison,,Medical
+2017-12,Gunnison,397636.0,Recreational
+2017-12,Huerfano,,Recreational
+2017-12,Jefferson,1427543.0,Medical
+2017-12,Jefferson,4291144.0,Recreational
+2017-12,La Plata,300663.0,Medical
+2017-12,La Plata,2010428.0,Recreational
+2017-12,Lake,206999.0,Recreational
+2017-12,Larimer,1164472.0,Medical
+2017-12,Larimer,5490891.0,Recreational
+2017-12,Las Animas,49588.0,Medical
+2017-12,Las Animas,4019496.0,Recreational
+2017-12,Mesa,,Medical
+2017-12,Mesa,1063973.0,Recreational
+2017-12,Moffat,,Medical
+2017-12,Montezuma,67895.0,Medical
+2017-12,Montezuma,1687019.0,Recreational
+2017-12,Montrose,,Medical
+2017-12,Morgan,,Medical
+2017-12,Morgan,920406.0,Recreational
+2017-12,Otero,,Medical
+2017-12,Ouray,,Medical
+2017-12,Ouray,442518.0,Recreational
+2017-12,Park,,Medical
+2017-12,Park,367718.0,Recreational
+2017-12,Pitkin,60311.0,Medical
+2017-12,Pitkin,1271300.0,Recreational
+2017-12,Pueblo,514218.0,Medical
+2017-12,Pueblo,3707967.0,Recreational
+2017-12,Routt,177246.0,Medical
+2017-12,Routt,956589.0,Recreational
+2017-12,Saguache,98676.0,Recreational
+2017-12,San Juan,,Recreational
+2017-12,San Miguel,,Medical
+2017-12,San Miguel,395334.0,Recreational
+2017-12,Sedgwick,,Medical
+2017-12,Sedgwick,,Recreational
+2017-12,Summit,126502.0,Medical
+2017-12,Summit,2533302.0,Recreational
+2017-12,Weld,415204.0,Medical
+2017-12,Weld,2571924.0,Recreational
+2018-01,Adams,803293.0,Medical
+2018-01,Adams,6081061.0,Recreational
+2018-01,Alamosa,,Medical
+2018-01,Arapahoe,844394.0,Medical
+2018-01,Arapahoe,9032907.0,Recreational
+2018-01,Archuleta,,Medical
+2018-01,Archuleta,624455.0,Recreational
+2018-01,Boulder,1647031.0,Medical
+2018-01,Boulder,6212027.0,Recreational
+2018-01,Chaffee,,Medical
+2018-01,Chaffee,340366.0,Recreational
+2018-01,Clear Creek,29971.0,Medical
+2018-01,Clear Creek,596376.0,Recreational
+2018-01,Conejos,390971.0,Recreational
+2018-01,Costilla,246490.0,Recreational
+2018-01,Denver,13211845.0,Medical
+2018-01,Denver,28855834.0,Recreational
+2018-01,Eagle,132762.0,Medical
+2018-01,Eagle,1599616.0,Recreational
+2018-01,El Paso,7661315.0,Medical
+2018-01,El Paso,,Recreational
+2018-01,Fremont,134858.0,Medical
+2018-01,Garfield,249651.0,Medical
+2018-01,Garfield,1391402.0,Recreational
+2018-01,Gilpin,,Medical
+2018-01,Gilpin,167184.0,Recreational
+2018-01,Grand,,Medical
+2018-01,Grand,462433.0,Recreational
+2018-01,Gunnison,,Medical
+2018-01,Gunnison,600542.0,Recreational
+2018-01,Huerfano,,Recreational
+2018-01,Jefferson,1278807.0,Medical
+2018-01,Jefferson,3912816.0,Recreational
+2018-01,La Plata,273077.0,Medical
+2018-01,La Plata,1675203.0,Recreational
+2018-01,Lake,223602.0,Recreational
+2018-01,Larimer,1122353.0,Medical
+2018-01,Larimer,4982764.0,Recreational
+2018-01,Las Animas,44461.0,Medical
+2018-01,Las Animas,3370017.0,Recreational
+2018-01,Mesa,,Medical
+2018-01,Mesa,1069286.0,Recreational
+2018-01,Moffat,,Medical
+2018-01,Montezuma,54617.0,Medical
+2018-01,Montezuma,1514572.0,Recreational
+2018-01,Montrose,,Medical
+2018-01,Morgan,,Medical
+2018-01,Morgan,748636.0,Recreational
+2018-01,Otero,,Medical
+2018-01,Ouray,,Medical
+2018-01,Ouray,409591.0,Recreational
+2018-01,Park,,Medical
+2018-01,Park,334849.0,Recreational
+2018-01,Pitkin,65391.0,Medical
+2018-01,Pitkin,1361900.0,Recreational
+2018-01,Pueblo,531897.0,Medical
+2018-01,Pueblo,3448129.0,Recreational
+2018-01,Routt,165408.0,Medical
+2018-01,Routt,1140165.0,Recreational
+2018-01,Saguache,99344.0,Recreational
+2018-01,San Juan,,Recreational
+2018-01,San Miguel,,Medical
+2018-01,San Miguel,484986.0,Recreational
+2018-01,Sedgwick,,Medical
+2018-01,Sedgwick,,Recreational
+2018-01,Summit,118928.0,Medical
+2018-01,Summit,2841769.0,Recreational
+2018-01,Weld,348569.0,Medical
+2018-01,Weld,2300531.0,Recreational
+2018-02,Adams,686490.0,Medical
+2018-02,Adams,5562602.0,Recreational
+2018-02,Alamosa,,Medical
+2018-02,Arapahoe,788639.0,Medical
+2018-02,Arapahoe,8659080.0,Recreational
+2018-02,Archuleta,,Medical
+2018-02,Archuleta,568046.0,Recreational
+2018-02,Boulder,1481838.0,Medical
+2018-02,Boulder,5937258.0,Recreational
+2018-02,Chaffee,,Medical
+2018-02,Chaffee,364706.0,Recreational
+2018-02,Clear Creek,28097.0,Medical
+2018-02,Clear Creek,578860.0,Recreational
+2018-02,Conejos,383902.0,Recreational
+2018-02,Costilla,254480.0,Recreational
+2018-02,Denver,11430319.0,Medical
+2018-02,Denver,27629202.0,Recreational
+2018-02,Eagle,119561.0,Medical
+2018-02,Eagle,1633799.0,Recreational
+2018-02,El Paso,7412365.0,Medical
+2018-02,El Paso,,Recreational
+2018-02,Fremont,134945.0,Medical
+2018-02,Garfield,239710.0,Medical
+2018-02,Garfield,1361931.0,Recreational
+2018-02,Gilpin,,Medical
+2018-02,Gilpin,162046.0,Recreational
+2018-02,Grand,,Medical
+2018-02,Grand,455352.0,Recreational
+2018-02,Gunnison,518883.0,Recreational
+2018-02,Huerfano,,Recreational
+2018-02,Jefferson,1205386.0,Medical
+2018-02,Jefferson,3648040.0,Recreational
+2018-02,La Plata,277446.0,Medical
+2018-02,La Plata,1752698.0,Recreational
+2018-02,Lake,197617.0,Recreational
+2018-02,Larimer,1057880.0,Medical
+2018-02,Larimer,4825740.0,Recreational
+2018-02,Las Animas,36072.0,Medical
+2018-02,Las Animas,3477803.0,Recreational
+2018-02,Mesa,,Medical
+2018-02,Mesa,1179371.0,Recreational
+2018-02,Moffat,,Medical
+2018-02,Montezuma,52213.0,Medical
+2018-02,Montezuma,1646139.0,Recreational
+2018-02,Montrose,,Medical
+2018-02,Morgan,,Medical
+2018-02,Morgan,821939.0,Recreational
+2018-02,Otero,,Medical
+2018-02,Ouray,,Medical
+2018-02,Ouray,436779.0,Recreational
+2018-02,Park,,Medical
+2018-02,Park,303972.0,Recreational
+2018-02,Pitkin,58230.0,Medical
+2018-02,Pitkin,1215285.0,Recreational
+2018-02,Pueblo,508986.0,Medical
+2018-02,Pueblo,3697366.0,Recreational
+2018-02,Routt,158779.0,Medical
+2018-02,Routt,1072374.0,Recreational
+2018-02,Saguache,98025.0,Recreational
+2018-02,San Juan,,Recreational
+2018-02,San Miguel,,Medical
+2018-02,San Miguel,428164.0,Recreational
+2018-02,Sedgwick,,Medical
+2018-02,Sedgwick,,Recreational
+2018-02,Summit,106905.0,Medical
+2018-02,Summit,2548153.0,Recreational
+2018-02,Weld,327679.0,Medical
+2018-02,Weld,2298788.0,Recreational
+2018-03,Adams,455735.0,Medical
+2018-03,Adams,6602994.0,Recreational
+2018-03,Alamosa,,Medical
+2018-03,Arapahoe,831623.0,Medical
+2018-03,Arapahoe,9956392.0,Recreational
+2018-03,Archuleta,,Medical
+2018-03,Archuleta,785123.0,Recreational
+2018-03,Boulder,1691157.0,Medical
+2018-03,Boulder,7245363.0,Recreational
+2018-03,Chaffee,,Medical
+2018-03,Chaffee,469806.0,Recreational
+2018-03,Clear Creek,42961.0,Medical
+2018-03,Clear Creek,709544.0,Recreational
+2018-03,Conejos,482119.0,Recreational
+2018-03,Costilla,335071.0,Recreational
+2018-03,Denver,12756286.0,Medical
+2018-03,Denver,34757371.0,Recreational
+2018-03,Eagle,107351.0,Medical
+2018-03,Eagle,1888834.0,Recreational
+2018-03,El Paso,8239341.0,Medical
+2018-03,El Paso,,Recreational
+2018-03,Fremont,120020.0,Medical
+2018-03,Garfield,288623.0,Medical
+2018-03,Garfield,1625638.0,Recreational
+2018-03,Gilpin,,Medical
+2018-03,Gilpin,223369.0,Recreational
+2018-03,Grand,,Medical
+2018-03,Grand,,Recreational
+2018-03,Gunnison,,Recreational
+2018-03,Huerfano,,Recreational
+2018-03,Jefferson,1413017.0,Medical
+2018-03,Jefferson,4318064.0,Recreational
+2018-03,La Plata,251773.0,Medical
+2018-03,La Plata,2154494.0,Recreational
+2018-03,Lake,240748.0,Recreational
+2018-03,Larimer,1151055.0,Medical
+2018-03,Larimer,5839729.0,Recreational
+2018-03,Las Animas,32453.0,Medical
+2018-03,Las Animas,4619588.0,Recreational
+2018-03,Mesa,,Medical
+2018-03,Mesa,1535841.0,Recreational
+2018-03,Moffat,,Medical
+2018-03,Moffat,,Recreational
+2018-03,Montezuma,57109.0,Medical
+2018-03,Montezuma,2033604.0,Recreational
+2018-03,Montrose,,Medical
+2018-03,Morgan,,Medical
+2018-03,Morgan,1062942.0,Recreational
+2018-03,Otero,,Medical
+2018-03,Ouray,,Medical
+2018-03,Ouray,,Recreational
+2018-03,Park,,Medical
+2018-03,Park,386538.0,Recreational
+2018-03,Pitkin,,Medical
+2018-03,Pitkin,1517035.0,Recreational
+2018-03,Pueblo,574112.0,Medical
+2018-03,Pueblo,4770132.0,Recreational
+2018-03,Routt,168347.0,Medical
+2018-03,Routt,1153952.0,Recreational
+2018-03,Saguache,137847.0,Recreational
+2018-03,San Juan,,Recreational
+2018-03,San Miguel,,Medical
+2018-03,San Miguel,503751.0,Recreational
+2018-03,Sedgwick,,Medical
+2018-03,Sedgwick,,Recreational
+2018-03,Summit,121159.0,Medical
+2018-03,Summit,3061330.0,Recreational
+2018-03,Weld,370633.0,Medical
+2018-03,Weld,2681871.0,Recreational
+2018-04,Adams,417502.0,Medical
+2018-04,Adams,6868698.0,Recreational
+2018-04,Alamosa,,Medical
+2018-04,Arapahoe,741609.0,Medical
+2018-04,Arapahoe,9954701.0,Recreational
+2018-04,Archuleta,,Medical
+2018-04,Archuleta,502525.0,Recreational
+2018-04,Boulder,1601589.0,Medical
+2018-04,Boulder,6957538.0,Recreational
+2018-04,Chaffee,,Medical
+2018-04,Chaffee,393528.0,Recreational
+2018-04,Clear Creek,,Medical
+2018-04,Clear Creek,490554.0,Recreational
+2018-04,Conejos,435677.0,Recreational
+2018-04,Costilla,292932.0,Recreational
+2018-04,Denver,11689420.0,Medical
+2018-04,Denver,33791852.0,Recreational
+2018-04,Eagle,97151.0,Medical
+2018-04,Eagle,1144193.0,Recreational
+2018-04,El Paso,7826668.0,Medical
+2018-04,El Paso,,Recreational
+2018-04,Fremont,141438.0,Medical
+2018-04,Garfield,252013.0,Medical
+2018-04,Garfield,1503426.0,Recreational
+2018-04,Gilpin,,Medical
+2018-04,Gilpin,212366.0,Recreational
+2018-04,Grand,,Medical
+2018-04,Grand,343222.0,Recreational
+2018-04,Gunnison,437758.0,Recreational
+2018-04,Huerfano,,Recreational
+2018-04,Jefferson,1084394.0,Medical
+2018-04,Jefferson,4142771.0,Recreational
+2018-04,La Plata,228755.0,Medical
+2018-04,La Plata,1863227.0,Recreational
+2018-04,Lake,197779.0,Recreational
+2018-04,Larimer,1108635.0,Medical
+2018-04,Larimer,5632150.0,Recreational
+2018-04,Las Animas,34180.0,Medical
+2018-04,Las Animas,3934794.0,Recreational
+2018-04,Mesa,,Medical
+2018-04,Mesa,1482947.0,Recreational
+2018-04,Moffat,,Medical
+2018-04,Moffat,,Recreational
+2018-04,Montezuma,45539.0,Medical
+2018-04,Montezuma,1905829.0,Recreational
+2018-04,Montrose,,Medical
+2018-04,Morgan,,Medical
+2018-04,Morgan,,Recreational
+2018-04,Otero,,Medical
+2018-04,Ouray,,Medical
+2018-04,Ouray,,Recreational
+2018-04,Park,,Medical
+2018-04,Park,325805.0,Recreational
+2018-04,Pitkin,54543.0,Medical
+2018-04,Pitkin,699425.0,Recreational
+2018-04,Pueblo,478009.0,Medical
+2018-04,Pueblo,4436171.0,Recreational
+2018-04,Routt,157073.0,Medical
+2018-04,Routt,790286.0,Recreational
+2018-04,Saguache,137104.0,Recreational
+2018-04,San Juan,,Recreational
+2018-04,San Miguel,,Medical
+2018-04,San Miguel,219836.0,Recreational
+2018-04,Sedgwick,,Medical
+2018-04,Sedgwick,,Recreational
+2018-04,Summit,113189.0,Medical
+2018-04,Summit,1543168.0,Recreational
+2018-04,Weld,375487.0,Medical
+2018-04,Weld,2421030.0,Recreational
+2018-05,Adams,390116.0,Medical
+2018-05,Adams,6884789.0,Recreational
+2018-05,Alamosa,,Medical
+2018-05,Arapahoe,842104.0,Medical
+2018-05,Arapahoe,9846235.0,Recreational
+2018-05,Archuleta,,Medical
+2018-05,Archuleta,633849.0,Recreational
+2018-05,Boulder,1540156.0,Medical
+2018-05,Boulder,7305495.0,Recreational
+2018-05,Chaffee,,Medical
+2018-05,Chaffee,457767.0,Recreational
+2018-05,Clear Creek,28054.0,Medical
+2018-05,Clear Creek,518925.0,Recreational
+2018-05,Conejos,495930.0,Recreational
+2018-05,Costilla,322017.0,Recreational
+2018-05,Denver,11380605.0,Medical
+2018-05,Denver,31592911.0,Recreational
+2018-05,Eagle,96713.0,Medical
+2018-05,Eagle,968533.0,Recreational
+2018-05,El Paso,7332608.0,Medical
+2018-05,El Paso,,Recreational
+2018-05,Fremont,147909.0,Medical
+2018-05,Garfield,252772.0,Medical
+2018-05,Garfield,1577479.0,Recreational
+2018-05,Gilpin,,Medical
+2018-05,Gilpin,219588.0,Recreational
+2018-05,Grand,,Medical
+2018-05,Grand,309809.0,Recreational
+2018-05,Gunnison,487921.0,Recreational
+2018-05,Huerfano,,Recreational
+2018-05,Jefferson,1262338.0,Medical
+2018-05,Jefferson,4153426.0,Recreational
+2018-05,La Plata,257014.0,Medical
+2018-05,La Plata,2086680.0,Recreational
+2018-05,Lake,,Recreational
+2018-05,Larimer,984003.0,Medical
+2018-05,Larimer,5891148.0,Recreational
+2018-05,Las Animas,44907.0,Medical
+2018-05,Las Animas,4082306.0,Recreational
+2018-05,Mesa,,Medical
+2018-05,Mesa,1605904.0,Recreational
+2018-05,Moffat,,Medical
+2018-05,Moffat,,Recreational
+2018-05,Montezuma,47400.0,Medical
+2018-05,Montezuma,1967881.0,Recreational
+2018-05,Montrose,,Medical
+2018-05,Morgan,,Medical
+2018-05,Morgan,1000228.0,Recreational
+2018-05,Otero,,Medical
+2018-05,Ouray,,Medical
+2018-05,Ouray,592357.0,Recreational
+2018-05,Park,,Medical
+2018-05,Park,357535.0,Recreational
+2018-05,Pitkin,46482.0,Medical
+2018-05,Pitkin,561866.0,Recreational
+2018-05,Pueblo,436538.0,Medical
+2018-05,Pueblo,4619173.0,Recreational
+2018-05,Routt,152758.0,Medical
+2018-05,Routt,717802.0,Recreational
+2018-05,Saguache,151704.0,Recreational
+2018-05,San Juan,,Recreational
+2018-05,San Miguel,,Medical
+2018-05,San Miguel,235398.0,Recreational
+2018-05,Sedgwick,,Medical
+2018-05,Sedgwick,,Recreational
+2018-05,Summit,103122.0,Medical
+2018-05,Summit,1225108.0,Recreational
+2018-05,Weld,331438.0,Medical
+2018-05,Weld,2396424.0,Recreational
+2018-06,Adams,355054.0,Medical
+2018-06,Adams,7071943.0,Recreational
+2018-06,Alamosa,,Medical
+2018-06,Arapahoe,769443.0,Medical
+2018-06,Arapahoe,10003372.0,Recreational
+2018-06,Archuleta,,Medical
+2018-06,Archuleta,834469.0,Recreational
+2018-06,Boulder,1430060.0,Medical
+2018-06,Boulder,7752657.0,Recreational
+2018-06,Chaffee,,Medical
+2018-06,Chaffee,578419.0,Recreational
+2018-06,Clear Creek,22895.0,Medical
+2018-06,Clear Creek,633162.0,Recreational
+2018-06,Conejos,558542.0,Recreational
+2018-06,Costilla,408573.0,Recreational
+2018-06,Denver,11375581.0,Medical
+2018-06,Denver,32336676.0,Recreational
+2018-06,Eagle,99986.0,Medical
+2018-06,Eagle,1273668.0,Recreational
+2018-06,El Paso,8272114.0,Medical
+2018-06,El Paso,,Recreational
+2018-06,Fremont,153170.0,Medical
+2018-06,Garfield,253141.0,Medical
+2018-06,Garfield,1711546.0,Recreational
+2018-06,Gilpin,,Medical
+2018-06,Gilpin,240622.0,Recreational
+2018-06,Grand,,Medical
+2018-06,Grand,471237.0,Recreational
+2018-06,Gunnison,697112.0,Recreational
+2018-06,Huerfano,,Recreational
+2018-06,Jefferson,1194256.0,Medical
+2018-06,Jefferson,4376615.0,Recreational
+2018-06,La Plata,256422.0,Medical
+2018-06,La Plata,2045737.0,Recreational
+2018-06,Lake,,Recreational
+2018-06,Larimer,965461.0,Medical
+2018-06,Larimer,6087233.0,Recreational
+2018-06,Las Animas,39736.0,Medical
+2018-06,Las Animas,4436437.0,Recreational
+2018-06,Mesa,,Medical
+2018-06,Mesa,1654095.0,Recreational
+2018-06,Moffat,,Medical
+2018-06,Moffat,,Recreational
+2018-06,Montezuma,59954.0,Medical
+2018-06,Montezuma,2023138.0,Recreational
+2018-06,Montrose,,Medical
+2018-06,Morgan,,Medical
+2018-06,Morgan,1067039.0,Recreational
+2018-06,Otero,,Medical
+2018-06,Ouray,,Medical
+2018-06,Ouray,666243.0,Recreational
+2018-06,Park,,Medical
+2018-06,Park,409810.0,Recreational
+2018-06,Pitkin,52088.0,Medical
+2018-06,Pitkin,919527.0,Recreational
+2018-06,Pueblo,692724.0,Medical
+2018-06,Pueblo,4836544.0,Recreational
+2018-06,Routt,126739.0,Medical
+2018-06,Routt,899556.0,Recreational
+2018-06,Saguache,173495.0,Recreational
+2018-06,San Juan,,Recreational
+2018-06,San Miguel,,Medical
+2018-06,San Miguel,453787.0,Recreational
+2018-06,Sedgwick,,Medical
+2018-06,Sedgwick,,Recreational
+2018-06,Summit,84313.0,Medical
+2018-06,Summit,1668835.0,Recreational
+2018-06,Weld,331725.0,Medical
+2018-06,Weld,2379519.0,Recreational
+2018-07,Adams,600899.0,Medical
+2018-07,Adams,7412565.0,Recreational
+2018-07,Alamosa,,Medical
+2018-07,Arapahoe,854281.0,Medical
+2018-07,Arapahoe,10500847.0,Recreational
+2018-07,Archuleta,,Medical
+2018-07,Archuleta,1015573.0,Recreational
+2018-07,Boulder,1466872.0,Medical
+2018-07,Boulder,8764549.0,Recreational
+2018-07,Chaffee,,Medical
+2018-07,Chaffee,699379.0,Recreational
+2018-07,Clear Creek,23986.0,Medical
+2018-07,Clear Creek,730165.0,Recreational
+2018-07,Conejos,621884.0,Recreational
+2018-07,Costilla,450314.0,Recreational
+2018-07,Denver,11859418.0,Medical
+2018-07,Denver,34154291.0,Recreational
+2018-07,Eagle,91750.0,Medical
+2018-07,Eagle,1582803.0,Recreational
+2018-07,El Paso,7837080.0,Medical
+2018-07,El Paso,,Recreational
+2018-07,Fremont,145139.0,Medical
+2018-07,Garfield,218285.0,Medical
+2018-07,Garfield,1917005.0,Recreational
+2018-07,Gilpin,,Medical
+2018-07,Gilpin,266111.0,Recreational
+2018-07,Grand,,Medical
+2018-07,Grand,629538.0,Recreational
+2018-07,Gunnison,954926.0,Recreational
+2018-07,Huerfano,,Recreational
+2018-07,Jefferson,1161582.0,Medical
+2018-07,Jefferson,4575835.0,Recreational
+2018-07,La Plata,238044.0,Medical
+2018-07,La Plata,2366479.0,Recreational
+2018-07,Lake,318683.0,Recreational
+2018-07,Larimer,981720.0,Medical
+2018-07,Larimer,6570637.0,Recreational
+2018-07,Las Animas,31952.0,Medical
+2018-07,Las Animas,4704196.0,Recreational
+2018-07,Mesa,,Medical
+2018-07,Mesa,1674477.0,Recreational
+2018-07,Moffat,,Medical
+2018-07,Moffat,,Recreational
+2018-07,Montezuma,92530.0,Medical
+2018-07,Montezuma,2031292.0,Recreational
+2018-07,Montrose,,Medical
+2018-07,Morgan,,Medical
+2018-07,Morgan,1115451.0,Recreational
+2018-07,Otero,,Medical
+2018-07,Ouray,,Medical
+2018-07,Ouray,751062.0,Recreational
+2018-07,Park,,Medical
+2018-07,Park,487238.0,Recreational
+2018-07,Pitkin,47118.0,Medical
+2018-07,Pitkin,1357126.0,Recreational
+2018-07,Pueblo,492063.0,Medical
+2018-07,Pueblo,5249580.0,Recreational
+2018-07,Routt,136681.0,Medical
+2018-07,Routt,1082308.0,Recreational
+2018-07,Saguache,191002.0,Recreational
+2018-07,San Juan,,Recreational
+2018-07,San Miguel,,Medical
+2018-07,San Miguel,544147.0,Recreational
+2018-07,Sedgwick,,Medical
+2018-07,Sedgwick,,Recreational
+2018-07,Summit,91088.0,Medical
+2018-07,Summit,2193931.0,Recreational
+2018-07,Weld,312813.0,Medical
+2018-07,Weld,2480209.0,Recreational
+2018-08,Adams,400754.0,Medical
+2018-08,Adams,7613627.0,Recreational
+2018-08,Alamosa,,Medical
+2018-08,Arapahoe,808360.0,Medical
+2018-08,Arapahoe,10661253.0,Recreational
+2018-08,Archuleta,,Medical
+2018-08,Archuleta,906585.0,Recreational
+2018-08,Boulder,1415106.0,Medical
+2018-08,Boulder,8774472.0,Recreational
+2018-08,Chaffee,,Medical
+2018-08,Chaffee,650455.0,Recreational
+2018-08,Clear Creek,,Medical
+2018-08,Clear Creek,688187.0,Recreational
+2018-08,Conejos,651028.0,Recreational
+2018-08,Costilla,473881.0,Recreational
+2018-08,Denver,12797280.0,Medical
+2018-08,Denver,35343772.0,Recreational
+2018-08,Eagle,100482.0,Medical
+2018-08,Eagle,1600012.0,Recreational
+2018-08,El Paso,7955801.0,Medical
+2018-08,El Paso,,Recreational
+2018-08,Fremont,,Medical
+2018-08,Garfield,186408.0,Medical
+2018-08,Garfield,1914968.0,Recreational
+2018-08,Gilpin,,Medical
+2018-08,Gilpin,256201.0,Recreational
+2018-08,Grand,,Medical
+2018-08,Grand,555069.0,Recreational
+2018-08,Gunnison,897237.0,Recreational
+2018-08,Huerfano,,Recreational
+2018-08,Jefferson,1286756.0,Medical
+2018-08,Jefferson,4650674.0,Recreational
+2018-08,La Plata,,Medical
+2018-08,La Plata,2370568.0,Recreational
+2018-08,Lake,330557.0,Recreational
+2018-08,Larimer,1030583.0,Medical
+2018-08,Larimer,6820019.0,Recreational
+2018-08,Las Animas,40494.0,Medical
+2018-08,Las Animas,4699321.0,Recreational
+2018-08,Mesa,,Medical
+2018-08,Mesa,1737216.0,Recreational
+2018-08,Moffat,,Medical
+2018-08,Moffat,,Recreational
+2018-08,Montezuma,97884.0,Medical
+2018-08,Montezuma,2031697.0,Recreational
+2018-08,Montrose,,Medical
+2018-08,Morgan,,Medical
+2018-08,Morgan,1147988.0,Recreational
+2018-08,Otero,,Medical
+2018-08,Otero,,Recreational
+2018-08,Ouray,757172.0,Recreational
+2018-08,Park,,Medical
+2018-08,Park,460047.0,Recreational
+2018-08,Pitkin,,Medical
+2018-08,Pitkin,1362818.0,Recreational
+2018-08,Pueblo,580863.0,Medical
+2018-08,Pueblo,5468826.0,Recreational
+2018-08,Routt,157402.0,Medical
+2018-08,Routt,1028248.0,Recreational
+2018-08,Saguache,198805.0,Recreational
+2018-08,San Juan,,Recreational
+2018-08,San Miguel,,Medical
+2018-08,San Miguel,496399.0,Recreational
+2018-08,Sedgwick,,Medical
+2018-08,Sedgwick,,Recreational
+2018-08,Summit,104527.0,Medical
+2018-08,Summit,2018092.0,Recreational
+2018-08,Weld,331928.0,Medical
+2018-08,Weld,2539739.0,Recreational
+2018-09,Adams,398277.0,Medical
+2018-09,Adams,7362649.0,Recreational
+2018-09,Alamosa,,Medical
+2018-09,Arapahoe,889138.0,Medical
+2018-09,Arapahoe,10127781.0,Recreational
+2018-09,Archuleta,840533.0,Recreational
+2018-09,Boulder,1299455.0,Medical
+2018-09,Boulder,8099831.0,Recreational
+2018-09,Chaffee,,Medical
+2018-09,Chaffee,580551.0,Recreational
+2018-09,Clear Creek,28653.0,Medical
+2018-09,Clear Creek,620626.0,Recreational
+2018-09,Conejos,607872.0,Recreational
+2018-09,Costilla,441921.0,Recreational
+2018-09,Denver,12967617.0,Medical
+2018-09,Denver,34127926.0,Recreational
+2018-09,Eagle,96626.0,Medical
+2018-09,Eagle,1282007.0,Recreational
+2018-09,El Paso,7786421.0,Medical
+2018-09,El Paso,,Recreational
+2018-09,Fremont,,Medical
+2018-09,Garfield,182576.0,Medical
+2018-09,Garfield,1905410.0,Recreational
+2018-09,Gilpin,241174.0,Recreational
+2018-09,Grand,,Medical
+2018-09,Grand,479851.0,Recreational
+2018-09,Gunnison,760759.0,Recreational
+2018-09,Huerfano,,Recreational
+2018-09,Jefferson,1247843.0,Medical
+2018-09,Jefferson,4299667.0,Recreational
+2018-09,La Plata,,Medical
+2018-09,La Plata,2338202.0,Recreational
+2018-09,Lake,272478.0,Recreational
+2018-09,Larimer,936033.0,Medical
+2018-09,Larimer,6631199.0,Recreational
+2018-09,Las Animas,27817.0,Medical
+2018-09,Las Animas,4765052.0,Recreational
+2018-09,Mesa,,Medical
+2018-09,Mesa,1754898.0,Recreational
+2018-09,Moffat,,Medical
+2018-09,Moffat,518034.0,Recreational
+2018-09,Montezuma,94993.0,Medical
+2018-09,Montezuma,1978519.0,Recreational
+2018-09,Montrose,,Medical
+2018-09,Morgan,,Medical
+2018-09,Morgan,,Recreational
+2018-09,Otero,,Medical
+2018-09,Otero,,Recreational
+2018-09,Ouray,767446.0,Recreational
+2018-09,Park,,Medical
+2018-09,Park,435826.0,Recreational
+2018-09,Pitkin,44125.0,Medical
+2018-09,Pitkin,1030932.0,Recreational
+2018-09,Pueblo,566009.0,Medical
+2018-09,Pueblo,5377188.0,Recreational
+2018-09,Routt,135149.0,Medical
+2018-09,Routt,968797.0,Recreational
+2018-09,Saguache,207584.0,Recreational
+2018-09,San Juan,,Recreational
+2018-09,San Miguel,,Medical
+2018-09,San Miguel,509927.0,Recreational
+2018-09,Sedgwick,,Medical
+2018-09,Sedgwick,,Recreational
+2018-09,Summit,94092.0,Medical
+2018-09,Summit,1613075.0,Recreational
+2018-09,Weld,313809.0,Medical
+2018-09,Weld,2372200.0,Recreational
+2018-10,Adams,509170.0,Medical
+2018-10,Adams,7365401.0,Recreational
+2018-10,Alamosa,,Medical
+2018-10,Arapahoe,826764.0,Medical
+2018-10,Arapahoe,10245761.0,Recreational
+2018-10,Archuleta,722415.0,Recreational
+2018-10,Boulder,1287700.0,Medical
+2018-10,Boulder,7850413.0,Recreational
+2018-10,Chaffee,,Medical
+2018-10,Chaffee,445329.0,Recreational
+2018-10,Clear Creek,21140.0,Medical
+2018-10,Clear Creek,516655.0,Recreational
+2018-10,Conejos,514891.0,Recreational
+2018-10,Costilla,349525.0,Recreational
+2018-10,Crowley,,Recreational
+2018-10,Denver,12720334.0,Medical
+2018-10,Denver,32338630.0,Recreational
+2018-10,Eagle,86610.0,Medical
+2018-10,Eagle,1069220.0,Recreational
+2018-10,El Paso,7882342.0,Medical
+2018-10,El Paso,,Recreational
+2018-10,Fremont,,Medical
+2018-10,Garfield,162367.0,Medical
+2018-10,Garfield,1690316.0,Recreational
+2018-10,Gilpin,194984.0,Recreational
+2018-10,Grand,,Medical
+2018-10,Grand,392970.0,Recreational
+2018-10,Gunnison,567511.0,Recreational
+2018-10,Huerfano,,Recreational
+2018-10,Jefferson,1249935.0,Medical
+2018-10,Jefferson,4153968.0,Recreational
+2018-10,La Plata,,Medical
+2018-10,La Plata,2153231.0,Recreational
+2018-10,Lake,218867.0,Recreational
+2018-10,Larimer,932833.0,Medical
+2018-10,Larimer,6622929.0,Recreational
+2018-10,Las Animas,27666.0,Medical
+2018-10,Las Animas,4273377.0,Recreational
+2018-10,Mesa,,Medical
+2018-10,Mesa,1647110.0,Recreational
+2018-10,Moffat,,Medical
+2018-10,Moffat,510016.0,Recreational
+2018-10,Montezuma,44755.0,Medical
+2018-10,Montezuma,1896742.0,Recreational
+2018-10,Montrose,,Medical
+2018-10,Morgan,,Medical
+2018-10,Morgan,,Recreational
+2018-10,Otero,,Medical
+2018-10,Otero,,Recreational
+2018-10,Ouray,612355.0,Recreational
+2018-10,Park,,Medical
+2018-10,Park,368779.0,Recreational
+2018-10,Pitkin,33868.0,Medical
+2018-10,Pitkin,694980.0,Recreational
+2018-10,Pueblo,769549.0,Medical
+2018-10,Pueblo,5001654.0,Recreational
+2018-10,Routt,132712.0,Medical
+2018-10,Routt,851265.0,Recreational
+2018-10,Saguache,175549.0,Recreational
+2018-10,San Juan,,Recreational
+2018-10,San Miguel,,Medical
+2018-10,San Miguel,284125.0,Recreational
+2018-10,Sedgwick,,Medical
+2018-10,Sedgwick,,Recreational
+2018-10,Summit,92669.0,Medical
+2018-10,Summit,1336205.0,Recreational
+2018-10,Weld,334645.0,Medical
+2018-10,Weld,2362252.0,Recreational
+2018-11,Adams,475793.0,Medical
+2018-11,Adams,7404234.0,Recreational
+2018-11,Alamosa,,Medical
+2018-11,Arapahoe,793814.0,Medical
+2018-11,Arapahoe,10251205.0,Recreational
+2018-11,Archuleta,629695.0,Recreational
+2018-11,Boulder,1277657.0,Medical
+2018-11,Boulder,7404306.0,Recreational
+2018-11,Chaffee,,Medical
+2018-11,Chaffee,379794.0,Recreational
+2018-11,Clear Creek,23148.0,Medical
+2018-11,Clear Creek,478979.0,Recreational
+2018-11,Conejos,448685.0,Recreational
+2018-11,Costilla,293351.0,Recreational
+2018-11,Denver,11829016.0,Medical
+2018-11,Denver,31470367.0,Recreational
+2018-11,Eagle,84221.0,Medical
+2018-11,Eagle,1073888.0,Recreational
+2018-11,El Paso,7203476.0,Medical
+2018-11,El Paso,,Recreational
+2018-11,Fremont,112642.0,Medical
+2018-11,Garfield,118710.0,Medical
+2018-11,Garfield,1540424.0,Recreational
+2018-11,Gilpin,171444.0,Recreational
+2018-11,Grand,,Medical
+2018-11,Grand,385453.0,Recreational
+2018-11,Gunnison,459020.0,Recreational
+2018-11,Huerfano,,Recreational
+2018-11,Jefferson,1305975.0,Medical
+2018-11,Jefferson,4135774.0,Recreational
+2018-11,La Plata,,Medical
+2018-11,La Plata,1916314.0,Recreational
+2018-11,Lake,193034.0,Recreational
+2018-11,Larimer,894188.0,Medical
+2018-11,Larimer,6471039.0,Recreational
+2018-11,Las Animas,23048.0,Medical
+2018-11,Las Animas,4067789.0,Recreational
+2018-11,Mesa,,Medical
+2018-11,Mesa,1553111.0,Recreational
+2018-11,Moffat,,Medical
+2018-11,Moffat,500264.0,Recreational
+2018-11,Montezuma,45252.0,Medical
+2018-11,Montezuma,1751540.0,Recreational
+2018-11,Montrose,,Medical
+2018-11,Morgan,,Medical
+2018-11,Morgan,,Recreational
+2018-11,Otero,,Medical
+2018-11,Otero,,Recreational
+2018-11,Ouray,549988.0,Recreational
+2018-11,Park,,Medical
+2018-11,Park,324363.0,Recreational
+2018-11,Pitkin,33385.0,Medical
+2018-11,Pitkin,599002.0,Recreational
+2018-11,Pueblo,602548.0,Medical
+2018-11,Pueblo,4868317.0,Recreational
+2018-11,Routt,125491.0,Medical
+2018-11,Routt,758528.0,Recreational
+2018-11,Saguache,139665.0,Recreational
+2018-11,San Juan,,Recreational
+2018-11,San Miguel,,Medical
+2018-11,San Miguel,200869.0,Recreational
+2018-11,Sedgwick,,Medical
+2018-11,Sedgwick,,Recreational
+2018-11,Summit,90339.0,Medical
+2018-11,Summit,1504585.0,Recreational
+2018-11,Weld,350896.0,Medical
+2018-11,Weld,2346003.0,Recreational
+2018-12,Adams,537919.0,Medical
+2018-12,Adams,7333549.0,Recreational
+2018-12,Alamosa,,Medical
+2018-12,Arapahoe,840436.0,Medical
+2018-12,Arapahoe,10731040.0,Recreational
+2018-12,Archuleta,785073.0,Recreational
+2018-12,Boulder,2077359.0,Medical
+2018-12,Boulder,7757965.0,Recreational
+2018-12,Chaffee,,Medical
+2018-12,Chaffee,,Recreational
+2018-12,Clear Creek,,Medical
+2018-12,Clear Creek,614305.0,Recreational
+2018-12,Conejos,442161.0,Recreational
+2018-12,Costilla,304403.0,Recreational
+2018-12,Denver,13218281.0,Medical
+2018-12,Denver,32997057.0,Recreational
+2018-12,Eagle,98078.0,Medical
+2018-12,Eagle,1755283.0,Recreational
+2018-12,El Paso,7377264.0,Medical
+2018-12,El Paso,,Recreational
+2018-12,Fremont,,Medical
+2018-12,Garfield,149089.0,Medical
+2018-12,Garfield,1589975.0,Recreational
+2018-12,Gilpin,171994.0,Recreational
+2018-12,Grand,,Medical
+2018-12,Grand,594083.0,Recreational
+2018-12,Gunnison,629546.0,Recreational
+2018-12,Huerfano,,Recreational
+2018-12,Jefferson,1149072.0,Medical
+2018-12,Jefferson,4456550.0,Recreational
+2018-12,La Plata,,Medical
+2018-12,La Plata,2161229.0,Recreational
+2018-12,Lake,228276.0,Recreational
+2018-12,Larimer,917137.0,Medical
+2018-12,Larimer,6853279.0,Recreational
+2018-12,Las Animas,24868.0,Medical
+2018-12,Las Animas,3919079.0,Recreational
+2018-12,Mesa,,Medical
+2018-12,Mesa,1562193.0,Recreational
+2018-12,Moffat,,Medical
+2018-12,Moffat,557631.0,Recreational
+2018-12,Montezuma,51687.0,Medical
+2018-12,Montezuma,1670767.0,Recreational
+2018-12,Montrose,,Medical
+2018-12,Morgan,,Medical
+2018-12,Morgan,,Recreational
+2018-12,Otero,,Medical
+2018-12,Otero,,Recreational
+2018-12,Ouray,,Recreational
+2018-12,Park,,Medical
+2018-12,Park,375986.0,Recreational
+2018-12,Pitkin,50018.0,Medical
+2018-12,Pitkin,1254451.0,Recreational
+2018-12,Pueblo,655858.0,Medical
+2018-12,Pueblo,5240434.0,Recreational
+2018-12,Routt,131134.0,Medical
+2018-12,Routt,1139807.0,Recreational
+2018-12,Saguache,141551.0,Recreational
+2018-12,San Juan,,Recreational
+2018-12,San Miguel,,Medical
+2018-12,San Miguel,437260.0,Recreational
+2018-12,Sedgwick,,Medical
+2018-12,Sedgwick,,Recreational
+2018-12,Summit,97292.0,Medical
+2018-12,Summit,2585000.0,Recreational
+2018-12,Weld,353590.0,Medical
+2018-12,Weld,2461592.0,Recreational
+2019-01,Adams,514409.0,Medical
+2019-01,Adams,7196545.0,Recreational
+2019-01,Alamosa,,Medical
+2019-01,Arapahoe,828405.0,Medical
+2019-01,Arapahoe,9767681.0,Recreational
+2019-01,Archuleta,674209.0,Recreational
+2019-01,Boulder,1294791.0,Medical
+2019-01,Boulder,7108509.0,Recreational
+2019-01,Chaffee,,Medical
+2019-01,Chaffee,414799.0,Recreational
+2019-01,Clear Creek,,Medical
+2019-01,Clear Creek,635452.0,Recreational
+2019-01,Conejos,420899.0,Recreational
+2019-01,Costilla,290897.0,Recreational
+2019-01,Denver,11175378.0,Medical
+2019-01,Denver,31107951.0,Recreational
+2019-01,Eagle,,Medical
+2019-01,Eagle,1585551.0,Recreational
+2019-01,El Paso,7599829.0,Medical
+2019-01,El Paso,,Recreational
+2019-01,Fremont,130215.0,Medical
+2019-01,Garfield,137449.0,Medical
+2019-01,Garfield,1597913.0,Recreational
+2019-01,Gilpin,197020.0,Recreational
+2019-01,Grand,,Medical
+2019-01,Grand,601523.0,Recreational
+2019-01,Gunnison,608092.0,Recreational
+2019-01,Huerfano,,Recreational
+2019-01,Jefferson,1227664.0,Medical
+2019-01,Jefferson,4117404.0,Recreational
+2019-01,La Plata,,Medical
+2019-01,La Plata,1927562.0,Recreational
+2019-01,Lake,,Recreational
+2019-01,Larimer,823904.0,Medical
+2019-01,Larimer,6156122.0,Recreational
+2019-01,Las Animas,23705.0,Medical
+2019-01,Las Animas,3530142.0,Recreational
+2019-01,Mesa,,Medical
+2019-01,Mesa,1498547.0,Recreational
+2019-01,Moffat,,Medical
+2019-01,Moffat,480801.0,Recreational
+2019-01,Montezuma,46888.0,Medical
+2019-01,Montezuma,1474874.0,Recreational
+2019-01,Montrose,,Medical
+2019-01,Morgan,,Medical
+2019-01,Morgan,953463.0,Recreational
+2019-01,Otero,,Medical
+2019-01,Otero,,Recreational
+2019-01,Ouray,572783.0,Recreational
+2019-01,Park,,Medical
+2019-01,Park,360133.0,Recreational
+2019-01,Pitkin,,Medical
+2019-01,Pitkin,1473131.0,Recreational
+2019-01,Pueblo,564784.0,Medical
+2019-01,Pueblo,4808523.0,Recreational
+2019-01,Routt,139096.0,Medical
+2019-01,Routt,1260207.0,Recreational
+2019-01,Saguache,131127.0,Recreational
+2019-01,San Juan,,Recreational
+2019-01,San Miguel,,Medical
+2019-01,San Miguel,532640.0,Recreational
+2019-01,Sedgwick,,Medical
+2019-01,Sedgwick,,Recreational
+2019-01,Summit,96743.0,Medical
+2019-01,Summit,2884654.0,Recreational
+2019-01,Weld,324991.0,Medical
+2019-01,Weld,2228972.0,Recreational
+2019-02,Adams,645769.0,Medical
+2019-02,Adams,6906948.0,Recreational
+2019-02,Alamosa,,Medical
+2019-02,Arapahoe,732363.0,Medical
+2019-02,Arapahoe,9291100.0,Recreational
+2019-02,Archuleta,641197.0,Recreational
+2019-02,Boulder,1084974.0,Medical
+2019-02,Boulder,6792018.0,Recreational
+2019-02,Chaffee,,Medical
+2019-02,Chaffee,378248.0,Recreational
+2019-02,Clear Creek,,Medical
+2019-02,Clear Creek,619310.0,Recreational
+2019-02,Conejos,405953.0,Recreational
+2019-02,Costilla,287714.0,Recreational
+2019-02,Denver,10417954.0,Medical
+2019-02,Denver,29458298.0,Recreational
+2019-02,Eagle,,Medical
+2019-02,Eagle,1852626.0,Recreational
+2019-02,El Paso,7212439.0,Medical
+2019-02,El Paso,,Recreational
+2019-02,Fremont,,Medical
+2019-02,Garfield,135259.0,Medical
+2019-02,Garfield,1567583.0,Recreational
+2019-02,Gilpin,139878.0,Recreational
+2019-02,Grand,,Medical
+2019-02,Grand,568922.0,Recreational
+2019-02,Gunnison,564334.0,Recreational
+2019-02,Huerfano,,Recreational
+2019-02,Jefferson,1074048.0,Medical
+2019-02,Jefferson,3920449.0,Recreational
+2019-02,La Plata,,Medical
+2019-02,La Plata,1858880.0,Recreational
+2019-02,Lake,221282.0,Recreational
+2019-02,Larimer,756816.0,Medical
+2019-02,Larimer,5846839.0,Recreational
+2019-02,Las Animas,20555.0,Medical
+2019-02,Las Animas,3544538.0,Recreational
+2019-02,Mesa,,Medical
+2019-02,Mesa,1487806.0,Recreational
+2019-02,Moffat,,Medical
+2019-02,Moffat,506751.0,Recreational
+2019-02,Montezuma,80095.0,Medical
+2019-02,Montezuma,1524410.0,Recreational
+2019-02,Montrose,,Medical
+2019-02,Morgan,,Medical
+2019-02,Morgan,947765.0,Recreational
+2019-02,Otero,,Medical
+2019-02,Otero,,Recreational
+2019-02,Ouray,566827.0,Recreational
+2019-02,Park,,Medical
+2019-02,Park,335651.0,Recreational
+2019-02,Pitkin,48006.0,Medical
+2019-02,Pitkin,1317786.0,Recreational
+2019-02,Pueblo,588137.0,Medical
+2019-02,Pueblo,4808565.0,Recreational
+2019-02,Routt,130873.0,Medical
+2019-02,Routt,1201186.0,Recreational
+2019-02,Saguache,132672.0,Recreational
+2019-02,San Juan,,Recreational
+2019-02,San Miguel,,Medical
+2019-02,San Miguel,525448.0,Recreational
+2019-02,Sedgwick,,Medical
+2019-02,Sedgwick,,Recreational
+2019-02,Summit,80495.0,Medical
+2019-02,Summit,2709353.0,Recreational
+2019-02,Weld,301255.0,Medical
+2019-02,Weld,2121200.0,Recreational
+2019-03,Adams,756266.0,Medical
+2019-03,Adams,8196485.0,Recreational
+2019-03,Alamosa,,Medical
+2019-03,Arapahoe,803133.0,Medical
+2019-03,Arapahoe,11006224.0,Recreational
+2019-03,Archuleta,0.0,Medical
+2019-03,Archuleta,854243.0,Recreational
+2019-03,Boulder,1176332.0,Medical
+2019-03,Boulder,8011970.0,Recreational
+2019-03,Chaffee,,Medical
+2019-03,Chaffee,491071.0,Recreational
+2019-03,Clear Creek,,Medical
+2019-03,Clear Creek,693843.0,Recreational
+2019-03,Conejos,,Recreational
+2019-03,Costilla,0.0,Medical
+2019-03,Costilla,346503.0,Recreational
+2019-03,Denver,12204058.0,Medical
+2019-03,Denver,35328169.0,Recreational
+2019-03,Eagle,85720.0,Medical
+2019-03,Eagle,2048364.0,Recreational
+2019-03,El Paso,8576412.0,Medical
+2019-03,El Paso,,Recreational
+2019-03,Fremont,,Medical
+2019-03,Garfield,160604.0,Medical
+2019-03,Garfield,1940686.0,Recreational
+2019-03,Gilpin,177017.0,Recreational
+2019-03,Grand,,Medical
+2019-03,Grand,716797.0,Recreational
+2019-03,Gunnison,698438.0,Recreational
+2019-03,Huerfano,190779.0,Recreational
+2019-03,Jefferson,1339825.0,Medical
+2019-03,Jefferson,4619785.0,Recreational
+2019-03,La Plata,,Medical
+2019-03,La Plata,2291152.0,Recreational
+2019-03,Lake,,Recreational
+2019-03,Larimer,846068.0,Medical
+2019-03,Larimer,6934865.0,Recreational
+2019-03,Las Animas,39741.0,Medical
+2019-03,Las Animas,4235173.0,Recreational
+2019-03,Mesa,,Medical
+2019-03,Mesa,1798281.0,Recreational
+2019-03,Moffat,,Medical
+2019-03,Moffat,634643.0,Recreational
+2019-03,Montezuma,44973.0,Medical
+2019-03,Montezuma,1891600.0,Recreational
+2019-03,Montrose,,Medical
+2019-03,Morgan,,Medical
+2019-03,Morgan,,Recreational
+2019-03,Otero,,Medical
+2019-03,Otero,,Recreational
+2019-03,Ouray,686123.0,Recreational
+2019-03,Park,,Medical
+2019-03,Park,407207.0,Recreational
+2019-03,Pitkin,53366.0,Medical
+2019-03,Pitkin,1617563.0,Recreational
+2019-03,Pueblo,654207.0,Medical
+2019-03,Pueblo,6165091.0,Recreational
+2019-03,Routt,149654.0,Medical
+2019-03,Routt,1248490.0,Recreational
+2019-03,Saguache,170926.0,Recreational
+2019-03,San Juan,,Recreational
+2019-03,San Miguel,,Medical
+2019-03,San Miguel,586071.0,Recreational
+2019-03,Sedgwick,,Medical
+2019-03,Sedgwick,,Recreational
+2019-03,Summit,90465.0,Medical
+2019-03,Summit,3071178.0,Recreational
+2019-03,Weld,324054.0,Medical
+2019-03,Weld,2371653.0,Recreational
+2019-04,Adams,657538.0,Medical
+2019-04,Adams,8088858.0,Recreational
+2019-04,Alamosa,,Medical
+2019-04,Arapahoe,861301.0,Medical
+2019-04,Arapahoe,10818518.0,Recreational
+2019-04,Archuleta,607638.0,Recreational
+2019-04,Boulder,1167776.0,Medical
+2019-04,Boulder,7966512.0,Recreational
+2019-04,Chaffee,,Medical
+2019-04,Chaffee,407018.0,Recreational
+2019-04,Clear Creek,,Medical
+2019-04,Clear Creek,541179.0,Recreational
+2019-04,Conejos,487509.0,Recreational
+2019-04,Costilla,327009.0,Recreational
+2019-04,Crowley,,Recreational
+2019-04,Denver,12355779.0,Medical
+2019-04,Denver,35849262.0,Recreational
+2019-04,Eagle,90807.0,Medical
+2019-04,Eagle,1293253.0,Recreational
+2019-04,El Paso,8471384.0,Medical
+2019-04,El Paso,,Recreational
+2019-04,Fremont,,Medical
+2019-04,Garfield,115501.0,Medical
+2019-04,Garfield,1912690.0,Recreational
+2019-04,Gilpin,161627.0,Recreational
+2019-04,Grand,,Medical
+2019-04,Grand,422678.0,Recreational
+2019-04,Gunnison,495750.0,Recreational
+2019-04,Huerfano,145093.0,Recreational
+2019-04,Jefferson,1221673.0,Medical
+2019-04,Jefferson,4453056.0,Recreational
+2019-04,La Plata,,Medical
+2019-04,La Plata,2077106.0,Recreational
+2019-04,Lake,,Recreational
+2019-04,Larimer,801662.0,Medical
+2019-04,Larimer,6857558.0,Recreational
+2019-04,Las Animas,34184.0,Medical
+2019-04,Las Animas,3987534.0,Recreational
+2019-04,Mesa,,Medical
+2019-04,Mesa,1719091.0,Recreational
+2019-04,Moffat,622107.0,Recreational
+2019-04,Montezuma,47348.0,Medical
+2019-04,Montezuma,1832405.0,Recreational
+2019-04,Montrose,,Medical
+2019-04,Morgan,,Medical
+2019-04,Morgan,1186345.0,Recreational
+2019-04,Otero,,Medical
+2019-04,Otero,,Recreational
+2019-04,Ouray,625800.0,Recreational
+2019-04,Park,,Medical
+2019-04,Park,344036.0,Recreational
+2019-04,Pitkin,60498.0,Medical
+2019-04,Pitkin,829186.0,Recreational
+2019-04,Pueblo,719742.0,Medical
+2019-04,Pueblo,5827490.0,Recreational
+2019-04,Routt,141676.0,Medical
+2019-04,Routt,816399.0,Recreational
+2019-04,Saguache,201306.0,Recreational
+2019-04,San Juan,,Recreational
+2019-04,San Miguel,,Medical
+2019-04,San Miguel,223250.0,Recreational
+2019-04,Sedgwick,,Medical
+2019-04,Sedgwick,,Recreational
+2019-04,Summit,92687.0,Medical
+2019-04,Summit,1682309.0,Recreational
+2019-04,Weld,318358.0,Medical
+2019-04,Weld,2197597.0,Recreational
+2019-05,Adams,688338.0,Medical
+2019-05,Adams,8417055.0,Recreational
+2019-05,Alamosa,,Medical
+2019-05,Arapahoe,866549.0,Medical
+2019-05,Arapahoe,11666375.0,Recreational
+2019-05,Archuleta,706823.0,Recreational
+2019-05,Boulder,1156589.0,Medical
+2019-05,Boulder,8711541.0,Recreational
+2019-05,Chaffee,,Medical
+2019-05,Chaffee,483702.0,Recreational
+2019-05,Clear Creek,,Medical
+2019-05,Clear Creek,563276.0,Recreational
+2019-05,Conejos,,Recreational
+2019-05,Costilla,390105.0,Recreational
+2019-05,Denver,12805536.0,Medical
+2019-05,Denver,36761879.0,Recreational
+2019-05,Eagle,86267.0,Medical
+2019-05,Eagle,1032881.0,Recreational
+2019-05,El Paso,9306251.0,Medical
+2019-05,El Paso,,Recreational
+2019-05,Fremont,,Medical
+2019-05,Garfield,126620.0,Medical
+2019-05,Garfield,2112194.0,Recreational
+2019-05,Gilpin,262353.0,Recreational
+2019-05,Grand,,Medical
+2019-05,Grand,396004.0,Recreational
+2019-05,Gunnison,536027.0,Recreational
+2019-05,Huerfano,243954.0,Recreational
+2019-05,Jefferson,1355225.0,Medical
+2019-05,Jefferson,4716515.0,Recreational
+2019-05,La Plata,,Medical
+2019-05,La Plata,2737859.0,Recreational
+2019-05,Lake,,Recreational
+2019-05,Larimer,800165.0,Medical
+2019-05,Larimer,7422167.0,Recreational
+2019-05,Las Animas,64389.0,Medical
+2019-05,Las Animas,4197971.0,Recreational
+2019-05,Mesa,,Medical
+2019-05,Mesa,1878469.0,Recreational
+2019-05,Moffat,,Medical
+2019-05,Moffat,728850.0,Recreational
+2019-05,Montezuma,,Medical
+2019-05,Montezuma,1762895.0,Recreational
+2019-05,Montrose,,Medical
+2019-05,Morgan,,Medical
+2019-05,Morgan,1279570.0,Recreational
+2019-05,Otero,,Medical
+2019-05,Otero,,Recreational
+2019-05,Ouray,,Recreational
+2019-05,Park,,Medical
+2019-05,Park,377648.0,Recreational
+2019-05,Pitkin,55475.0,Medical
+2019-05,Pitkin,576807.0,Recreational
+2019-05,Pueblo,777080.0,Medical
+2019-05,Pueblo,6412447.0,Recreational
+2019-05,Routt,137484.0,Medical
+2019-05,Routt,771517.0,Recreational
+2019-05,Saguache,256967.0,Recreational
+2019-05,San Juan,,Recreational
+2019-05,San Miguel,,Medical
+2019-05,San Miguel,227610.0,Recreational
+2019-05,Sedgwick,,Medical
+2019-05,Sedgwick,,Recreational
+2019-05,Summit,82717.0,Medical
+2019-05,Summit,1356620.0,Recreational
+2019-05,Weld,313835.0,Medical
+2019-05,Weld,2310239.0,Recreational
+2019-06,Adams,698316.0,Medical
+2019-06,Adams,8822616.0,Recreational
+2019-06,Alamosa,,Medical
+2019-06,Arapahoe,787756.0,Medical
+2019-06,Arapahoe,12303288.0,Recreational
+2019-06,Archuleta,958126.0,Recreational
+2019-06,Boulder,1036137.0,Medical
+2019-06,Boulder,8880820.0,Recreational
+2019-06,Chaffee,,Medical
+2019-06,Chaffee,629447.0,Recreational
+2019-06,Clear Creek,,Medical
+2019-06,Clear Creek,669502.0,Recreational
+2019-06,Conejos,,Recreational
+2019-06,Costilla,447991.0,Recreational
+2019-06,Crowley,,Recreational
+2019-06,Denver,12684305.0,Medical
+2019-06,Denver,38530815.0,Recreational
+2019-06,Eagle,89204.0,Medical
+2019-06,Eagle,1317333.0,Recreational
+2019-06,El Paso,9578226.0,Medical
+2019-06,El Paso,,Recreational
+2019-06,Fremont,,Medical
+2019-06,Garfield,122326.0,Medical
+2019-06,Garfield,2164755.0,Recreational
+2019-06,Gilpin,281427.0,Recreational
+2019-06,Grand,,Medical
+2019-06,Grand,549428.0,Recreational
+2019-06,Gunnison,709385.0,Recreational
+2019-06,Huerfano,212900.0,Recreational
+2019-06,Jefferson,1284543.0,Medical
+2019-06,Jefferson,4823369.0,Recreational
+2019-06,La Plata,,Medical
+2019-06,La Plata,2974674.0,Recreational
+2019-06,Lake,277973.0,Recreational
+2019-06,Larimer,1336184.0,Medical
+2019-06,Larimer,7642805.0,Recreational
+2019-06,Las Animas,38607.0,Medical
+2019-06,Las Animas,5314210.0,Recreational
+2019-06,Mesa,,Medical
+2019-06,Mesa,1925607.0,Recreational
+2019-06,Moffat,,Medical
+2019-06,Moffat,795081.0,Recreational
+2019-06,Montezuma,,Medical
+2019-06,Montezuma,1901689.0,Recreational
+2019-06,Montrose,,Medical
+2019-06,Montrose,,Recreational
+2019-06,Morgan,,Medical
+2019-06,Morgan,1447340.0,Recreational
+2019-06,Otero,,Medical
+2019-06,Otero,,Recreational
+2019-06,Ouray,,Recreational
+2019-06,Park,,Medical
+2019-06,Park,455450.0,Recreational
+2019-06,Pitkin,,Medical
+2019-06,Pitkin,996927.0,Recreational
+2019-06,Pueblo,677697.0,Medical
+2019-06,Pueblo,6887823.0,Recreational
+2019-06,Routt,142624.0,Medical
+2019-06,Routt,948687.0,Recreational
+2019-06,Saguache,286055.0,Recreational
+2019-06,San Juan,,Recreational
+2019-06,San Miguel,,Medical
+2019-06,San Miguel,469822.0,Recreational
+2019-06,Sedgwick,,Medical
+2019-06,Sedgwick,,Recreational
+2019-06,Summit,74340.0,Medical
+2019-06,Summit,1736484.0,Recreational
+2019-06,Weld,311967.0,Medical
+2019-06,Weld,2352064.0,Recreational
+2019-07,Adams,713244.0,Medical
+2019-07,Adams,9889690.0,Recreational
+2019-07,Alamosa,,Medical
+2019-07,Arapahoe,861782.0,Medical
+2019-07,Arapahoe,13602987.0,Recreational
+2019-07,Archuleta,1206281.0,Recreational
+2019-07,Boulder,1160910.0,Medical
+2019-07,Boulder,10013202.0,Recreational
+2019-07,Chaffee,,Medical
+2019-07,Chaffee,779946.0,Recreational
+2019-07,Clear Creek,,Medical
+2019-07,Clear Creek,844933.0,Recreational
+2019-07,Conejos,,Recreational
+2019-07,Costilla,521095.0,Recreational
+2019-07,Denver,13134715.0,Medical
+2019-07,Denver,41013102.0,Recreational
+2019-07,Eagle,104621.0,Medical
+2019-07,Eagle,1713739.0,Recreational
+2019-07,El Paso,9792834.0,Medical
+2019-07,El Paso,,Recreational
+2019-07,Fremont,165281.0,Medical
+2019-07,Garfield,110091.0,Medical
+2019-07,Garfield,2346451.0,Recreational
+2019-07,Gilpin,,Recreational
+2019-07,Grand,,Medical
+2019-07,Grand,764812.0,Recreational
+2019-07,Gunnison,1029159.0,Recreational
+2019-07,Huerfano,338563.0,Recreational
+2019-07,Jefferson,1405637.0,Medical
+2019-07,Jefferson,5198994.0,Recreational
+2019-07,La Plata,,Medical
+2019-07,La Plata,2844294.0,Recreational
+2019-07,Lake,368841.0,Recreational
+2019-07,Larimer,788774.0,Medical
+2019-07,Larimer,8367530.0,Recreational
+2019-07,Las Animas,39874.0,Medical
+2019-07,Las Animas,5983076.0,Recreational
+2019-07,Mesa,,Medical
+2019-07,Mesa,1986339.0,Recreational
+2019-07,Moffat,,Medical
+2019-07,Moffat,845115.0,Recreational
+2019-07,Montezuma,39297.0,Medical
+2019-07,Montezuma,2268925.0,Recreational
+2019-07,Montrose,,Medical
+2019-07,Montrose,,Recreational
+2019-07,Morgan,,Medical
+2019-07,Morgan,1661346.0,Recreational
+2019-07,Otero,,Medical
+2019-07,Otero,,Recreational
+2019-07,Ouray,915949.0,Recreational
+2019-07,Park,,Medical
+2019-07,Park,545077.0,Recreational
+2019-07,Pitkin,,Medical
+2019-07,Pitkin,1424271.0,Recreational
+2019-07,Pueblo,887221.0,Medical
+2019-07,Pueblo,7718630.0,Recreational
+2019-07,Routt,138343.0,Medical
+2019-07,Routt,1172448.0,Recreational
+2019-07,Saguache,338997.0,Recreational
+2019-07,San Juan,,Recreational
+2019-07,San Miguel,,Medical
+2019-07,San Miguel,598904.0,Recreational
+2019-07,Sedgwick,,Medical
+2019-07,Sedgwick,,Recreational
+2019-07,Summit,,Medical
+2019-07,Summit,2321296.0,Recreational
+2019-07,Weld,315974.0,Medical
+2019-07,Weld,2253999.0,Recreational
+2019-08,Adams,826903.0,Medical
+2019-08,Adams,10611452.0,Recreational
+2019-08,Alamosa,,Medical
+2019-08,Arapahoe,940341.0,Medical
+2019-08,Arapahoe,14224608.0,Recreational
+2019-08,Archuleta,1146192.0,Recreational
+2019-08,Boulder,1198666.0,Medical
+2019-08,Boulder,10131205.0,Recreational
+2019-08,Chaffee,,Medical
+2019-08,Chaffee,746184.0,Recreational
+2019-08,Clear Creek,,Medical
+2019-08,Clear Creek,838619.0,Recreational
+2019-08,Conejos,,Recreational
+2019-08,Costilla,533246.0,Recreational
+2019-08,Crowley,,Recreational
+2019-08,Delta,,Medical
+2019-08,Denver,13211048.0,Medical
+2019-08,Denver,43018205.0,Recreational
+2019-08,Eagle,110662.0,Medical
+2019-08,Eagle,1704479.0,Recreational
+2019-08,El Paso,10095380.0,Medical
+2019-08,El Paso,,Recreational
+2019-08,Fremont,,Medical
+2019-08,Garfield,106647.0,Medical
+2019-08,Garfield,2482081.0,Recreational
+2019-08,Gilpin,257280.0,Recreational
+2019-08,Grand,,Medical
+2019-08,Grand,706335.0,Recreational
+2019-08,Gunnison,999651.0,Recreational
+2019-08,Huerfano,335825.0,Recreational
+2019-08,Jefferson,1538794.0,Medical
+2019-08,Jefferson,5509978.0,Recreational
+2019-08,La Plata,,Medical
+2019-08,La Plata,2952663.0,Recreational
+2019-08,Lake,,Recreational
+2019-08,Larimer,830557.0,Medical
+2019-08,Larimer,8922915.0,Recreational
+2019-08,Las Animas,55576.0,Medical
+2019-08,Las Animas,6596831.0,Recreational
+2019-08,Mesa,,Medical
+2019-08,Mesa,2099263.0,Recreational
+2019-08,Moffat,,Medical
+2019-08,Moffat,954918.0,Recreational
+2019-08,Montezuma,,Medical
+2019-08,Montezuma,2379204.0,Recreational
+2019-08,Montrose,,Medical
+2019-08,Montrose,,Recreational
+2019-08,Morgan,,Medical
+2019-08,Morgan,1952180.0,Recreational
+2019-08,Otero,,Medical
+2019-08,Otero,,Recreational
+2019-08,Ouray,974730.0,Recreational
+2019-08,Park,,Medical
+2019-08,Park,515847.0,Recreational
+2019-08,Pitkin,,Medical
+2019-08,Pitkin,1444148.0,Recreational
+2019-08,Pueblo,908369.0,Medical
+2019-08,Pueblo,8022564.0,Recreational
+2019-08,Routt,152079.0,Medical
+2019-08,Routt,1180583.0,Recreational
+2019-08,Saguache,371636.0,Recreational
+2019-08,San Juan,121885.0,Recreational
+2019-08,San Miguel,,Medical
+2019-08,San Miguel,533833.0,Recreational
+2019-08,Sedgwick,,Medical
+2019-08,Sedgwick,,Recreational
+2019-08,Summit,75201.0,Medical
+2019-08,Summit,2185290.0,Recreational
+2019-08,Weld,351554.0,Medical
+2019-08,Weld,2481294.0,Recreational
+2019-09,Adams,731170.0,Medical
+2019-09,Adams,9752924.0,Recreational
+2019-09,Alamosa,,Medical
+2019-09,Arapahoe,866332.0,Medical
+2019-09,Arapahoe,12830887.0,Recreational
+2019-09,Archuleta,1014873.0,Recreational
+2019-09,Boulder,1165078.0,Medical
+2019-09,Boulder,9284700.0,Recreational
+2019-09,Chaffee,,Medical
+2019-09,Chaffee,,Recreational
+2019-09,Clear Creek,11791.0,Medical
+2019-09,Clear Creek,718321.0,Recreational
+2019-09,Conejos,,Recreational
+2019-09,Costilla,481640.0,Recreational
+2019-09,Crowley,,Recreational
+2019-09,Delta,,Medical
+2019-09,Denver,12356485.0,Medical
+2019-09,Denver,37916128.0,Recreational
+2019-09,Eagle,96109.0,Medical
+2019-09,Eagle,1393391.0,Recreational
+2019-09,El Paso,8842307.0,Medical
+2019-09,El Paso,,Recreational
+2019-09,Fremont,168380.0,Medical
+2019-09,Garfield,105595.0,Medical
+2019-09,Garfield,2248930.0,Recreational
+2019-09,Gilpin,237204.0,Recreational
+2019-09,Grand,,Medical
+2019-09,Grand,615627.0,Recreational
+2019-09,Gunnison,856666.0,Recreational
+2019-09,Huerfano,296572.0,Recreational
+2019-09,Jefferson,1314993.0,Medical
+2019-09,Jefferson,4895351.0,Recreational
+2019-09,La Plata,,Medical
+2019-09,La Plata,2703739.0,Recreational
+2019-09,Lake,339220.0,Recreational
+2019-09,Larimer,797466.0,Medical
+2019-09,Larimer,8330812.0,Recreational
+2019-09,Las Animas,26096.0,Medical
+2019-09,Las Animas,5283914.0,Recreational
+2019-09,Mesa,,Medical
+2019-09,Mesa,2096230.0,Recreational
+2019-09,Moffat,,Medical
+2019-09,Moffat,941147.0,Recreational
+2019-09,Montezuma,,Medical
+2019-09,Montezuma,2236163.0,Recreational
+2019-09,Montrose,,Medical
+2019-09,Montrose,,Recreational
+2019-09,Morgan,,Medical
+2019-09,Morgan,1814560.0,Recreational
+2019-09,Otero,,Medical
+2019-09,Otero,,Recreational
+2019-09,Ouray,969806.0,Recreational
+2019-09,Park,,Medical
+2019-09,Park,490736.0,Recreational
+2019-09,Pitkin,,Medical
+2019-09,Pitkin,1080615.0,Recreational
+2019-09,Pueblo,833119.0,Medical
+2019-09,Pueblo,7075867.0,Recreational
+2019-09,Routt,153657.0,Medical
+2019-09,Routt,1137506.0,Recreational
+2019-09,Saguache,328977.0,Recreational
+2019-09,San Juan,,Recreational
+2019-09,San Miguel,,Medical
+2019-09,San Miguel,497397.0,Recreational
+2019-09,Sedgwick,,Medical
+2019-09,Sedgwick,,Recreational
+2019-09,Summit,78799.0,Medical
+2019-09,Summit,1766747.0,Recreational
+2019-09,Weld,319547.0,Medical
+2019-09,Weld,2488389.0,Recreational
+2019-10,Adams,683146.0,Medical
+2019-10,Adams,9755113.0,Recreational
+2019-10,Alamosa,,Medical
+2019-10,Arapahoe,932864.0,Medical
+2019-10,Arapahoe,12818898.0,Recreational
+2019-10,Archuleta,846030.0,Recreational
+2019-10,Bent,,Recreational
+2019-10,Boulder,1228765.0,Medical
+2019-10,Boulder,8610513.0,Recreational
+2019-10,Chaffee,,Medical
+2019-10,Chaffee,,Recreational
+2019-10,Clear Creek,,Medical
+2019-10,Clear Creek,616200.0,Recreational
+2019-10,Conejos,,Recreational
+2019-10,Costilla,417345.0,Recreational
+2019-10,Crowley,,Recreational
+2019-10,Delta,,Medical
+2019-10,Denver,12745449.0,Medical
+2019-10,Denver,36658663.0,Recreational
+2019-10,Eagle,97072.0,Medical
+2019-10,Eagle,1207886.0,Recreational
+2019-10,El Paso,9021347.0,Medical
+2019-10,El Paso,,Recreational
+2019-10,Fremont,,Medical
+2019-10,Garfield,110987.0,Medical
+2019-10,Garfield,2092588.0,Recreational
+2019-10,Gilpin,289843.0,Recreational
+2019-10,Grand,,Medical
+2019-10,Grand,465374.0,Recreational
+2019-10,Gunnison,681223.0,Recreational
+2019-10,Huerfano,246923.0,Recreational
+2019-10,Jefferson,1324490.0,Medical
+2019-10,Jefferson,4884640.0,Recreational
+2019-10,La Plata,,Medical
+2019-10,La Plata,2602002.0,Recreational
+2019-10,Lake,,Recreational
+2019-10,Larimer,832007.0,Medical
+2019-10,Larimer,8323162.0,Recreational
+2019-10,Las Animas,24047.0,Medical
+2019-10,Las Animas,4732006.0,Recreational
+2019-10,Mesa,,Medical
+2019-10,Mesa,2016637.0,Recreational
+2019-10,Moffat,,Medical
+2019-10,Moffat,938222.0,Recreational
+2019-10,Montezuma,,Medical
+2019-10,Montezuma,2193331.0,Recreational
+2019-10,Montrose,,Medical
+2019-10,Montrose,,Recreational
+2019-10,Morgan,,Medical
+2019-10,Morgan,1703510.0,Recreational
+2019-10,Otero,,Medical
+2019-10,Otero,,Recreational
+2019-10,Ouray,832739.0,Recreational
+2019-10,Park,,Medical
+2019-10,Park,417780.0,Recreational
+2019-10,Pitkin,,Medical
+2019-10,Pitkin,781376.0,Recreational
+2019-10,Pueblo,827745.0,Medical
+2019-10,Pueblo,6766568.0,Recreational
+2019-10,Routt,159723.0,Medical
+2019-10,Routt,970928.0,Recreational
+2019-10,Saguache,297666.0,Recreational
+2019-10,San Juan,,Recreational
+2019-10,San Miguel,,Medical
+2019-10,San Miguel,291816.0,Recreational
+2019-10,Sedgwick,,Medical
+2019-10,Sedgwick,,Recreational
+2019-10,Summit,73581.0,Medical
+2019-10,Summit,1501163.0,Recreational
+2019-10,Weld,318300.0,Medical
+2019-10,Weld,2509429.0,Recreational
+2019-11,Adams,685651.0,Medical
+2019-11,Adams,9451567.0,Recreational
+2019-11,Alamosa,,Medical
+2019-11,Arapahoe,811741.0,Medical
+2019-11,Arapahoe,12396622.0,Recreational
+2019-11,Archuleta,699377.0,Recreational
+2019-11,Bent,,Recreational
+2019-11,Boulder,1357101.0,Medical
+2019-11,Boulder,8483233.0,Recreational
+2019-11,Chaffee,,Medical
+2019-11,Chaffee,,Recreational
+2019-11,Clear Creek,,Medical
+2019-11,Clear Creek,535899.0,Recreational
+2019-11,Conejos,,Recreational
+2019-11,Costilla,337001.0,Recreational
+2019-11,Crowley,,Recreational
+2019-11,Delta,,Medical
+2019-11,Denver,11411092.0,Medical
+2019-11,Denver,34648813.0,Recreational
+2019-11,Eagle,98948.0,Medical
+2019-11,Eagle,1180699.0,Recreational
+2019-11,El Paso,7950598.0,Medical
+2019-11,El Paso,,Recreational
+2019-11,Fremont,,Medical
+2019-11,Garfield,110705.0,Medical
+2019-11,Garfield,1860390.0,Recreational
+2019-11,Gilpin,250692.0,Recreational
+2019-11,Grand,,Medical
+2019-11,Grand,444042.0,Recreational
+2019-11,Gunnison,535869.0,Recreational
+2019-11,Huerfano,182778.0,Recreational
+2019-11,Jefferson,1353642.0,Medical
+2019-11,Jefferson,4515281.0,Recreational
+2019-11,La Plata,,Medical
+2019-11,La Plata,2259703.0,Recreational
+2019-11,Lake,224151.0,Recreational
+2019-11,Larimer,782261.0,Medical
+2019-11,Larimer,8013976.0,Recreational
+2019-11,Las Animas,27877.0,Medical
+2019-11,Las Animas,4384901.0,Recreational
+2019-11,Mesa,,Medical
+2019-11,Mesa,1954432.0,Recreational
+2019-11,Moffat,,Medical
+2019-11,Moffat,927151.0,Recreational
+2019-11,Montezuma,,Medical
+2019-11,Montezuma,1918432.0,Recreational
+2019-11,Montrose,,Medical
+2019-11,Montrose,,Recreational
+2019-11,Morgan,,Medical
+2019-11,Morgan,1614277.0,Recreational
+2019-11,Otero,,Medical
+2019-11,Otero,,Recreational
+2019-11,Ouray,,Recreational
+2019-11,Park,,Medical
+2019-11,Park,375600.0,Recreational
+2019-11,Pitkin,,Medical
+2019-11,Pitkin,616732.0,Recreational
+2019-11,Pueblo,775300.0,Medical
+2019-11,Pueblo,6525541.0,Recreational
+2019-11,Routt,155209.0,Medical
+2019-11,Routt,850163.0,Recreational
+2019-11,Saguache,250049.0,Recreational
+2019-11,San Juan,,Recreational
+2019-11,San Miguel,,Medical
+2019-11,San Miguel,200951.0,Recreational
+2019-11,Sedgwick,,Medical
+2019-11,Sedgwick,,Recreational
+2019-11,Summit,62495.0,Medical
+2019-11,Summit,1635742.0,Recreational
+2019-11,Weld,314633.0,Medical
+2019-11,Weld,2452994.0,Recreational
+2019-12,Adams,708001.0,Medical
+2019-12,Adams,9632162.0,Recreational
+2019-12,Alamosa,,Medical
+2019-12,Arapahoe,875889.0,Medical
+2019-12,Arapahoe,12359535.0,Recreational
+2019-12,Archuleta,893754.0,Recreational
+2019-12,Bent,,Recreational
+2019-12,Boulder,1214853.0,Medical
+2019-12,Boulder,8622927.0,Recreational
+2019-12,Chaffee,,Medical
+2019-12,Chaffee,,Recreational
+2019-12,Clear Creek,,Medical
+2019-12,Clear Creek,662522.0,Recreational
+2019-12,Conejos,,Recreational
+2019-12,Costilla,350369.0,Recreational
+2019-12,Crowley,,Recreational
+2019-12,Delta,,Medical
+2019-12,Denver,11636868.0,Medical
+2019-12,Denver,33246095.0,Recreational
+2019-12,Eagle,107825.0,Medical
+2019-12,Eagle,1847271.0,Recreational
+2019-12,El Paso,8251711.0,Medical
+2019-12,El Paso,,Recreational
+2019-12,Fremont,,Medical
+2019-12,Garfield,113011.0,Medical
+2019-12,Garfield,1883752.0,Recreational
+2019-12,Gilpin,238682.0,Recreational
+2019-12,Grand,,Medical
+2019-12,Grand,655035.0,Recreational
+2019-12,Gunnison,659584.0,Recreational
+2019-12,Huerfano,170840.0,Recreational
+2019-12,Jefferson,1443914.0,Medical
+2019-12,Jefferson,4707227.0,Recreational
+2019-12,La Plata,,Medical
+2019-12,La Plata,2490195.0,Recreational
+2019-12,Lake,241905.0,Recreational
+2019-12,Larimer,805873.0,Medical
+2019-12,Larimer,8164102.0,Recreational
+2019-12,Las Animas,27183.0,Medical
+2019-12,Las Animas,4024747.0,Recreational
+2019-12,Mesa,,Medical
+2019-12,Mesa,1896560.0,Recreational
+2019-12,Moffat,,Medical
+2019-12,Moffat,853209.0,Recreational
+2019-12,Montezuma,,Medical
+2019-12,Montezuma,1793908.0,Recreational
+2019-12,Montrose,,Medical
+2019-12,Montrose,,Recreational
+2019-12,Morgan,,Medical
+2019-12,Morgan,1452645.0,Recreational
+2019-12,Otero,,Medical
+2019-12,Otero,,Recreational
+2019-12,Ouray,730178.0,Recreational
+2019-12,Park,,Medical
+2019-12,Park,405939.0,Recreational
+2019-12,Pitkin,,Medical
+2019-12,Pitkin,1305423.0,Recreational
+2019-12,Pueblo,754498.0,Medical
+2019-12,Pueblo,6312066.0,Recreational
+2019-12,Routt,153737.0,Medical
+2019-12,Routt,1112789.0,Recreational
+2019-12,Saguache,246391.0,Recreational
+2019-12,San Juan,13232.0,Recreational
+2019-12,San Miguel,,Medical
+2019-12,San Miguel,444533.0,Recreational
+2019-12,Sedgwick,,Medical
+2019-12,Sedgwick,,Recreational
+2019-12,Summit,,Medical
+2019-12,Summit,2476854.0,Recreational
+2019-12,Weld,314840.0,Medical
+2019-12,Weld,2448689.0,Recreational
+2020-01,Adams,633417.0,Medical
+2020-01,Adams,9161056.0,Recreational
+2020-01,Alamosa,,Medical
+2020-01,Arapahoe,797863.0,Medical
+2020-01,Arapahoe,11255656.0,Recreational
+2020-01,Archuleta,842953.0,Recreational
+2020-01,Bent,,Recreational
+2020-01,Boulder,1129603.0,Medical
+2020-01,Boulder,8048704.0,Recreational
+2020-01,Chaffee,,Medical
+2020-01,Chaffee,502604.0,Recreational
+2020-01,Clear Creek,,Medical
+2020-01,Clear Creek,688968.0,Recreational
+2020-01,Conejos,,Recreational
+2020-01,Costilla,334578.0,Recreational
+2020-01,Crowley,,Recreational
+2020-01,Delta,,Medical
+2020-01,Denver,11883569.0,Medical
+2020-01,Denver,32725429.0,Recreational
+2020-01,Eagle,112180.0,Medical
+2020-01,Eagle,1964595.0,Recreational
+2020-01,El Paso,8559888.0,Medical
+2020-01,El Paso,,Recreational
+2020-01,Fremont,,Medical
+2020-01,Garfield,99505.0,Medical
+2020-01,Garfield,1779794.0,Recreational
+2020-01,Gilpin,240660.0,Recreational
+2020-01,Grand,,Medical
+2020-01,Grand,626116.0,Recreational
+2020-01,Gunnison,641199.0,Recreational
+2020-01,Huerfano,162039.0,Recreational
+2020-01,Jefferson,1396220.0,Medical
+2020-01,Jefferson,4389257.0,Recreational
+2020-01,La Plata,,Medical
+2020-01,La Plata,2345450.0,Recreational
+2020-01,Lake,,Recreational
+2020-01,Larimer,748079.0,Medical
+2020-01,Larimer,7671046.0,Recreational
+2020-01,Las Animas,26742.0,Medical
+2020-01,Las Animas,3806589.0,Recreational
+2020-01,Mesa,,Medical
+2020-01,Mesa,1395679.0,Recreational
+2020-01,Moffat,,Medical
+2020-01,Moffat,,Recreational
+2020-01,Montezuma,,Medical
+2020-01,Montezuma,1741219.0,Recreational
+2020-01,Montrose,,Medical
+2020-01,Montrose,,Recreational
+2020-01,Morgan,,Medical
+2020-01,Morgan,1501900.0,Recreational
+2020-01,Otero,,Medical
+2020-01,Otero,,Recreational
+2020-01,Ouray,696495.0,Recreational
+2020-01,Park,,Medical
+2020-01,Park,388731.0,Recreational
+2020-01,Pitkin,,Medical
+2020-01,Pitkin,1501527.0,Recreational
+2020-01,Pueblo,764450.0,Medical
+2020-01,Pueblo,6107269.0,Recreational
+2020-01,Routt,153814.0,Medical
+2020-01,Routt,1362765.0,Recreational
+2020-01,Saguache,254895.0,Recreational
+2020-01,San Juan,,Recreational
+2020-01,San Miguel,,Medical
+2020-01,San Miguel,546613.0,Recreational
+2020-01,Sedgwick,,Medical
+2020-01,Sedgwick,,Recreational
+2020-01,Summit,,Medical
+2020-01,Summit,2873525.0,Recreational
+2020-01,Weld,288641.0,Medical
+2020-01,Weld,2326213.0,Recreational
+2020-02,Adams,583318.0,Medical
+2020-02,Adams,9143186.0,Recreational
+2020-02,Alamosa,,Medical
+2020-02,Arapahoe,781926.0,Medical
+2020-02,Arapahoe,11501463.0,Recreational
+2020-02,Archuleta,806623.0,Recreational
+2020-02,Bent,,Recreational
+2020-02,Boulder,1075738.0,Medical
+2020-02,Boulder,7920664.0,Recreational
+2020-02,Chaffee,,Medical
+2020-02,Chaffee,449651.0,Recreational
+2020-02,Clear Creek,,Medical
+2020-02,Clear Creek,648544.0,Recreational
+2020-02,Conejos,,Recreational
+2020-02,Costilla,348795.0,Recreational
+2020-02,Crowley,,Recreational
+2020-02,Delta,,Medical
+2020-02,Denver,11607347.0,Medical
+2020-02,Denver,32649234.0,Recreational
+2020-02,Eagle,109702.0,Medical
+2020-02,Eagle,1959791.0,Recreational
+2020-02,El Paso,8114999.0,Medical
+2020-02,El Paso,,Recreational
+2020-02,Fremont,,Medical
+2020-02,Garfield,89443.0,Medical
+2020-02,Garfield,1792134.0,Recreational
+2020-02,Gilpin,231904.0,Recreational
+2020-02,Grand,,Medical
+2020-02,Grand,612478.0,Recreational
+2020-02,Gunnison,625097.0,Recreational
+2020-02,Huerfano,157235.0,Recreational
+2020-02,Jefferson,1233597.0,Medical
+2020-02,Jefferson,4304697.0,Recreational
+2020-02,La Plata,,Medical
+2020-02,La Plata,2303948.0,Recreational
+2020-02,Lake,,Recreational
+2020-02,Larimer,720324.0,Medical
+2020-02,Larimer,7649702.0,Recreational
+2020-02,Las Animas,24959.0,Medical
+2020-02,Las Animas,3989609.0,Recreational
+2020-02,Mesa,,Medical
+2020-02,Mesa,1883643.0,Recreational
+2020-02,Moffat,,Medical
+2020-02,Moffat,,Recreational
+2020-02,Montezuma,,Medical
+2020-02,Montezuma,1884355.0,Recreational
+2020-02,Montrose,,Medical
+2020-02,Montrose,,Recreational
+2020-02,Morgan,,Medical
+2020-02,Morgan,1548519.0,Recreational
+2020-02,Otero,,Medical
+2020-02,Otero,,Recreational
+2020-02,Ouray,,Recreational
+2020-02,Park,,Medical
+2020-02,Park,364693.0,Recreational
+2020-02,Pitkin,,Medical
+2020-02,Pitkin,1406907.0,Recreational
+2020-02,Pueblo,920013.0,Medical
+2020-02,Pueblo,5923274.0,Recreational
+2020-02,Routt,144263.0,Medical
+2020-02,Routt,1285386.0,Recreational
+2020-02,Saguache,265736.0,Recreational
+2020-02,San Juan,20789.0,Recreational
+2020-02,San Miguel,,Medical
+2020-02,San Miguel,558901.0,Recreational
+2020-02,Sedgwick,,Medical
+2020-02,Sedgwick,,Recreational
+2020-02,Summit,,Medical
+2020-02,Summit,2867024.0,Recreational
+2020-02,Weld,289779.0,Medical
+2020-02,Weld,2323953.0,Recreational
+2020-03,Adams,786129.0,Medical
+2020-03,Adams,10989274.0,Recreational
+2020-03,Alamosa,,Medical
+2020-03,Arapahoe,1039380.0,Medical
+2020-03,Arapahoe,13195567.0,Recreational
+2020-03,Archuleta,916578.0,Recreational
+2020-03,Bent,,Recreational
+2020-03,Boulder,1208727.0,Medical
+2020-03,Boulder,9141582.0,Recreational
+2020-03,Chaffee,,Medical
+2020-03,Chaffee,561435.0,Recreational
+2020-03,Clear Creek,,Medical
+2020-03,Clear Creek,678872.0,Recreational
+2020-03,Conejos,,Recreational
+2020-03,Costilla,437566.0,Recreational
+2020-03,Crowley,,Recreational
+2020-03,Denver,13752429.0,Medical
+2020-03,Denver,37144790.0,Recreational
+2020-03,Eagle,,Medical
+2020-03,Eagle,1886687.0,Recreational
+2020-03,El Paso,10236898.0,Medical
+2020-03,El Paso,,Recreational
+2020-03,Fremont,,Medical
+2020-03,Garfield,,Medical
+2020-03,Garfield,2241940.0,Recreational
+2020-03,Gilpin,246896.0,Recreational
+2020-03,Grand,,Medical
+2020-03,Grand,661002.0,Recreational
+2020-03,Gunnison,667205.0,Recreational
+2020-03,Huerfano,224744.0,Recreational
+2020-03,Jefferson,1644343.0,Medical
+2020-03,Jefferson,5200066.0,Recreational
+2020-03,La Plata,,Medical
+2020-03,La Plata,2802713.0,Recreational
+2020-03,Lake,295013.0,Recreational
+2020-03,Larimer,937349.0,Medical
+2020-03,Larimer,8575702.0,Recreational
+2020-03,Las Animas,,Medical
+2020-03,Las Animas,4382701.0,Recreational
+2020-03,Mesa,,Medical
+2020-03,Mesa,2354555.0,Recreational
+2020-03,Moffat,,Medical
+2020-03,Moffat,,Recreational
+2020-03,Montezuma,,Medical
+2020-03,Montezuma,2189509.0,Recreational
+2020-03,Montrose,,Medical
+2020-03,Montrose,,Recreational
+2020-03,Morgan,,Medical
+2020-03,Morgan,1752738.0,Recreational
+2020-03,Otero,,Medical
+2020-03,Otero,289359.0,Recreational
+2020-03,Ouray,831789.0,Recreational
+2020-03,Park,,Medical
+2020-03,Park,461899.0,Recreational
+2020-03,Pitkin,,Medical
+2020-03,Pitkin,1202870.0,Recreational
+2020-03,Pueblo,1455541.0,Medical
+2020-03,Pueblo,7337911.0,Recreational
+2020-03,Routt,,Medical
+2020-03,Routt,1220117.0,Recreational
+2020-03,Saguache,,Medical
+2020-03,Saguache,325910.0,Recreational
+2020-03,San Juan,18137.0,Recreational
+2020-03,San Miguel,,Medical
+2020-03,San Miguel,484426.0,Recreational
+2020-03,Sedgwick,,Medical
+2020-03,Sedgwick,,Recreational
+2020-03,Summit,,Medical
+2020-03,Summit,2348948.0,Recreational
+2020-03,Weld,,Medical
+2020-03,Weld,2683128.0,Recreational
+2020-04,Adams,880140.0,Medical
+2020-04,Adams,10446363.0,Recreational
+2020-04,Alamosa,,Medical
+2020-04,Arapahoe,993385.0,Medical
+2020-04,Arapahoe,12108380.0,Recreational
+2020-04,Archuleta,714722.0,Recreational
+2020-04,Bent,,Recreational
+2020-04,Boulder,1157461.0,Medical
+2020-04,Boulder,8099503.0,Recreational
+2020-04,Chaffee,,Medical
+2020-04,Chaffee,452748.0,Recreational
+2020-04,Clear Creek,414222.0,Recreational
+2020-04,Conejos,,Recreational
+2020-04,Costilla,440315.0,Recreational
+2020-04,Crowley,,Recreational
+2020-04,Delta,,Medical
+2020-04,Denver,15951678.0,Medical
+2020-04,Denver,31160844.0,Recreational
+2020-04,Eagle,124811.0,Medical
+2020-04,Eagle,1126605.0,Recreational
+2020-04,El Paso,11689596.0,Medical
+2020-04,El Paso,,Recreational
+2020-04,Fremont,,Medical
+2020-04,Garfield,122073.0,Medical
+2020-04,Garfield,2102674.0,Recreational
+2020-04,Gilpin,152423.0,Recreational
+2020-04,Grand,,Medical
+2020-04,Grand,382636.0,Recreational
+2020-04,Gunnison,426312.0,Recreational
+2020-04,Huerfano,175608.0,Recreational
+2020-04,Jefferson,1592093.0,Medical
+2020-04,Jefferson,4316892.0,Recreational
+2020-04,La Plata,,Medical
+2020-04,La Plata,2576792.0,Recreational
+2020-04,Lake,249620.0,Recreational
+2020-04,Larimer,810855.0,Medical
+2020-04,Larimer,7711224.0,Recreational
+2020-04,Las Animas,39703.0,Medical
+2020-04,Las Animas,3750308.0,Recreational
+2020-04,Mesa,,Medical
+2020-04,Mesa,2371358.0,Recreational
+2020-04,Moffat,,Medical
+2020-04,Moffat,1087434.0,Recreational
+2020-04,Montezuma,,Medical
+2020-04,Montezuma,2393324.0,Recreational
+2020-04,Montrose,,Medical
+2020-04,Montrose,,Recreational
+2020-04,Morgan,,Medical
+2020-04,Morgan,1573798.0,Recreational
+2020-04,Otero,,Medical
+2020-04,Otero,275275.0,Recreational
+2020-04,Ouray,790247.0,Recreational
+2020-04,Park,,Medical
+2020-04,Park,443813.0,Recreational
+2020-04,Pitkin,,Medical
+2020-04,Pitkin,628976.0,Recreational
+2020-04,Pueblo,1285315.0,Medical
+2020-04,Pueblo,7445342.0,Recreational
+2020-04,Routt,,Medical
+2020-04,Routt,721764.0,Recreational
+2020-04,Saguache,,Medical
+2020-04,Saguache,355961.0,Recreational
+2020-04,San Juan,,Recreational
+2020-04,San Miguel,,Medical
+2020-04,San Miguel,202914.0,Recreational
+2020-04,Sedgwick,,Medical
+2020-04,Sedgwick,,Recreational
+2020-04,Summit,,Medical
+2020-04,Summit,1020554.0,Recreational
+2020-04,Weld,349328.0,Medical
+2020-04,Weld,2568084.0,Recreational
+2020-05,Adams,1026083.0,Medical
+2020-05,Adams,13163843.0,Recreational
+2020-05,Alamosa,,Medical
+2020-05,Arapahoe,1100521.0,Medical
+2020-05,Arapahoe,15053816.0,Recreational
+2020-05,Archuleta,1150154.0,Recreational
+2020-05,Bent,504288.0,Recreational
+2020-05,Boulder,1258072.0,Medical
+2020-05,Boulder,10018004.0,Recreational
+2020-05,Chaffee,,Medical
+2020-05,Chaffee,623793.0,Recreational
+2020-05,Clear Creek,610104.0,Recreational
+2020-05,Conejos,,Recreational
+2020-05,Costilla,641461.0,Recreational
+2020-05,Crowley,,Recreational
+2020-05,Delta,,Medical
+2020-05,Denver,19227659.0,Medical
+2020-05,Denver,43963906.0,Recreational
+2020-05,Eagle,118505.0,Medical
+2020-05,Eagle,1323064.0,Recreational
+2020-05,El Paso,14210184.0,Medical
+2020-05,El Paso,,Recreational
+2020-05,Fremont,,Medical
+2020-05,Garfield,127304.0,Medical
+2020-05,Garfield,2555934.0,Recreational
+2020-05,Gilpin,202928.0,Recreational
+2020-05,Grand,,Medical
+2020-05,Grand,470217.0,Recreational
+2020-05,Gunnison,604243.0,Recreational
+2020-05,Huerfano,,Recreational
+2020-05,Jefferson,1738369.0,Medical
+2020-05,Jefferson,5434741.0,Recreational
+2020-05,La Plata,,Medical
+2020-05,La Plata,3510421.0,Recreational
+2020-05,Lake,,Recreational
+2020-05,Larimer,888074.0,Medical
+2020-05,Larimer,9860019.0,Recreational
+2020-05,Las Animas,47156.0,Medical
+2020-05,Las Animas,6559828.0,Recreational
+2020-05,Mesa,,Medical
+2020-05,Mesa,2819667.0,Recreational
+2020-05,Moffat,,Medical
+2020-05,Moffat,1454633.0,Recreational
+2020-05,Montezuma,,Medical
+2020-05,Montezuma,2887841.0,Recreational
+2020-05,Montrose,,Medical
+2020-05,Montrose,,Recreational
+2020-05,Morgan,,Medical
+2020-05,Morgan,2305296.0,Recreational
+2020-05,Otero,,Medical
+2020-05,Otero,456873.0,Recreational
+2020-05,Ouray,950798.0,Recreational
+2020-05,Park,,Medical
+2020-05,Park,574822.0,Recreational
+2020-05,Pitkin,,Medical
+2020-05,Pitkin,676949.0,Recreational
+2020-05,Pueblo,1333357.0,Medical
+2020-05,Pueblo,10194247.0,Recreational
+2020-05,Routt,,Medical
+2020-05,Routt,840568.0,Recreational
+2020-05,Saguache,,Medical
+2020-05,Saguache,422802.0,Recreational
+2020-05,San Juan,17301.0,Recreational
+2020-05,San Miguel,,Medical
+2020-05,San Miguel,215019.0,Recreational
+2020-05,Sedgwick,,Medical
+2020-05,Sedgwick,,Recreational
+2020-05,Summit,,Medical
+2020-05,Summit,1161610.0,Recreational
+2020-05,Weld,383499.0,Medical
+2020-05,Weld,3051727.0,Recreational
+2020-06,Adams,819585.0,Medical
+2020-06,Adams,13245628.0,Recreational
+2020-06,Alamosa,,Medical
+2020-06,Arapahoe,1069434.0,Medical
+2020-06,Arapahoe,15475548.0,Recreational
+2020-06,Archuleta,1576742.0,Recreational
+2020-06,Bent,,Recreational
+2020-06,Boulder,1306408.0,Medical
+2020-06,Boulder,10759641.0,Recreational
+2020-06,Chaffee,,Medical
+2020-06,Chaffee,757847.0,Recreational
+2020-06,Clear Creek,792934.0,Recreational
+2020-06,Conejos,,Recreational
+2020-06,Costilla,705068.0,Recreational
+2020-06,Crowley,,Recreational
+2020-06,Delta,,Medical
+2020-06,Denver,18379149.0,Medical
+2020-06,Denver,47719774.0,Recreational
+2020-06,Eagle,120840.0,Medical
+2020-06,Eagle,1582305.0,Recreational
+2020-06,El Paso,13738420.0,Medical
+2020-06,El Paso,,Recreational
+2020-06,Fremont,,Medical
+2020-06,Garfield,122053.0,Medical
+2020-06,Garfield,2565672.0,Recreational
+2020-06,Gilpin,250680.0,Recreational
+2020-06,Grand,,Medical
+2020-06,Grand,652513.0,Recreational
+2020-06,Gunnison,841215.0,Recreational
+2020-06,Huerfano,382156.0,Recreational
+2020-06,Jefferson,1644666.0,Medical
+2020-06,Jefferson,5719165.0,Recreational
+2020-06,La Plata,,Medical
+2020-06,La Plata,3849805.0,Recreational
+2020-06,Lake,357254.0,Recreational
+2020-06,Larimer,785406.0,Medical
+2020-06,Larimer,8405389.0,Recreational
+2020-06,Las Animas,48038.0,Medical
+2020-06,Las Animas,7468580.0,Recreational
+2020-06,Mesa,,Medical
+2020-06,Mesa,2720456.0,Recreational
+2020-06,Moffat,,Medical
+2020-06,Moffat,1394796.0,Recreational
+2020-06,Montezuma,,Medical
+2020-06,Montezuma,2872950.0,Recreational
+2020-06,Montrose,,Medical
+2020-06,Montrose,,Recreational
+2020-06,Morgan,,Medical
+2020-06,Morgan,2125034.0,Recreational
+2020-06,Otero,,Medical
+2020-06,Otero,367925.0,Recreational
+2020-06,Ouray,994152.0,Recreational
+2020-06,Park,,Medical
+2020-06,Park,667435.0,Recreational
+2020-06,Pitkin,,Medical
+2020-06,Pitkin,1029671.0,Recreational
+2020-06,Pueblo,1075404.0,Medical
+2020-06,Pueblo,10730061.0,Recreational
+2020-06,Routt,158679.0,Medical
+2020-06,Routt,1042025.0,Recreational
+2020-06,Saguache,,Medical
+2020-06,Saguache,445601.0,Recreational
+2020-06,San Juan,,Recreational
+2020-06,San Miguel,,Medical
+2020-06,San Miguel,422492.0,Recreational
+2020-06,Sedgwick,,Medical
+2020-06,Sedgwick,,Recreational
+2020-06,Summit,,Medical
+2020-06,Summit,1973283.0,Recreational
+2020-06,Weld,360244.0,Medical
+2020-06,Weld,2861164.0,Recreational
+2020-07,Adams,808920.0,Medical
+2020-07,Adams,14501666.0,Recreational
+2020-07,Alamosa,,Medical
+2020-07,Arapahoe,1193193.0,Medical
+2020-07,Arapahoe,17272789.0,Recreational
+2020-07,Archuleta,1901822.0,Recreational
+2020-07,Bent,,Recreational
+2020-07,Boulder,1309949.0,Medical
+2020-07,Boulder,12593191.0,Recreational
+2020-07,Chaffee,,Medical
+2020-07,Chaffee,892277.0,Recreational
+2020-07,Clear Creek,963985.0,Recreational
+2020-07,Conejos,,Recreational
+2020-07,Costilla,782461.0,Recreational
+2020-07,Crowley,,Recreational
+2020-07,Delta,,Medical
+2020-07,Denver,20149552.0,Medical
+2020-07,Denver,55559414.0,Recreational
+2020-07,Eagle,137076.0,Medical
+2020-07,Eagle,2128829.0,Recreational
+2020-07,El Paso,14308821.0,Medical
+2020-07,El Paso,,Recreational
+2020-07,Fremont,,Medical
+2020-07,Garfield,123374.0,Medical
+2020-07,Garfield,2817708.0,Recreational
+2020-07,Gilpin,362501.0,Recreational
+2020-07,Grand,,Medical
+2020-07,Grand,910474.0,Recreational
+2020-07,Gunnison,1152384.0,Recreational
+2020-07,Huerfano,471993.0,Recreational
+2020-07,Jefferson,1749241.0,Medical
+2020-07,Jefferson,6332915.0,Recreational
+2020-07,La Plata,,Medical
+2020-07,La Plata,4393130.0,Recreational
+2020-07,Lake,453214.0,Recreational
+2020-07,Larimer,787213.0,Medical
+2020-07,Larimer,10640199.0,Recreational
+2020-07,Las Animas,38657.0,Medical
+2020-07,Las Animas,8223397.0,Recreational
+2020-07,Mesa,,Medical
+2020-07,Mesa,2915887.0,Recreational
+2020-07,Moffat,,Medical
+2020-07,Moffat,1565531.0,Recreational
+2020-07,Montezuma,,Medical
+2020-07,Montezuma,3029187.0,Recreational
+2020-07,Montrose,,Medical
+2020-07,Montrose,,Recreational
+2020-07,Morgan,,Medical
+2020-07,Morgan,2225544.0,Recreational
+2020-07,Otero,,Medical
+2020-07,Otero,401321.0,Recreational
+2020-07,Ouray,1174452.0,Recreational
+2020-07,Park,,Medical
+2020-07,Park,823082.0,Recreational
+2020-07,Pitkin,,Medical
+2020-07,Pitkin,1648767.0,Recreational
+2020-07,Pueblo,1012251.0,Medical
+2020-07,Pueblo,12008343.0,Recreational
+2020-07,Routt,,Medical
+2020-07,Routt,1092515.0,Recreational
+2020-07,Saguache,,Medical
+2020-07,Saguache,541017.0,Recreational
+2020-07,San Juan,158024.0,Recreational
+2020-07,San Miguel,,Medical
+2020-07,San Miguel,665689.0,Recreational
+2020-07,Sedgwick,,Recreational
+2020-07,Summit,,Medical
+2020-07,Summit,3029284.0,Recreational
+2020-07,Weld,367297.0,Medical
+2020-07,Weld,3043883.0,Recreational
+2020-08,Adams,764633.0,Medical
+2020-08,Adams,14132898.0,Recreational
+2020-08,Alamosa,,Medical
+2020-08,Arapahoe,1124807.0,Medical
+2020-08,Arapahoe,16909557.0,Recreational
+2020-08,Archuleta,1768671.0,Recreational
+2020-08,Bent,,Recreational
+2020-08,Boulder,1356988.0,Medical
+2020-08,Boulder,12547631.0,Recreational
+2020-08,Chaffee,,Medical
+2020-08,Chaffee,,Recreational
+2020-08,Clear Creek,936015.0,Recreational
+2020-08,Conejos,,Recreational
+2020-08,Costilla,763624.0,Recreational
+2020-08,Crowley,,Recreational
+2020-08,Delta,,Medical
+2020-08,Denver,19551025.0,Medical
+2020-08,Denver,52011403.0,Recreational
+2020-08,Eagle,134938.0,Medical
+2020-08,Eagle,2077635.0,Recreational
+2020-08,El Paso,13634778.0,Medical
+2020-08,El Paso,,Recreational
+2020-08,Fremont,,Medical
+2020-08,Garfield,112580.0,Medical
+2020-08,Garfield,2538125.0,Recreational
+2020-08,Gilpin,363139.0,Recreational
+2020-08,Grand,,Medical
+2020-08,Grand,871406.0,Recreational
+2020-08,Gunnison,1172858.0,Recreational
+2020-08,Huerfano,506634.0,Recreational
+2020-08,Jefferson,2085121.0,Medical
+2020-08,Jefferson,5805803.0,Recreational
+2020-08,La Plata,,Medical
+2020-08,La Plata,4351267.0,Recreational
+2020-08,Lake,449116.0,Recreational
+2020-08,Larimer,761419.0,Medical
+2020-08,Larimer,10520821.0,Recreational
+2020-08,Las Animas,37764.0,Medical
+2020-08,Las Animas,8014108.0,Recreational
+2020-08,Mesa,,Medical
+2020-08,Mesa,2832178.0,Recreational
+2020-08,Moffat,,Medical
+2020-08,Moffat,1566169.0,Recreational
+2020-08,Montezuma,,Medical
+2020-08,Montezuma,2865594.0,Recreational
+2020-08,Montrose,,Medical
+2020-08,Montrose,,Recreational
+2020-08,Morgan,,Medical
+2020-08,Morgan,2129366.0,Recreational
+2020-08,Otero,,Medical
+2020-08,Otero,382861.0,Recreational
+2020-08,Ouray,1179244.0,Recreational
+2020-08,Park,,Medical
+2020-08,Park,787264.0,Recreational
+2020-08,Pitkin,,Medical
+2020-08,Pitkin,1644529.0,Recreational
+2020-08,Pueblo,796964.0,Medical
+2020-08,Pueblo,11593542.0,Recreational
+2020-08,Routt,174710.0,Medical
+2020-08,Routt,1286136.0,Recreational
+2020-08,Saguache,,Medical
+2020-08,Saguache,514522.0,Recreational
+2020-08,San Juan,,Recreational
+2020-08,San Miguel,,Medical
+2020-08,San Miguel,652208.0,Recreational
+2020-08,Sedgwick,,Recreational
+2020-08,Summit,,Medical
+2020-08,Summit,2915208.0,Recreational
+2020-08,Weld,368724.0,Medical
+2020-08,Weld,2981981.0,Recreational
+2020-09,Adams,741017.0,Medical
+2020-09,Adams,13323488.0,Recreational
+2020-09,Alamosa,,Medical
+2020-09,Arapahoe,1052160.0,Medical
+2020-09,Arapahoe,16113147.0,Recreational
+2020-09,Archuleta,1681439.0,Recreational
+2020-09,Bent,,Recreational
+2020-09,Boulder,1363396.0,Medical
+2020-09,Boulder,11745758.0,Recreational
+2020-09,Chaffee,,Medical
+2020-09,Chaffee,793711.0,Recreational
+2020-09,Clear Creek,890941.0,Recreational
+2020-09,Conejos,,Recreational
+2020-09,Costilla,731834.0,Recreational
+2020-09,Crowley,,Recreational
+2020-09,Delta,,Medical
+2020-09,Denver,17569584.0,Medical
+2020-09,Denver,48325167.0,Recreational
+2020-09,Eagle,132762.0,Medical
+2020-09,Eagle,1831125.0,Recreational
+2020-09,El Paso,13170772.0,Medical
+2020-09,El Paso,,Recreational
+2020-09,Fremont,,Medical
+2020-09,Garfield,111523.0,Medical
+2020-09,Garfield,2592746.0,Recreational
+2020-09,Gilpin,340423.0,Recreational
+2020-09,Grand,,Medical
+2020-09,Grand,803456.0,Recreational
+2020-09,Gunnison,1061013.0,Recreational
+2020-09,Huerfano,453693.0,Recreational
+2020-09,Jefferson,1834754.0,Medical
+2020-09,Jefferson,6017419.0,Recreational
+2020-09,La Plata,,Medical
+2020-09,La Plata,4087203.0,Recreational
+2020-09,Lake,405147.0,Recreational
+2020-09,Larimer,747471.0,Medical
+2020-09,Larimer,10195117.0,Recreational
+2020-09,Las Animas,,Medical
+2020-09,Las Animas,7240490.0,Recreational
+2020-09,Mesa,,Medical
+2020-09,Mesa,2877194.0,Recreational
+2020-09,Moffat,,Medical
+2020-09,Moffat,1513895.0,Recreational
+2020-09,Montezuma,,Medical
+2020-09,Montezuma,2892047.0,Recreational
+2020-09,Montrose,,Medical
+2020-09,Montrose,,Recreational
+2020-09,Morgan,,Medical
+2020-09,Morgan,2008333.0,Recreational
+2020-09,Otero,,Medical
+2020-09,Otero,355217.0,Recreational
+2020-09,Ouray,1154661.0,Recreational
+2020-09,Park,,Medical
+2020-09,Park,731674.0,Recreational
+2020-09,Pitkin,,Medical
+2020-09,Pitkin,1443693.0,Recreational
+2020-09,Pueblo,1593366.0,Medical
+2020-09,Pueblo,10586855.0,Recreational
+2020-09,Routt,,Medical
+2020-09,Routt,1232962.0,Recreational
+2020-09,Saguache,,Medical
+2020-09,Saguache,491419.0,Recreational
+2020-09,San Juan,,Recreational
+2020-09,San Miguel,,Medical
+2020-09,San Miguel,574739.0,Recreational
+2020-09,Sedgwick,,Recreational
+2020-09,Summit,,Medical
+2020-09,Summit,2649776.0,Recreational
+2020-09,Weld,368241.0,Medical
+2020-09,Weld,2910174.0,Recreational
+2020-10,Adams,716177.0,Medical
+2020-10,Adams,13204959.0,Recreational
+2020-10,Alamosa,,Medical
+2020-10,Arapahoe,1029767.0,Medical
+2020-10,Arapahoe,16450038.0,Recreational
+2020-10,Archuleta,1481254.0,Recreational
+2020-10,Bent,,Recreational
+2020-10,Boulder,1382416.0,Medical
+2020-10,Boulder,11622740.0,Recreational
+2020-10,Chaffee,,Medical
+2020-10,Chaffee,665749.0,Recreational
+2020-10,Clear Creek,817036.0,Recreational
+2020-10,Conejos,,Recreational
+2020-10,Costilla,641992.0,Recreational
+2020-10,Crowley,,Recreational
+2020-10,Delta,,Medical
+2020-10,Denver,18032316.0,Medical
+2020-10,Denver,47172820.0,Recreational
+2020-10,Eagle,136721.0,Medical
+2020-10,Eagle,1639581.0,Recreational
+2020-10,El Paso,12431188.0,Medical
+2020-10,El Paso,,Recreational
+2020-10,Fremont,,Medical
+2020-10,Garfield,119428.0,Medical
+2020-10,Garfield,2532550.0,Recreational
+2020-10,Gilpin,334252.0,Recreational
+2020-10,Grand,,Medical
+2020-10,Grand,632651.0,Recreational
+2020-10,Gunnison,867733.0,Recreational
+2020-10,Huerfano,355511.0,Recreational
+2020-10,Jefferson,1572699.0,Medical
+2020-10,Jefferson,6031115.0,Recreational
+2020-10,La Plata,,Medical
+2020-10,La Plata,3689754.0,Recreational
+2020-10,Lake,316410.0,Recreational
+2020-10,Larimer,740235.0,Medical
+2020-10,Larimer,9893740.0,Recreational
+2020-10,Las Animas,31435.0,Medical
+2020-10,Las Animas,6506906.0,Recreational
+2020-10,Mesa,,Medical
+2020-10,Mesa,2812739.0,Recreational
+2020-10,Moffat,,Medical
+2020-10,Moffat,1560740.0,Recreational
+2020-10,Montezuma,,Medical
+2020-10,Montezuma,2738154.0,Recreational
+2020-10,Montrose,,Medical
+2020-10,Montrose,,Recreational
+2020-10,Morgan,,Medical
+2020-10,Morgan,2048009.0,Recreational
+2020-10,Otero,,Medical
+2020-10,Otero,342674.0,Recreational
+2020-10,Ouray,1071466.0,Recreational
+2020-10,Park,,Medical
+2020-10,Park,679385.0,Recreational
+2020-10,Pitkin,,Medical
+2020-10,Pitkin,1162883.0,Recreational
+2020-10,Pueblo,926138.0,Medical
+2020-10,Pueblo,9977452.0,Recreational
+2020-10,Routt,,Medical
+2020-10,Routt,1135205.0,Recreational
+2020-10,Saguache,,Medical
+2020-10,Saguache,440886.0,Recreational
+2020-10,San Juan,66015.0,Recreational
+2020-10,San Miguel,,Medical
+2020-10,San Miguel,443974.0,Recreational
+2020-10,Sedgwick,1251442.0,Recreational
+2020-10,Summit,,Medical
+2020-10,Summit,2409245.0,Recreational
+2020-10,Weld,373466.0,Medical
+2020-10,Weld,2966860.0,Recreational
