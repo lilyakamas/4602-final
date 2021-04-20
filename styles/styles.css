@@ -1,10 +1,12 @@
-body {
+/*body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
+}*/
 
 div#title {
-    background-color: #7398C4;
+    background-color: #dee2f5; 
 }
+
+/*change the color here*/
 
 h1 {
     font-weight: bolder;
@@ -29,7 +31,7 @@ div.odd-arrow-down {
   height: 0; 
   border-left: 20px solid transparent;
   border-right: 20px solid transparent;
-  border-top: 50px solid #CFB87C;
+  border-top: 50px solid #dee2f5;
   float: right;
   position: relative;
   top: 45px;
@@ -40,7 +42,7 @@ div.even-arrow-down {
   height: 0; 
   border-left: 20px solid transparent;
   border-right: 20px solid transparent;
-  border-top: 50px solid #7398C4;
+  border-top: 50px solid #c8d4fd;
   float: left;
   position: relative;
   top: 45px;
@@ -51,12 +53,14 @@ div.section {
 }
 
 div.section:nth-child(odd) {
-    background-color: #7398C4 ;
+    background-color: #c8d4fd ;
 }
 
 div.section:nth-child(even) {
-    background-color: #CFB87C;
+    background-color: #dee2f5;
 }
+
+/*change the color here*/
 
 div.section h2 {
     font-weight: bold;
